@@ -1,0 +1,2 @@
+let btnUpload = getElementById(uploadbtn);
+
