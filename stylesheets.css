@@ -3,18 +3,28 @@
     text-align: center;
 }
 
-#sketches {
+.masonry {
     display:flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: flex-start;
+    flex-flow: row wrap;
+    width: 100%;
 }
 
-#sketches img {
-    flex-shrink: 1;
-    flex-basis: auto;
-    width: 25%;
-    height: 25%;
-    padding: 10px;
+span {
+    align-content: center;
+}
+
+.brick img {
+    flex: auto;
+    height: 400px;
+    padding: 5px;
+}
+
+.brick p {
+    font-family: 'Poiret One';
+    word-wrap: normal;
+    padding: 5px;
+    background: gainsboro;
+    flex: auto;
+    width: 250px;
+    text-align: left;
 }
