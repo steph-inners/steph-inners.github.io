@@ -1,6 +1,15 @@
-#intro {
+h1, h2, h3, h4 {
     font-family: 'Poiret One', cursive;
     text-align: center;
+}
+
+h1 {
+    font-size: 40pt;
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 22pt;
 }
 
 .masonry {

@@ -1,1 +1,0 @@
-const blockie = getElementById("blockie");
