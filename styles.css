@@ -57,6 +57,7 @@ h2 {
     
     display: flex;
     flex-direction: row;
+    height: 300px;
 }
 
 .imgblock {
@@ -67,6 +68,7 @@ h2 {
     background-color: blue;
     width: 40%;
     margin: auto;
+    height: 300px;
 }
 
 .textblock {
@@ -86,8 +88,10 @@ h2 {
 }
 
 .imgblock img {
-    height: 150px;
+    max-height: 100%;
+    max-width: 100%;
     width: auto;
+    object-fit: contain;
 }
 
 #1stblock {
