@@ -1,7 +1,16 @@
 {
-"name": "46makun",
-"version": "1.0.0",
-"private": true,
-"description": "This is a blog for things.",
-"author": "sdi-46m"
+  "name": "46makun",
+  "version": "1.0.0",
+  "private": true,
+  "description": "This is a blog for things.",
+  "author": "sdi-46m",
+  "dependencies": {
+    "metalsmith": "^2.3.0",
+    "metalsmith-markdown": "^1.3.0"
+  },
+  "main": "build.js",
+  "scripts": {
+    "prestart": "npm install",
+    "start": "node ."
+  }
 }
