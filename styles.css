@@ -1,39 +1,104 @@
-h1, h2, h3, h4 {
-    font-family: 'Poiret One', cursive;
-    text-align: center;
+/* Grabbed from https://www.w3schools.com/howto/howto_js_topnav.asp
+
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #AED882;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: right;
+  color: #1E4C29;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+    font-family: 'Lato', bold;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+
+/* From Rach's design: */
+
+p {
+    font-family: 'Lato';
+    font-size: 25px;
 }
 
 h1 {
-    font-size: 40pt;
-    font-weight: bold;
+    font-family: 'Merriweather', bold;
+    font-size: 48px;
 }
 
-h3 {
-    font-size: 22pt;
+h2 {
+    font-family: 'Merriweather';
 }
 
-.masonry {
-    display:flex;
-    flex-flow: row wrap;
-    width: 100%;
+.maincontent {
+    padding-left: 5%;
+    padding-right: 5%;
 }
 
-span {
-    align-content: center;
+.fullblock {
+    padding-top: 3%;
+    padding-bottom: 3%;
+    
+    display: flex;
+    flex-direction: row;
 }
 
-.brick img {
-    flex: auto;
-    height: 400px;
-    padding: 5px;
+.imgblock {
+    display: inline-flex;
+    justify-content: center;
+    flex-shrink: 5;
+    
+    background-color: blue;
+    width: 40%;
+    margin: auto;
 }
 
-.brick p {
-    font-family: 'Poiret One';
-    word-wrap: normal;
-    padding: 5px;
-    background: gainsboro;
-    flex: auto;
-    width: 250px;
-    text-align: left;
+.textblock {
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-content: flex-start;
+    
+    align-items: center;
+    width: 50%;
+    height: auto;
+    background-color: lightgray;
+    padding-right: 5%;
+    margin: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.imgblock img {
+    height: 150px;
+    width: auto;
+}
+
+#1stblock {
+    background-color: antiquewhite;
+}
+
+#2ndblock {
+    background-color: azure;
+}
+
+#3rdblock {
+    display: inline-block;
+    background-color: antiquewhite;
 }
