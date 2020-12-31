@@ -33,18 +33,18 @@
 /* From Rach's design: */
 
 p {
-    font-family: 'Lato';
-    font-size: 25px;
-    line-height: 32px;
+    font-family: 'work-sans';
+    font-size: 16px;
 }
 
 h1 {
-    font-family: 'Merriweather', bold;
-    font-size: 48px;
+    font-family: 'playfair-display', bold;
+    font-size: 62px;
 }
 
 h2 {
-    font-family: 'Merriweather';
+    font-family: 'playfair-display';
+    font-size: 38px;
 }
 
 .maincontent {
