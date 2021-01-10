@@ -59,6 +59,10 @@ a {
     text-decoration-line: underline;
 }
 
+body {
+    background-color: #030730;
+}
+
 #header {
     padding-left: 5%;
 }
@@ -69,6 +73,7 @@ a {
     flex-direction: column;
     align-content: space-around;
     justify-content: space-around;
+    background-color: #ffffff;
 }
 
 .lightblock {
@@ -152,10 +157,16 @@ button {
     line-height: 32px;
 }
 
+div.footer {
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
 .footer {
     font-family: Work-Sans;
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
     line-height: 52px;
+    background-color: #ffffff;
 }
