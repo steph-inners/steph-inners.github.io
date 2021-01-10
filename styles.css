@@ -72,8 +72,7 @@ a {
 }
 
 .lightblock {
-    max-height: 500px;
-
+    
     padding-top: 3px;
     padding-bottom: 3px;
     padding-left: 5%;
@@ -86,7 +85,6 @@ a {
 }
 
 .darkblock {
-    max-height: 500px;
     
     padding-top: 3px;
     padding-bottom: 3px;
@@ -104,6 +102,8 @@ a {
 }
 
 .imgblock {
+    max-height: 500px;
+
     display: inline-flex;
     justify-content: center;
     flex-shrink: 5;
@@ -114,6 +114,9 @@ a {
 }
 
 .textblock {
+
+    max-height: 500px;
+    
     display: inline-flex;
     flex-direction: column;
     justify-content: flex-start;
