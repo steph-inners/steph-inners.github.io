@@ -24,10 +24,10 @@
 }
 
 /* Add a color to the active/current link */
-.topnav a.active {
-  background-color: #FDD259;
-  color: white;
-}
+    .topnav a.active {
+        /*background-color: #FDD259;*/
+        font-weight: bold;
+    }
 
 
 /* From Rach's design: */
@@ -167,6 +167,6 @@ div.footer {
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
-    line-height: 52px;
+    line-height: 22px;
     background-color: #ffffff;
 }
