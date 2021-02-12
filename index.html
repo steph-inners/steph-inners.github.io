@@ -22,9 +22,12 @@
         <div id="aboutblock" class="lightblock">
             <span class="textblock">
                 <h2>About me</h2>
-                <p>I'm an IT nerd who has fun with what I do! So far, "what I do" has involved: project management/business analysis, SQL databases, a smidge of web dev/hosting, heaps of "content management" (ECM and CMS), and a dash of .NET (C#, ASP, WPF).</p>
-                <p><a href="https://twitter.com/steph_inners" target="blank">@steph_inners</a></p>
-                <button name="contactMe" onclick="location.href = 'mailto:stephanie.inners@outlook.com';">Email Me</button>
+                <p>I'm an IT nerd who has fun with what I do! So far, "what I do" has involved:
+                project management/business analysis, SQL databases, a smidge of web dev/hosting,
+                heaps of "content management" (ECM and CMS), and a dash of .NET (C#, ASP, WPF).</p>
+                <div>
+                    <button name="twitter" onclick="location.href = 'https://twitter.com/steph_inners';">@steph_inners</button>
+                </div>
             </span>
             <span class="imgblock">
                 <img src="images/about.jpeg">
@@ -38,18 +41,21 @@
                 <h2 class="whitetext">Personal projects</h2>
                 <p class="whitetext">
                     I use GitHub to tinker with software/web development, and to share the resources that I build for Japanese learners like me.
-                </p> 
+                </p>
+                <div>
+                    <button name="github" onclick="location.href = 'https://github.com/sdi-46';">My GitHub Profile</button>
+                    <br/>
+                    <br/>
+                </div>
                 <p>My favorite GitHub projects:</p>
                 <ul><li><a href="https://github.com/WordPress/WordPress">WordPress</a></li>
                 <li><a href="https://github.com/HabitRPG/habitica">Habitica</a></li><li><a href="https://github.com/ankitects/anki">Anki</a></li></ul>
-                <button name="github" onclick="location.href = 'https://github.com/sdi-46';">GitHub Profile</button>
             </span>
         </div>
         <div id="blogblock" class="lightblock">
             <span class="textblock">
                 <h2>The blog</h2>
-                <p>I've been offloading thoughts onto some version of a WordPress site for over 10 years.
-                Click the button below to read my blog's most recent incarnation (of many incarnations). Favorite topics include:
+                <p>I've been offloading thoughts onto some iteration of a WordPress site for over 10 years. Favorite topics include:
                 technology, art, philosophy, ethics, and learning.</p>
                 <button name="blog" onclick="location.href = 'http://stephinners.wordpress.com';">Read on WordPress</button>
             </span>
@@ -64,7 +70,10 @@
             <span class="textblock">
                 <h2 class="whitetext">Professional work</h2>
                 <p class="whitetext">For a copy of my resume, send me an email or message me on LinkedIn.</p>
-                <button name="contactMe" onclick="location.href = 'https://www.linkedin.com/in/stephinners';">See my LinkedIn</button>
+                <div class="buttons">
+                    <button name="contactMe" onclick="location.href = 'https://www.linkedin.com/in/stephinners';">See my LinkedIn</button>
+                    <button name="contactMe" onclick="location.href = 'mailto:stephanie.inners@outlook.com';">Email Me</button>
+                </div>
             </span>
         </div>
     </div>

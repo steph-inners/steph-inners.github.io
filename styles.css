@@ -102,8 +102,8 @@ body {
     background-color: #030730;
 }
 
-.whitetext {
-    color: #ffffff;
+/*.whitetext {
+    color: #ffffff;*/
 }
 
 .imgblock {
@@ -137,6 +137,35 @@ body {
     margin-bottom: auto;
 }
 
+div.darkblock p {
+    color: #ffffff;
+}
+
+div.darkblock h2 {
+    color: #ffffff;
+}
+
+div.darkblock a {
+    color: #ffffff;
+}
+
+div.darkblock ul {
+    color: #ffffff;
+}
+
+div.lightblock a {
+    color: black;
+}
+
+.buttons {
+    display: inline-flex;
+    flex-direction: row;
+}
+
+div.buttons button {
+    margin: 5px;
+}
+
 .imgblock img {
     max-width: 100%;
     max-height: 500px;
@@ -155,6 +184,10 @@ button {
     font-weight: normal;
     font-size: 25px;
     line-height: 32px;
+}
+
+ul {
+    margin: 0px;
 }
 
 div.footer {
