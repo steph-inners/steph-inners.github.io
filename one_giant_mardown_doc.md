@@ -1,8 +1,14 @@
 # Hi, I’m Steph
 and this is my one giant Markdown brain-dump document.
 
-## Contact info
+## Contact info {#contact}
 Email: [inners.stephanie@gmail.com](mailto:inners.stephanie@gmail.com)
+
+## Resume {#resume}
+*Skills & technologies*
+- SQL
+- C#
+- 
 
 ## Perspectives (thoughts & writing) {#perspectives}
 ### Why one giant Markdown doc?
