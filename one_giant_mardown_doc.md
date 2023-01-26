@@ -8,7 +8,17 @@ Email: [inners.stephanie@gmail.com](mailto:inners.stephanie@gmail.com)
 *Skills & technologies*
 - SQL
 - C#
-- 
+
+*Some wonderful friends volunteered to describe me in 3 words each. They called me…*
+- Conscientious
+- Pragmatic
+- Friendly
+- Perspicacious
+- Dynamic
+- Adventurous
+- Loyal
+- Intuitive
+- Kind
 
 ## Perspectives (thoughts & writing) {#perspectives}
 ### Why one giant Markdown doc?
