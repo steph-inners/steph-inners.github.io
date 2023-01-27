@@ -5,11 +5,16 @@ and this is my one giant Markdown brain-dump document.
 Email: [inners.stephanie@gmail.com](mailto:inners.stephanie@gmail.com)
 
 ## Resume {#resume}
-*Skills & technologies*
-- SQL
-- C#
+### My expertise is in…
+1. Data warehousing, ETL/ELT, database administration & analytics with **SQL, PowerBI & SSMS**
+2. Software development with **C# & Visual Studio**
+3. Enterprise Content Management (ECM) & process automation with **Laserfiche, Wordpress, OCR & Regex**
+4. Project management, SDLC management, technical documentation & business analysis
 
-*Some wonderful friends volunteered to describe me in 3 words each. They called me…*
+### I’ve also built projects using…
+- SSIS, ASP.NET, Powershell, HTML, CSS, JavaScript, XML, Markdown, Wordpress, XAMPP, IIS, Apache & many more
+
+### Some wonderful friends volunteered to describe me in 3 words each. They called me…
 - Conscientious
 - Pragmatic
 - Friendly
