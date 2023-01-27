@@ -1,18 +1,19 @@
 # Hi, I’m Steph
-and this is my one giant Markdown brain-dump document.
 
 ## Contact info {#contact}
-Email: [inners.stephanie@gmail.com](mailto:inners.stephanie@gmail.com)
+Email: [Inners.Stephanie@gmail.com](mailto:inners.stephanie@gmail.com)
+GitHub: [github.com/Steph-Inners](github.com/Steph-Inners)
+LinkedIn: [LinkedIn.com/in/StephInners](LinkedIn.com/in/StephInners)
 
 ## Resume {#resume}
 ### My expertise is in…
-1. Data warehousing, ETL/ELT, database administration & analytics with **SQL, PowerBI & SSMS**
-2. Software development with **C# & Visual Studio**
-3. Enterprise Content Management (ECM) & process automation with **Laserfiche, Wordpress, OCR & Regex**
-4. Project management, SDLC management, technical documentation & business analysis
+1. Data warehousing, ETL/ELT, database administration & analytics with **T-SQL, SQL Server, PowerBI & SSMS**
+2. Process automation & custom development with **C#, git & Visual Studio**
+3. Enterprise Content Management (ECM) with **Laserfiche, Wordpress, OCR & Regex**
+4. Project management, SDLC management, requirements gathering, technical documentation & business analysis
 
 ### I’ve also built projects using…
-- SSIS, ASP.NET, Powershell, HTML, CSS, JavaScript, XML, Markdown, Wordpress, XAMPP, IIS, Apache & many more
+- SSIS, ASP.NET, MySQL, Azure, Tableau, Powershell, HTML, CSS, JavaScript, XML, Markdown, GitHub, Active Directory, Xcode, Wordpress, XAMPP, IIS, Windows Server, Apache & many more
 
 ### Some wonderful friends volunteered to describe me in 3 words each. They called me…
 - Conscientious
@@ -25,8 +26,8 @@ Email: [inners.stephanie@gmail.com](mailto:inners.stephanie@gmail.com)
 - Intuitive
 - Kind
 
-## Perspectives (thoughts & writing) {#perspectives}
-### Why one giant Markdown doc?
+## Perspectives (thoughts & things to remember for later) {#perspectives}
+### Why is your personal website one giant Markdown doc?
 **It’s lightweight and easy to update**
 
 What it says on the tin.
@@ -38,3 +39,6 @@ When everything is in one giant, ever-growing Markdown document, nothing will ev
 **Ctrl+F**
 
 Search is built into every browser. If all content is on a single page, there’s no need to install a search plugin that will show ads for the first handful of results.
+
+## Hobbies
+
