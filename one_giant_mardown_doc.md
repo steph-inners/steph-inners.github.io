@@ -40,5 +40,13 @@ When everything is in one giant, ever-growing Markdown document, nothing will ev
 
 Search is built into every browser. If all content is on a single page, there’s no need to install a search plugin that will show ads for the first handful of results.
 
-## Hobbies
-
+## Pens & Paper
+### My preferred toolset
+**[EDC](https://www.themanual.com/fashion/what-is-edc-everyday-carry-guide/)**
+- Leuchtturm Medium (A5) sketchbook
+- Pilot Vanishing Point fountain pen, broad nib
+- [Noodler’s Bulletproof Black ink](https://noodlersink.com/about-us/noodlers-durable-ink-classification/)
+ 
+**[Urban sketching](https://thesketch.co/what-is-urban-sketching/)
+- [Etchr Field Case](https://etchrlab.com/products/etchr-field-case)
+- 
