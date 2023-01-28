@@ -46,6 +46,7 @@ Search is built into every browser. If all content is on a single page, there’
 - Leuchtturm Medium (A5) sketchbook
 - Pilot Vanishing Point fountain pen, broad nib
 - [Noodler’s Bulletproof Black ink](https://noodlersink.com/about-us/noodlers-durable-ink-classification/)
+- Taroko Design A5 writing board
  
 **[Urban sketching](https://thesketch.co/what-is-urban-sketching/)
 - [Etchr Field Case](https://etchrlab.com/products/etchr-field-case)
