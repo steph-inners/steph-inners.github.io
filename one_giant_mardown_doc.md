@@ -48,8 +48,22 @@ Search is built into every browser. If all content is on a single page, there’
 - [Noodler’s Bulletproof Black ink](https://noodlersink.com/about-us/noodlers-durable-ink-classification/)
 - Taroko Design A5 writing board
  
-**[Urban sketching](https://thesketch.co/what-is-urban-sketching/)
-- [Etchr Field Case](https://etchrlab.com/products/etchr-field-case)**
+**[Urban sketching](https://thesketch.co/what-is-urban-sketching/)**
+- [Etchr Field Case](https://etchrlab.com/products/etchr-field-case)
+- Copic Sketch alcohol-based markers
+     - RV10
+     - R29
+     - YR31
+     - Y38
+     - YG17
+     - G28
+     - B41
+     - B45
+     - B66
+     - V09
+     - N1
+     - E00
+     - E34  
 
 ## Life
 ### Recipes I make when my parents are over for dinner
