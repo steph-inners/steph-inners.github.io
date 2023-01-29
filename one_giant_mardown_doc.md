@@ -49,5 +49,11 @@ Search is built into every browser. If all content is on a single page, there’
 - Taroko Design A5 writing board
  
 **[Urban sketching](https://thesketch.co/what-is-urban-sketching/)
-- [Etchr Field Case](https://etchrlab.com/products/etchr-field-case)
-- 
+- [Etchr Field Case](https://etchrlab.com/products/etchr-field-case)**
+
+## Life
+### Recipes I make when my parents are over for dinner
+These recipes serve (at least) 4 people and still taste good with onions, garlic, and mushrooms removed (allergies are a bummer). I get garlic-free and onion-free stocks, sauces and dressings from [Fody Foods](https://www.fodyfoods.com/)
+
+- Chicken saltimbocca; from Trisha’s Table; by Trisha Yearwood; pg 108
+- Fettuccine Alfredo with Salmon and asparagus; from The Joy of Cooking; by Irma S Rombauer, Marion Rombauer Becker, and Ethan Becker; pg 327
