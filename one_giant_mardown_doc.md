@@ -7,9 +7,9 @@ LinkedIn: [LinkedIn.com/in/StephInners](LinkedIn.com/in/StephInners)
 
 ## Resume {#resume}
 ### My expertise is in…
-1. Data warehousing, ETL/ELT, database administration & analytics with **T-SQL, SQL Server, PowerBI & SSMS**
-2. Process automation & custom development with **C#, git & Visual Studio**
-3. Enterprise Content Management (ECM) with **Laserfiche, Wordpress, OCR & Regex**
+1. Data warehousing, data engineering, custom integrations, ETL/ELT, database administration & analytics with **T-SQL, SQL Server, PowerBI & SSMS**
+2. Process automation & .NET software development with **C#, git & Visual Studio**
+3. Enterprise Content Management (ECM) & document management with **Laserfiche, Wordpress, OCR & Regex**
 4. Project management, SDLC management, requirements gathering, technical documentation & business analysis
 
 ### I’ve also built projects using…
@@ -50,6 +50,7 @@ Search is built into every browser. If all content is on a single page, there’
  
 **[Urban sketching](https://thesketch.co/what-is-urban-sketching/)**
 - [Etchr Field Case](https://etchrlab.com/products/etchr-field-case)
+- Blick artist glove
 - Copic Sketch alcohol-based markers
      - RV10
      - R29
