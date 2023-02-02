@@ -41,7 +41,7 @@ LinkedIn: [LinkedIn.com/in/StephInners](LinkedIn.com/in/StephInners)
 - Pilot Vanishing Point fountain pen, fine nib with Pilot Iroshizuku Takesumi (bamboo charcoal) black ink
 - Taroko Design A5 writing board
  
-**[Urban sketching](https://thesketch.co/what-is-urban-sketching/)**
+**Urban sketching** ([What is urban sketching?](https://thesketch.co/what-is-urban-sketching/))
 - [Etchr Field Case](https://etchrlab.com/products/etchr-field-case)
 - Blick artist glove
 - Copic Sketch alcohol-based markers
@@ -59,12 +59,23 @@ LinkedIn: [LinkedIn.com/in/StephInners](LinkedIn.com/in/StephInners)
      - E00
      - E34  
 
+### Which line-art tools can be used under Copics without smearing?
+When you’re planning to color your piece in Copics or other alcohol markers, your line tool must be alcohol-resistant. Alcohol-based inks (e.g. Sakura Pigma, Speedball pigmented acrylic) and most inks designed to be water-resistant will smear.
+
+Some Copic-safe options include…
+1. Copic Gasenfude brush pen
+2. Water-based Tombow ABT brush markers
+3. Pilot Iroshizuku Takesumi black ink (safe for fountain pens)
+4. [Noodler’s Bulletproof Black ink](https://noodlersink.com/about-us/noodlers-durable-ink-classification/) (safe for fountain pens)
+5. Yasutomo Black Sumi ink (and, presumably, other similar soot-based sumi inks)
+
 ### Online resources for artists
 - [A guide to scanning photos](https://imagerestorationcenter.com/best-format-to-scan-photos/)
 
 ## Code
 ### Online resources for coders
-- [Markdown All in One VS plugin for writing easier Markdown](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one#table-of-contents)
+- [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one#table-of-contents) VS plugin for writing easier Markdown
+- [Working Copy](https://apps.apple.com/app/id896694807) mobile app for working on git-hosted projects from iPhone and iPad
 
 ## Japanese language
 ### My favorite study tools
