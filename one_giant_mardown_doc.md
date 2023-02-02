@@ -40,12 +40,12 @@ When everything is in one giant, ever-growing Markdown document, nothing will ev
 
 Search is built into every browser. If all content is on a single page, there’s no need to install a search plugin that will show ads for the first handful of results.
 
-## Pens & Paper
+## Art
 ### My preferred toolset
 **[EDC](https://www.themanual.com/fashion/what-is-edc-everyday-carry-guide/)**
 - Leuchtturm Medium (A5) sketchbook
-- Pilot Vanishing Point fountain pen, broad nib
-- [Noodler’s Bulletproof Black ink](https://noodlersink.com/about-us/noodlers-durable-ink-classification/)
+- Pilot Vanishing Point fountain pen, broad nib with [Noodler’s Bulletproof Black ink](https://noodlersink.com/about-us/noodlers-durable-ink-classification/)
+- Pilot Vanishing Point fountain pen, fine nib with Pilot Iroshizuku Takesumi (bamboo charcoal) black ink
 - Taroko Design A5 writing board
  
 **[Urban sketching](https://thesketch.co/what-is-urban-sketching/)**
@@ -65,6 +65,9 @@ Search is built into every browser. If all content is on a single page, there’
      - N1
      - E00
      - E34  
+
+### Online resources
+- (A guide to scanning photos)[https://imagerestorationcenter.com/best-format-to-scan-photos/]
 
 ## Life
 ### Recipes I make when my parents are over for dinner
