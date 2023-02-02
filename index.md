@@ -1,6 +1,6 @@
 # Hi, I’m Steph
 
-## Contact info {#contact}
+## Contact info
 Email: [Inners.Stephanie@gmail.com](mailto:inners.stephanie@gmail.com)
 GitHub: [github.com/Steph-Inners](github.com/Steph-Inners)
 LinkedIn: [LinkedIn.com/in/StephInners](LinkedIn.com/in/StephInners)
@@ -12,7 +12,7 @@ LinkedIn: [LinkedIn.com/in/StephInners](LinkedIn.com/in/StephInners)
 4. [Japanese language](#Japanese-language)
 5. [Miscellany](#miscellany)
 
-## Resume {#resume}
+## Resume
 ### My expertise is in…
 1. Data warehousing, data engineering, custom integrations, ETL/ELT, database administration & analytics with **T-SQL, SQL Server, PowerBI & SSMS**
 2. Process automation & .NET software development with **C#, git & Visual Studio**
@@ -33,7 +33,7 @@ LinkedIn: [LinkedIn.com/in/StephInners](LinkedIn.com/in/StephInners)
 - Intuitive
 - Kind
 
-## Art {#art}
+## Art
 ### My preferred toolset
 **[EDC](https://www.themanual.com/fashion/what-is-edc-everyday-carry-guide/)**
 - Leuchtturm Medium (A5) sketchbook
