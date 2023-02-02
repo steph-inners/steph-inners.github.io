@@ -1,4 +1,4 @@
-# Hi, I’m Steph
+# Hi, I’m Steph :)
 
 ## Contact info
 Email: [Inners.Stephanie@gmail.com](mailto:inners.stephanie@gmail.com)
