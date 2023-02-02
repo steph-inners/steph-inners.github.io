@@ -69,6 +69,16 @@ Search is built into every browser. If all content is on a single page, there’
 ### Online resources
 - (A guide to scanning photos)[https://imagerestorationcenter.com/best-format-to-scan-photos/]
 
+## Japanese language
+### My favorite study tools
+- Anki spaced repetition flashcards
+- (Anki mobile app)[https://apps.apple.com/app/id373493387]
+- (Shirabe Jisho iPhone dictionary app)[https://apps.apple.com/app/id1005203380]
+
+### My custom Anki decks for Intermediate learners
+- (Doraemon vol. 1)[https://github.com/steph-inners/AnkiDoraemonVol1]
+- (Wonder Egg Priority)[https://github.com/steph-inners/WonderEggPriority]
+
 ## Life
 ### Recipes I make when my parents are over for dinner
 These recipes serve (at least) 4 people and still taste good with onions, garlic, and mushrooms removed (allergies are a bummer). I get garlic-free and onion-free stocks, sauces and dressings from [Fody Foods](https://www.fodyfoods.com/)
