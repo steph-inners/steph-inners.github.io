@@ -63,11 +63,11 @@ LinkedIn: [LinkedIn.com/in/StephInners](LinkedIn.com/in/StephInners)
 When you’re planning to color your piece in Copics or other alcohol markers, your line tool must be alcohol-resistant. Alcohol-based inks (e.g. Sakura Pigma, Speedball pigmented acrylic) and most inks designed to be water-resistant will smear.
 
 Some Copic-safe options include…
-1. Copic Gasenfude brush pen
+1. Copic Gasenfude brush pen (beware of long dry times)
 2. Water-based Tombow ABT brush markers
 3. Pilot Iroshizuku Takesumi black ink (safe for fountain pens)
-4. [Noodler’s Bulletproof Black ink](https://noodlersink.com/about-us/noodlers-durable-ink-classification/) (safe for fountain pens)
-5. Yasutomo Black Sumi ink (and, presumably, other similar soot-based sumi inks)
+4. [Noodler’s Bulletproof Black ink](https://noodlersink.com/about-us/noodlers-durable-ink-classification/) (water-resistant and safe for fountain pens)
+5. Yasutomo Black Sumi ink (and, presumably, other similar soot-based sumi inks). Quick-drying and water-resistant when dry.
 
 ### Online resources for artists
 - [A guide to scanning photos](https://imagerestorationcenter.com/best-format-to-scan-photos/)
@@ -83,7 +83,11 @@ Some Copic-safe options include…
 - [Anki mobile app](https://apps.apple.com/app/id373493387)
 - [Shirabe Jisho iPhone dictionary app](https://apps.apple.com/app/id1005203380)
 
-### My custom Anki decks for Intermediate learners
+### Resources for Intermediate learners (around JLPT N3 or so)
+
+- [Japanese Core 10k](https://ankiweb.net/shared/info/935381472) Anki deck (A truly fantastic deck with audio, visuals, example sentences, and the best card sequence I’ve ever encountered) 
+
+### My custom Anki decks
 - [Doraemon vol. 1](https://github.com/steph-inners/AnkiDoraemonVol1)
 - [Wonder Egg Priority](https://github.com/steph-inners/WonderEggPriority)
 
