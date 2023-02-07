@@ -1,11 +1,11 @@
 <style>
 	body {
 		background-color: #323633;
-		color: #b4c2b7;
+		color: #c2d1c6;
 	}
 	
 	a {
-		color: #9dbfa4;
+		color: #93c29d;
 </style>
 
 # Hi, I’m Steph :)
