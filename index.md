@@ -13,7 +13,6 @@
 ## Contact info
 Email: [Inners.Stephanie@gmail.com](mailto:inners.stephanie@gmail.com)
 GitHub: [github.com/Steph-Inners](github.com/Steph-Inners)
-LinkedIn: [LinkedIn.com/in/StephInners](LinkedIn.com/in/StephInners)
 
 ## Contents
 1. [Resume](#resume)
@@ -23,10 +22,10 @@ LinkedIn: [LinkedIn.com/in/StephInners](LinkedIn.com/in/StephInners)
 5. [Miscellany](#miscellany)
 
 ## Resume
-For a one-page copy of my resume with more specifics, email me at [Inners.Stephanie@gmail.com](mailto:inners.stephanie@gmail.com)
+For a one-page copy of my resume and LinkedIn with more specifics, email me at [Inners.Stephanie@gmail.com](mailto:inners.stephanie@gmail.com)
 
 ### My expertise is in…
-1. Data warehousing, data engineering, custom integrations, ETL/ELT, database administration & analytics with **T-SQL, SQL Server, PowerBI & SSMS**
+1. Data warehousing, data engineering, custom integrations, ETL/ELT, OLTP/OLAP, database administration & analytics with **T-SQL, SQL Server, PowerBI & SSMS**
 2. Enterprise Content Management (ECM) & document management with **Laserfiche, Wordpress, OCR & Regex**
 3. Process automation & .NET development with **C#, git & Visual Studio**
 4. Project management, SDLC management, requirements gathering,  & business analysis
@@ -40,28 +39,35 @@ For a one-page copy of my resume with more specifics, email me at [Inners.Stepha
 - SSIS, ASP.NET, MySQL, Azure, Tableau, Powershell, HTML, CSS, JavaScript, XML, Markdown, GitHub, Active Directory, Xcode, Wordpress, XAMPP, IIS, Windows Server, Apache & many more
 
 ### Professional experience
-**Database Administrator (2020-present)** at a private non-profit university
+**Database Administrator** (2020-present) at a private non-profit university
 
-**Applications Analyst II (2019-2020)** at a publicly-traded regional bank
+**Applications Analyst II** (2019-2020) at a publicly-traded regional bank
 
-**Applications Analyst I (2017-2019)** at a publicly-traded regional bank
+**Applications Analyst I** (2017-2019) at a publicly-traded regional bank
 Promoted after two years of "exceeding expectations" :)
 
-**Project Management Intern (2015-2017)** at a publicly-traded paper manufacturer
+**Project Management Intern** (2015-2017) at a publicly-traded paper manufacturer
 
 ### Education, certifications & awards
 **B.S. in Computer Information Systems** Magna Cum Laude, Writing tutor, Peer mentor
+
 **Microsoft Certified Solutions Associate (MCSA) SQL 2016 Database Development** (2019)
+
 **Microsoft Certified: Azure Data Fundamentals** (2022)
+
 **Laserfiche Financial Services Trailblazer Award** (2021)
+
 **Laserfiche Run Smarter Award** (2020)
 
-### Friends describe me as…
+### Friends & colleagues describe me as…
 - "Conscientious"
 - "Pragmatic"
+- "Articulate"
 - "Friendly"
+- "Hard-working"
 - "Perspicacious"
 - "Dynamic"
+- "Bright"
 - "Adventurous"
 - "Loyal"
 - "Intuitive"
