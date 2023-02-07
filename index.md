@@ -74,6 +74,11 @@ Promoted after two years of "exceeding expectations" :)
 - "Kind"
 
 ## Art
+### Recent works
+**Blue Irises**
+Sumi ink and alcohol marker on Bristol board
+
+
 ### My preferred toolset
 **[EDC](https://www.themanual.com/fashion/what-is-edc-everyday-carry-guide/)**
 - Leuchtturm Medium (A5) sketchbook
@@ -116,6 +121,7 @@ Some Copic-safe options include…
 ### Online resources for coders
 - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one#table-of-contents) VS plugin for writing easier Markdown
 - [Working Copy](https://apps.apple.com/app/id896694807) mobile app for working on git-hosted projects from iPhone and iPad
+- [Visual design rules](https://anthonyhobday.com/sideprojects/saferules/) cheat sheet for non-designers
 
 ## Japanese language
 ### My favorite study tools
@@ -138,10 +144,15 @@ These recipes serve (at least) 4 people and still taste good with onions, garlic
 - Chicken saltimbocca; from Trisha’s Table; by Trisha Yearwood; pg 108
 - Fettuccine Alfredo with Salmon and asparagus; from The Joy of Cooking; by Irma S Rombauer, Marion Rombauer Becker, and Ethan Becker; pg 327
 
-### Why is your personal website one giant Markdown doc?
+### Why is your personal website just one big Markdown doc?
 **It’s lightweight and easy to update**
 
-What it says on the tin.
+What it says on the tin. Unnecessarily bloated websites are exhausting to maintain *and view*.
+
+**It’s free**
+This site is hosted on [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages), which natively supports Markdown (.md) files with readable styling out of the box. I highly recommend it for a no-frills content delivery platform, especially if you’re familiar with or want to learn git.
+
+For a free service with more frills (functionality), I recommend [Wordpress.com](wordpress.com). Wordpress is likely better for typical blogging or online portfolio needs.
 
 **It’s a perfectionism blocker**
 
