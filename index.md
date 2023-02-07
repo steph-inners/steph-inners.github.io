@@ -150,6 +150,7 @@ These recipes serve (at least) 4 people and still taste good with onions, garlic
 What it says on the tin. Unnecessarily bloated websites are exhausting to maintain *and view*.
 
 **It’s free**
+
 This site is hosted on [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages), which natively supports Markdown (.md) files with readable styling out of the box. I highly recommend it for a no-frills content delivery platform, especially if you’re familiar with or want to learn git.
 
 For a free service with more frills (functionality), I recommend [Wordpress.com](wordpress.com). Wordpress is likely better for typical blogging or online portfolio needs.
