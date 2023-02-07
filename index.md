@@ -1,3 +1,13 @@
+<style>
+	body {
+		background-color: #323633;
+		color: #b4c2b7;
+	}
+	
+	a {
+		color: #9dbfa4;
+</style>
+
 # Hi, I’m Steph :)
 
 ## Contact info
@@ -15,23 +25,23 @@ LinkedIn: [LinkedIn.com/in/StephInners](LinkedIn.com/in/StephInners)
 ## Resume
 ### My expertise is in…
 1. Data warehousing, data engineering, custom integrations, ETL/ELT, database administration & analytics with **T-SQL, SQL Server, PowerBI & SSMS**
-2. Process automation & .NET software development with **C#, git & Visual Studio**
-3. Enterprise Content Management (ECM) & document management with **Laserfiche, Wordpress, OCR & Regex**
+2. Enterprise Content Management (ECM) & document management with **Laserfiche, Wordpress, OCR & Regex**
+3. Process automation & .NET development with **C#, git & Visual Studio**
 4. Project management, SDLC management, requirements gathering, technical documentation & business analysis
 
 ### I’ve also built projects using…
 - SSIS, ASP.NET, MySQL, Azure, Tableau, Powershell, HTML, CSS, JavaScript, XML, Markdown, GitHub, Active Directory, Xcode, Wordpress, XAMPP, IIS, Windows Server, Apache & many more
 
-### Some wonderful friends volunteered to describe me in 3 words each. They called me…
-- Conscientious
-- Pragmatic
-- Friendly
-- Perspicacious
-- Dynamic
-- Adventurous
-- Loyal
-- Intuitive
-- Kind
+### Friends describe me as…
+- "Conscientious"
+- "Pragmatic"
+- "Friendly"
+- "Perspicacious"
+- "Dynamic"
+- "Adventurous"
+- "Loyal"
+- "Intuitive"
+- "Kind"
 
 ## Art
 ### My preferred toolset
