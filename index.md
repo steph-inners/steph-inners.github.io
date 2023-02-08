@@ -138,6 +138,16 @@ Some Copic-safe options include…
 - [Wonder Egg Priority](https://github.com/steph-inners/WonderEggPriority)
 
 ## Miscellany
+### Day hike itinerary
+A printable PDF I created for day hikes. I always make 3 copies:
+- 1 copy to leave with an emergency contact
+- 1 copy to leave (folded) in the car at the trailhead for park authorities
+- 1 copy to take on the trail to stay on schedule and on route
+
+It also helps with planning. Please use it, and be safe out there :)
+
+[Download blank itinerary](/Day hike itinerary.pdf)
+
 ### Recipes I make when my parents are over for dinner
 These recipes serve (at least) 4 people and still taste good with onions, garlic, and mushrooms removed (allergies are a bummer). I get garlic-free and onion-free stocks, sauces and dressings from [Fody Foods](https://www.fodyfoods.com/)
 
