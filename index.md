@@ -44,20 +44,16 @@ For a one-page copy of my resume and LinkedIn with more specifics, email me at [
 **Applications Analyst II** (2019-2020) at a publicly-traded regional bank
 
 **Applications Analyst I** (2017-2019) at a publicly-traded regional bank
-Promoted after two years of "exceeding expectations" :)
+- Promoted after two years of "exceeding expectations" :)
 
 **Project Management Intern** (2015-2017) at a publicly-traded paper manufacturer
 
 ### Education, certifications & awards
-**B.S. in Computer Information Systems** Magna Cum Laude, Writing tutor, Peer mentor
-
-**Microsoft Certified Solutions Associate (MCSA) SQL 2016 Database Development** (2019)
-
-**Microsoft Certified: Azure Data Fundamentals** (2022)
-
-**Laserfiche Financial Services Trailblazer Award** (2021)
-
-**Laserfiche Run Smarter Award** (2020)
+- **B.S. in Computer Information Systems** Magna Cum Laude, Writing tutor, Peer mentor
+- **Microsoft Certified Solutions Associate (MCSA) SQL 2016 Database Development** (2019)
+- **Microsoft Certified: Azure Data Fundamentals** (2022)
+- **Laserfiche Financial Services Trailblazer Award** (2021)
+- **Laserfiche Run Smarter Award** (2020)
 
 ### Friends & colleagues describe me as…
 - "Conscientious"
