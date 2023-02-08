@@ -79,7 +79,7 @@ For a one-page copy of my resume and LinkedIn with more specifics, email me at [
 
 Sumi ink and alcohol marker on Bristol board
 
-![A colored illustration of two blue irises on a yellow background](/images/blu_irises_color_small_watermarked.jpg)
+<img src="/images/blu_irises_color_small_watermarked.jpg" width=50% height=50%>
 
 ### My preferred toolset
 **[EDC](https://www.themanual.com/fashion/what-is-edc-everyday-carry-guide/)**
