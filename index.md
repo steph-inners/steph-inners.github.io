@@ -8,7 +8,7 @@
 		color: #93c29d;
 	}
 	img {
-		max-width: 800px;
+		max-width: 200px;
 	}
 </style>
 
