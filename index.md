@@ -44,7 +44,7 @@ For a one-page copy of my resume and LinkedIn with more specifics, email me at [
 **Applications Analyst II** (2019-2020) at a publicly-traded regional bank
 
 **Applications Analyst I** (2017-2019) at a publicly-traded regional bank
-Promoted after two years of "exceeding expectations" :)
+- Promoted after two years of "exceeding expectations" :)
 
 **Project Management Intern** (2015-2017) at a publicly-traded paper manufacturer
 
