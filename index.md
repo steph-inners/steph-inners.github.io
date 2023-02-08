@@ -7,9 +7,6 @@
 	a {
 		color: #93c29d;
 	}
-	img {
-		max-width: 200px;
-	}
 </style>
 
 # Hi, I’m Steph :)
@@ -79,7 +76,7 @@ For a one-page copy of my resume and LinkedIn with more specifics, email me at [
 
 Sumi ink and alcohol marker on Bristol board
 
-<img src="https://github.com/steph-inners/steph-inners.github.io/blob/master/images/blu_irises_color_small_watermarked.jpg" width=30%>
+<img src="https://github.com/steph-inners/steph-inners.github.io/blob/master/images/blu_irises_color_small_watermarked.jpg" width="30%">
 
 ### My preferred toolset
 **[EDC](https://www.themanual.com/fashion/what-is-edc-everyday-carry-guide/)**
