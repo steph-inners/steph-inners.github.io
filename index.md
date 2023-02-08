@@ -6,6 +6,10 @@
 	
 	a {
 		color: #93c29d;
+	}
+	img {
+		max-width: 800px;
+	}
 </style>
 
 # Hi, I’m Steph :)
@@ -72,8 +76,10 @@ For a one-page copy of my resume and LinkedIn with more specifics, email me at [
 ## Art
 ### Recent works
 **Blue Irises**
+
 Sumi ink and alcohol marker on Bristol board
 
+![A colored illustration of two blue irises on a yellow background](/images/blu_irises_color_small_watermarked.jpg)
 
 ### My preferred toolset
 **[EDC](https://www.themanual.com/fashion/what-is-edc-everyday-carry-guide/)**
