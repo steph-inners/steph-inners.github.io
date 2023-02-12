@@ -7,6 +7,12 @@
 	a {
 		color: #93c29d;
 	}
+     .art {
+          padding: 5px
+          background-color: #c2d1c6;    
+          text-align: center;
+          width: 30%;
+     }
 </style>
 
 # Hi, I’m Steph :)
@@ -72,17 +78,21 @@ For a one-page copy of my resume and LinkedIn with more specifics, email me at [
 
 ## Art
 ### Recent works
+<div class="art">
 **Blue irises**
 
 Sumi ink and alcohol marker on Bristol board
 
-<img src="/images/blu_irises_color_small_watermarked.jpg" width="30%">
+<img src="/images/blu_irises_color_small_watermarked.jpg">
+</div>
 
+<div class="art">
 **Totoro wreath**
 
 Acrylic ink on Kent paper
 
-<img src="/images/totoro_wreath.jpeg" width="30%">
+<img src="/images/totoro_wreath.jpeg">
+</div>
 
 ### My preferred toolset
 **[EDC](https://www.themanual.com/fashion/what-is-edc-everyday-carry-guide/)**
