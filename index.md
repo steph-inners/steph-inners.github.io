@@ -12,7 +12,13 @@
           background-color: #c2d1c6;    
           text-align: center;
           width: 30%;
-          display: inline-block;
+     }
+     .gallery {
+          padding: 5px
+          background-color: #c2d1c6;    
+          text-align: center;
+          width: 30%;
+          display: flex;
      }
 </style>
 
@@ -80,21 +86,17 @@ For a one-page copy of my resume and LinkedIn with more specifics, email me at [
 ## Art
 ### Recent works
 
-<span>
-<b>Blue irises</b>
+**Blue irises**
 
 Sumi ink and alcohol marker on Bristol board
 
-<img src="/images/blu_irises_color_small_watermarked.jpg" width="30%">
-</span>
+<img src="/images/blu_irises_color_small_watermarked.jpg" width="30%"/>
 
-<span>
-<b>Totoro wreath</b>
+**Totoro wreath**
 
 Acrylic ink on Kent paper
 
 <img src="/images/totoro_wreath.jpeg" width="30%">
-</span>
 
 ### My preferred toolset
 **[EDC](https://www.themanual.com/fashion/what-is-edc-everyday-carry-guide/)**
