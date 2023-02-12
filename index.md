@@ -12,6 +12,7 @@
           background-color: #c2d1c6;    
           text-align: center;
           width: 30%;
+          display: inline-block;
      }
 </style>
 
@@ -78,20 +79,21 @@ For a one-page copy of my resume and LinkedIn with more specifics, email me at [
 
 ## Art
 ### Recent works
-<span class="art">
-**Blue irises**
+
+<span>
+<b>Blue irises</b>
 
 Sumi ink and alcohol marker on Bristol board
 
-<img src="/images/blu_irises_color_small_watermarked.jpg">
+<img src="/images/blu_irises_color_small_watermarked.jpg" width="30%">
 </span>
 
-<span class="art">
-**Totoro wreath**
+<span>
+<b>Totoro wreath</b>
 
 Acrylic ink on Kent paper
 
-<img src="/images/totoro_wreath.jpeg">
+<img src="/images/totoro_wreath.jpeg" width="30%">
 </span>
 
 ### My preferred toolset
