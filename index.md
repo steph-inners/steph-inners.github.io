@@ -78,21 +78,21 @@ For a one-page copy of my resume and LinkedIn with more specifics, email me at [
 
 ## Art
 ### Recent works
-<div class="art">
+<span class="art">
 **Blue irises**
 
 Sumi ink and alcohol marker on Bristol board
 
 <img src="/images/blu_irises_color_small_watermarked.jpg">
-</div>
+</span>
 
-<div class="art">
+<span class="art">
 **Totoro wreath**
 
 Acrylic ink on Kent paper
 
 <img src="/images/totoro_wreath.jpeg">
-</div>
+</span>
 
 ### My preferred toolset
 **[EDC](https://www.themanual.com/fashion/what-is-edc-everyday-carry-guide/)**
