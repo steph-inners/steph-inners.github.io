@@ -26,7 +26,8 @@
 
 ## Contact info
 Email: [Inners.Stephanie@gmail.com](mailto:inners.stephanie@gmail.com)
-GitHub: [github.com/Steph-Inners](github.com/Steph-Inners)
+GitHub: [github.com/Steph-Inners](https://github.com/steph-inners))
+Instagram: [@steph_inks](https://www.instagram.com/steph_inks/)
 
 ## Contents
 1. [Resume](#resume)
@@ -84,19 +85,7 @@ For a one-page copy of my resume and LinkedIn with more specifics, email me at [
 - "Kind"
 
 ## Art
-### Recent works
-
-**Blue irises**
-
-Sumi ink and alcohol marker on Bristol board
-
-<img src="/images/blu_irises_color_small_watermarked.jpg" width="30%"/>
-
-**Totoro wreath**
-
-Acrylic ink on Kent paper
-
-<img src="/images/totoro_wreath.jpeg" width="30%">
+See my artwork on Instagram: [@steph_inks](https://www.instagram.com/steph_inks/)
 
 ### My preferred toolset
 **[EDC](https://www.themanual.com/fashion/what-is-edc-everyday-carry-guide/)**
