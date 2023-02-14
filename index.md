@@ -131,6 +131,9 @@ Some Copic-safe options include…
 - [Working Copy](https://apps.apple.com/app/id896694807) mobile app for working on git-hosted projects from iPhone and iPad
 - [Visual design rules](https://anthonyhobday.com/sideprojects/saferules/) cheat sheet for non-designers
 
+### Fun stuff to read
+- [Normalization of Deviance](https://danluu.com/wat/)
+
 ## Japanese language
 ### My favorite study tools
 - Anki spaced repetition flashcards
