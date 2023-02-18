@@ -124,6 +124,8 @@ Some Copic-safe options include…
 
 ### Online resources for artists
 - [A guide to scanning photos](https://imagerestorationcenter.com/best-format-to-scan-photos/)
+- [A 70-color skin tone pack for Procreate](https://icy-need.glitch.me/)
+- [A set of good sketching brushes for Procreate](https://jingsketch.gumroad.com/l/JingsketchBrushes)
 
 ## Code
 ### Online resources for coders
