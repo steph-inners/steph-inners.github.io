@@ -128,6 +128,10 @@ Some Copic-safe options include…
 - [A 70-color skin tone pack for Procreate](https://icy-need.glitch.me/)
 - [A set of good sketching brushes for Procreate](https://jingsketch.gumroad.com/l/JingsketchBrushes)
 
+### My favorite art supply sites
+- [Jetpens](jetpens.com). Best for notebooks, fountain pens & inks. Has great guides, tutorials, and comparisons for writing supplies
+- [Blick](dickblick.com)
+
 # Code
 ## How Records Retention works
 I spent a few years of my professional life developing workflows and custom code to support regulatory Records Retention (RR) efforts within a document management/content management system which I administered for a private financial institution. Here's an introduction to some of the basic concepts of RR.
@@ -190,6 +194,7 @@ A good RR tool allows you to define Document Types, Retention Triggers, and Rete
 - Anki spaced repetition flashcards
 - [Anki mobile app](https://apps.apple.com/app/id373493387)
 - [Shirabe Jisho iPhone dictionary app](https://apps.apple.com/app/id1005203380)
+- [HelloTalk](https://apps.apple.com/app/id557130558) language exchange social app
 
 ### Resources for Intermediate learners (around JLPT N3 or so)
 
