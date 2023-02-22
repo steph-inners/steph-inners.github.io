@@ -6,13 +6,28 @@
 	
 	a {
 		color: #93c29d;
+	}
+     .art {
+          padding: 5px
+          background-color: #c2d1c6;    
+          text-align: center;
+          width: 30%;
+     }
+     .gallery {
+          padding: 5px
+          background-color: #c2d1c6;    
+          text-align: center;
+          width: 30%;
+          display: flex;
+     }
 </style>
 
 # Hi, I’m Steph :)
 
 ## Contact info
 Email: [Inners.Stephanie@gmail.com](mailto:inners.stephanie@gmail.com)
-GitHub: [github.com/Steph-Inners](github.com/Steph-Inners)
+GitHub: [github.com/Steph-Inners](https://github.com/steph-inners))
+Instagram: [@steph_inks](https://www.instagram.com/steph_inks/)
 
 ## Contents
 1. [Resume](#resume)
@@ -45,20 +60,16 @@ For a one-page copy of my resume and LinkedIn with more specifics, email me at [
 **Applications Analyst II** (2019-2020) at a publicly-traded regional bank
 
 **Applications Analyst I** (2017-2019) at a publicly-traded regional bank
-Promoted after two years of "exceeding expectations" :)
+- Promoted after two years of "exceeding expectations" :)
 
 **Project Management Intern** (2015-2017) at a publicly-traded paper manufacturer
 
 ## Education, certifications & awards
-**B.S. in Computer Information Systems** Magna Cum Laude, Writing tutor, Peer mentor
-
-**Microsoft Certified Solutions Associate (MCSA) SQL 2016 Database Development** (2019)
-
-**Microsoft Certified: Azure Data Fundamentals** (2022)
-
-**Laserfiche Financial Services Trailblazer Award** (2021)
-
-**Laserfiche Run Smarter Award** (2020)
+- **B.S. in Computer Information Systems** Magna Cum Laude, Writing tutor, Peer mentor
+- **Microsoft Certified Solutions Associate (MCSA) SQL 2016 Database Development** (2019)
+- **Microsoft Certified: Azure Data Fundamentals** (2022)
+- **Laserfiche Financial Services Trailblazer Award** (2021)
+- **Laserfiche Run Smarter Award** (2020)
 
 ### Friends & colleagues describe me as…
 - "Conscientious"
@@ -75,6 +86,8 @@ Promoted after two years of "exceeding expectations" :)
 - "Kind"
 
 # Art
+See my artwork on Instagram: [@steph_inks](https://www.instagram.com/steph_inks/)
+
 ## My preferred toolset
 ### [EDC](https://www.themanual.com/fashion/what-is-edc-everyday-carry-guide/)
 - Leuchtturm Medium (A5) sketchbook
@@ -112,6 +125,8 @@ Some Copic-safe options include…
 
 ## Online resources for artists
 - [A guide to scanning photos](https://imagerestorationcenter.com/best-format-to-scan-photos/)
+- [A 70-color skin tone pack for Procreate](https://icy-need.glitch.me/)
+- [A set of good sketching brushes for Procreate](https://jingsketch.gumroad.com/l/JingsketchBrushes)
 
 # Code
 ## How Records Retention works
@@ -165,6 +180,10 @@ A good RR tool allows you to define Document Types, Retention Triggers, and Rete
 ## Online resources for coders
 - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one#table-of-contents) VS plugin for writing easier Markdown
 - [Working Copy](https://apps.apple.com/app/id896694807) mobile app for working on git-hosted projects from iPhone and iPad
+- [Visual design rules](https://anthonyhobday.com/sideprojects/saferules/) cheat sheet for non-designers
+
+### Fun stuff to read
+- [Normalization of Deviance](https://danluu.com/wat/)
 
 # Japanese language
 ## My favorite study tools
@@ -181,16 +200,32 @@ A good RR tool allows you to define Document Types, Retention Triggers, and Rete
 - [Wonder Egg Priority](https://github.com/steph-inners/WonderEggPriority)
 
 # Miscellany
+## Day hike itinerary
+A printable PDF I created for day hikes. I always make 3 copies:
+- 1 copy to leave with an emergency contact
+- 1 copy to leave (folded) in the car at the trailhead for park authorities
+- 1 copy to take on the trail to stay on schedule and on route
+
+It also helps with planning. Please use it, and be safe out there :)
+
+[Download blank itinerary](/Day hike itinerary.pdf)
+
 ## Recipes I make when my parents are over for dinner
 These recipes serve (at least) 4 people and still taste good with onions, garlic, and mushrooms removed (allergies are a bummer). I get garlic-free and onion-free stocks, sauces and dressings from [Fody Foods](https://www.fodyfoods.com/)
 
 - Chicken saltimbocca; from Trisha’s Table; by Trisha Yearwood; pg 108
 - Fettuccine Alfredo with Salmon and asparagus; from The Joy of Cooking; by Irma S Rombauer, Marion Rombauer Becker, and Ethan Becker; pg 327
 
-## Why is your personal website one giant Markdown doc?
+## Why is your personal website just one big Markdown doc?
 **It’s lightweight and easy to update**
 
-What it says on the tin.
+What it says on the tin. Unnecessarily bloated websites are exhausting to maintain *and view*.
+
+**It’s free**
+
+This site is hosted on [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages), which natively supports Markdown (.md) files with readable styling out of the box. I highly recommend it for a no-frills content delivery platform, especially if you’re familiar with or want to learn git.
+
+For a free service with more frills (functionality), I recommend [Wordpress.com](wordpress.com). Wordpress is likely better for typical blogging or online portfolio needs.
 
 **It’s a perfectionism blocker**
 
