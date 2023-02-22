@@ -215,6 +215,11 @@ It also helps with planning. Please use it, and be safe out there :)
 
 [Download blank itinerary](/Day hike itinerary.pdf)
 
+## Media recommendations
+### Video games everyone should play at least once
+1. Disco Elysium
+2. Spiritfarer
+
 ## Recipes I make when my parents are over for dinner
 These recipes serve (at least) 4 people and still taste good with onions, garlic, and mushrooms removed (allergies are a bummer). I get garlic-free and onion-free stocks, sauces and dressings from [Fody Foods](https://www.fodyfoods.com/)
 
