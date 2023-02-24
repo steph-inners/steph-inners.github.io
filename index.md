@@ -31,7 +31,7 @@ GitHub: [github.com/Steph-Inners](https://github.com/steph-inners))
 
 Instagram: [@steph_inks](https://www.instagram.com/steph_inks/)
 
-RedBubble: [steph-inks.redbubble.com](steph-inks.redbubble.com)
+RedBubble: [steph-inks.redbubble.com](https://steph-inks.redbubble.com)
 
 ## Contents
 1. [Resume](#resume)
