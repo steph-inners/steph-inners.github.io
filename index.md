@@ -26,8 +26,12 @@
 
 ## Contact info
 Email: [Inners.Stephanie@gmail.com](mailto:inners.stephanie@gmail.com)
+
 GitHub: [github.com/Steph-Inners](https://github.com/steph-inners))
+
 Instagram: [@steph_inks](https://www.instagram.com/steph_inks/)
+
+RedBubble: [steph-inks.redbubble.com](steph-inks.redbubble.com)
 
 ## Contents
 1. [Resume](#resume)
@@ -87,6 +91,8 @@ For a one-page copy of my resume and LinkedIn with more specifics, email me at [
 
 # Art
 See my artwork on Instagram: [@steph_inks](https://www.instagram.com/steph_inks/)
+
+Get my art on stickers, shirts, tote bags, mugs, etc. at [steph-inks.redbubble.com](steph-inks.redbubble.com)
 
 ## My preferred toolset
 ### [EDC](https://www.themanual.com/fashion/what-is-edc-everyday-carry-guide/)
