@@ -53,6 +53,7 @@ For a one-page copy of my resume and LinkedIn with more specifics, email me at [
 ### I'm obsessed with...
 - Data governance & data integrity
 - Knowledge management & technical documentation
+- Process improvement & scaling
 - Collaborative software development methodologies (DevOps, CI/CD, etc.)
 
 ### I’ve also built projects using…
