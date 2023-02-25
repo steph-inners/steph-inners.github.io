@@ -21,7 +21,7 @@
           display: flex;
      }
 </style>
-
+<a id="top" />
 # Hi, I’m Steph :)
 
 ## Contact info
@@ -44,30 +44,31 @@ RedBubble: [steph-inks.redbubble.com](https://steph-inks.redbubble.com)
 For a one-page copy of my resume and LinkedIn with more specifics, email me at [Inners.Stephanie@gmail.com](mailto:inners.stephanie@gmail.com)
 
 ## Skills
+### I'm obsessed with...
+- Data governance & integrity
+- Process improvement & scaling
+- Knowledge management & technical documentation
+- Collaborative software development methodologies (DevOps, CI/CD, etc.)
+
 ### My expertise is in…
 1. Data warehousing, data engineering, custom integrations, ETL/ELT, OLTP/OLAP, database administration & analytics with **T-SQL, SQL Server, PowerBI & SSMS**
 2. Enterprise Content Management (ECM) & document management with **Laserfiche, Wordpress, OCR & Regex**
 3. Process automation & .NET development with **C#, git & Visual Studio**
 4. Project management, SDLC management, requirements gathering,  & business analysis
 
-### I'm obsessed with...
-- Data governance & data integrity
-- Knowledge management & technical documentation
-- Process improvement & scaling
-- Collaborative software development methodologies (DevOps, CI/CD, etc.)
 
 ### I’ve also built projects using…
 - SSIS, ASP.NET, MySQL, Azure, Tableau, Powershell, HTML, CSS, JavaScript, XML, Markdown, GitHub, Active Directory, Xcode, Wordpress, XAMPP, IIS, Windows Server, Apache & many more
 
 ## Professional experience
-**Database Administrator** (2020-present) at a private non-profit university
+**Database Administrator** (2021-present) at a private non-profit international university
 
-**Applications Analyst II** (2019-2020) at a publicly-traded regional bank
+**Applications Analyst II** (2019-2021) at a publicly-traded regional bank
 
-**Applications Analyst I** (2017-2019) at a publicly-traded regional bank
+**Applications Analyst I** (2017-2019) at the same publicly-traded regional bank
 - Promoted after two years of "exceeding expectations" :)
 
-**Project Management Intern** (2015-2017) at a publicly-traded paper manufacturer
+**Project Management Intern** (2015-2017) at a publicly-traded international paper manufacturer
 
 ## Education, certifications & awards
 - **B.S. in Computer Information Systems** Magna Cum Laude, Writing tutor, Peer mentor
@@ -90,10 +91,11 @@ For a one-page copy of my resume and LinkedIn with more specifics, email me at [
 - "Intuitive"
 - "Kind"
 
+<a href="#top">Return to top</a>
 # Art
 See my artwork on Instagram: [@steph_inks](https://www.instagram.com/steph_inks/)
 
-Get my art on stickers, shirts, tote bags, mugs, etc. at [steph-inks.redbubble.com](steph-inks.redbubble.com)
+Wear my art! Hang it on your walls! Stick it to your laptop! Order at [steph-inks.redbubble.com](steph-inks.redbubble.com)
 
 ## My preferred toolset
 ### [EDC](https://www.themanual.com/fashion/what-is-edc-everyday-carry-guide/)
@@ -101,10 +103,10 @@ Get my art on stickers, shirts, tote bags, mugs, etc. at [steph-inks.redbubble.c
 - Pilot Vanishing Point fountain pen, broad nib with [Noodler’s Bulletproof Black ink](https://noodlersink.com/about-us/noodlers-durable-ink-classification/)
 - Pilot Vanishing Point fountain pen, fine nib with Pilot Iroshizuku Takesumi (bamboo charcoal) black ink
 - Taroko Design A5 writing board
+- Blick artist glove
  
 ### Urban sketching ([What is urban sketching?](https://thesketch.co/what-is-urban-sketching/))
 - [Etchr Field Case](https://etchrlab.com/products/etchr-field-case)
-- Blick artist glove
 - Copic Sketch alcohol-based markers
      - RV10
      - R29
@@ -133,13 +135,18 @@ Some Copic-safe options include…
 ## Online resources for artists
 - [A guide to scanning photos](https://imagerestorationcenter.com/best-format-to-scan-photos/)
 - [A 70-color skin tone pack for Procreate](https://icy-need.glitch.me/)
-- [A set of good sketching brushes for Procreate](https://jingsketch.gumroad.com/l/JingsketchBrushes)
+- [My favorite sketching brushes for Procreate](https://jingsketch.gumroad.com/l/JingsketchBrushes)
 
 ### My favorite art supply sites
 - [Jetpens](jetpens.com). Best for notebooks, fountain pens & inks. Has great guides, tutorials, and comparisons for writing supplies
-- [Blick](dickblick.com)
+- [Blick](dickblick.com) Best for paints, brushes, markers and traditional other media. Has a wide range of quality from student to professional. Also carries Copic refills and replacement parts.
 
+<a href="#top">Return to top</a>
 # Code
+## Handy SQL tricks
+
+- [Export from a SQL database to CSV using Bulk Copy (BCP) WITH a header row](https://github.com/steph-inners/handy-SQL-tricks/blob/main/sp_CsvWithHeaders.sql)
+
 ## How Records Retention works
 I spent a few years of my professional life developing workflows and custom code to support regulatory Records Retention (RR) efforts within a document management/content management system which I administered for a private financial institution. Here's an introduction to some of the basic concepts of RR.
 
@@ -196,6 +203,7 @@ A good RR tool allows you to define Document Types, Retention Triggers, and Rete
 ### Fun stuff to read
 - [Normalization of Deviance](https://danluu.com/wat/)
 
+<a href="#top">Return to top</a>
 # Japanese language
 ## My favorite study tools
 - Anki spaced repetition flashcards
@@ -211,6 +219,7 @@ A good RR tool allows you to define Document Types, Retention Triggers, and Rete
 - [Doraemon vol. 1](https://github.com/steph-inners/AnkiDoraemonVol1)
 - [Wonder Egg Priority](https://github.com/steph-inners/WonderEggPriority)
 
+<a href="#top">Return to top</a>
 # Miscellany
 ## Day hike itinerary
 A printable PDF I created for day hikes. I always make 3 copies:
