@@ -138,13 +138,13 @@ Some Copic-safe options include…
 - [My favorite sketching brushes for Procreate](https://jingsketch.gumroad.com/l/JingsketchBrushes)
 
 ### My favorite art supply sites
-- [Jetpens](jetpens.com). Best for notebooks, fountain pens & inks. Has great guides, tutorials, and comparisons for writing supplies
-- [Blick](dickblick.com) Best for paints, brushes, markers and traditional other media. Has a wide range of quality from student to professional. Also carries Copic refills and replacement parts.
+- [Jetpens](jetpens.com). Best for notebooks, fountain pens & inks. Has great guides, tutorials, and comparisons for writing supplies.
+- [Blick](dickblick.com) Best for paints, brushes, markers and other traditional media. Has a wide range of quality from student to professional. Also carries Copic refills and replacement parts.
 
 <a href="#top">Return to top</a>
 # Code
 ## Handy SQL tricks
-
+I wrote these to make my life easier. I hope they help you too :)
 - [Export from a SQL database to CSV using Bulk Copy (BCP) WITH a header row](https://github.com/steph-inners/handy-SQL-tricks/blob/main/sp_CsvWithHeaders.sql)
 
 ## How Records Retention works
