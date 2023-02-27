@@ -195,6 +195,16 @@ A good RR tool allows you to define Document Types, Retention Triggers, and Rete
 2. Some document management systems have dedicated RR functions that make it easy to automate RR.
 3. OCR (Optical Character Recognition) tools can help identify metadata on documents that don’t already have it. 
 
+## Heuristics for data processing
+I learned to weild heuristic questioning as a writing tutor in college and found them endlessly helpful for thinking through problems with tutees or for my own benefit. They're especially helpful in brainstorming the possible consequences of running processes at scale. HOWEVER, heuristic questions can oversimplify problems (it's what they're designed to do). Use the following heuristics as one of many tools in your coding/designing toolbelt.
+
+### Error handling
+When accounting for possible errors, ask yourself the following questions (the answer to each should be "yes"):
+1. Can the system continue processing subsequent records after throwing an error?
+2. Can the errored record be recovered automatically on the next processing run?
+3. Is the error reported in a timely manner to allow for appropriate human intervention?
+4. Is the error isolated from causing downstream effects in other systems?
+
 ## Online resources for coders
 - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one#table-of-contents) VS plugin for writing easier Markdown
 - [Working Copy](https://apps.apple.com/app/id896694807) mobile app for working on git-hosted projects from iPhone and iPad
