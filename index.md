@@ -23,7 +23,7 @@
 </style>
 <a id="top" />
 # Hi, I’m Steph :)
-
+It's nice to meet you! Presumably you've been directed to this site because I wanted to give you the opportunity to get to know me better, and to reach out if you so choose. While you're here, please pardon the mess (this site is perpetually being edited), and use Ctrl+F to jump to the topics that interest you. よろしくお願いします
 ## Contact info
 Email: [Inners.Stephanie@gmail.com](mailto:inners.stephanie@gmail.com)
 
@@ -96,6 +96,8 @@ For a one-page copy of my resume and LinkedIn with more specifics, email me at [
 See my artwork on Instagram: [@steph_inks](https://www.instagram.com/steph_inks/)
 
 Wear my art! Hang it on your walls! Stick it to your laptop! Order at [steph-inks.redbubble.com](steph-inks.redbubble.com)
+
+I'm currently open to take commissions! Email me at [Inners.Stephanie@gmail.com](mailto:inners.stephanie@gmail.com)
 
 ## My preferred toolset
 ### [EDC](https://www.themanual.com/fashion/what-is-edc-everyday-carry-guide/)
@@ -242,9 +244,18 @@ It also helps with planning. Please use it, and be safe out there :)
 [Download blank itinerary](/Day hike itinerary.pdf)
 
 ## Media recommendations
+### Must-read books
+1. Thinking, Fast and Slow
+2. Frankenstein
+3. A Scanner Darkly (by Philip K. Dick)
+4. The Wind-Up Bird Chronicle (by Haruki Murakami)
 ### Video games everyone should play at least once
 1. Disco Elysium
 2. Spiritfarer
+3. Minecraft (Classic "Survival Mode," with friends)
+
+## Free remote cross-platform Minecraft server hosting
+I have no affiliation with this site, just good experiences: https://bedocker.com
 
 ## Recipes I make when my parents are over for dinner
 These recipes serve (at least) 4 people and still taste good with onions, garlic, and mushrooms removed (allergies are a bummer). I get garlic-free and onion-free stocks, sauces and dressings from [Fody Foods](https://www.fodyfoods.com/)
