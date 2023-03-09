@@ -249,6 +249,11 @@ It also helps with planning. Please use it, and be safe out there :)
 2. Frankenstein
 3. A Scanner Darkly (by Philip K. Dick)
 4. The Wind-Up Bird Chronicle (by Haruki Murakami)
+### Favorite webcomics
+1. [Dinosaur Comics](https://www.qwantz.com/index.php)
+2. [Saturday Morning Breakfast Cereal](https://www.smbc-comics.com/)
+3. [Awkward Zombie](https://www.awkwardzombie.com/)
+4. [XKCD](https://xkcd.com/)
 ### Video games everyone should play at least once
 1. Disco Elysium
 2. Spiritfarer
