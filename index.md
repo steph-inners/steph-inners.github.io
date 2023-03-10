@@ -235,6 +235,7 @@ When accounting for possible errors, ask yourself the following questions (the a
 
 <a href="#top">Return to top</a>
 # Miscellany
+As a data governance nerd I'm compelled to proclaim "'MISCELLANEOUS' IS NOT A CATEGORY." And yet, here we are.
 ## Day hike itinerary
 A printable PDF I created for day hikes. I always make 3 copies:
 - 1 copy to leave with an emergency contact
@@ -247,6 +248,7 @@ It also helps with planning. Please use it, and be safe out there :)
 
 ## Media recommendations
 ### Must-read books
+See [my GoodReads account](https://www.goodreads.com/user/show/17924913) for some reviews and recommendations as well.
 1. Thinking, Fast and Slow
 2. Frankenstein
 3. A Scanner Darkly (by Philip K. Dick)
@@ -263,6 +265,10 @@ It also helps with planning. Please use it, and be safe out there :)
 
 ## Free remote cross-platform Minecraft server hosting
 I have no affiliation with this site, just good experiences: https://bedocker.com
+
+## Favorite quotes
+
+- "The principles may be simple, but many who discover principles are quick to confuse them with applications. To discover a common principle is the first lesson. To apply it is the work of a lifetime. To confuse the discovery with that lifetime is the business model of Medium.com, and discernibly not the business of the serious commuter." -- from *The City Commute: The Art & Science of Life's Most Tedious Journey* by Peter Hunt Welch
 
 ## Recipes I make when my parents are over for dinner
 These recipes serve (at least) 4 people and still taste good with onions, garlic, and mushrooms removed (allergies are a bummer). I get garlic-free and onion-free stocks, sauces and dressings from [Fody Foods](https://www.fodyfoods.com/)
