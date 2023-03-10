@@ -33,6 +33,8 @@ Instagram: [@steph_inks](https://www.instagram.com/steph_inks/)
 
 RedBubble (art shop): [steph-inks.redbubble.com](http://steph-inks.redbubble.com)
 
+GoodReads: [17924913-steph](https://www.goodreads.com/user/show/17924913-steph)
+
 ## Contents
 1. [Resume](#resume)
 2. [Art](#art)
