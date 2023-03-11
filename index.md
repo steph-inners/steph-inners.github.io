@@ -23,7 +23,7 @@
 </style>
 <a id="top" />
 # Hi, I’m Steph :)
-It's nice to meet you! Presumably you've been directed to this site because I wanted to give you the opportunity to get to know me better, and to reach out if you so choose. While you're here, please pardon the mess (this site is perpetually being edited), and use Ctrl+F to jump to the topics that interest you. よろしくお願いします
+It's nice to meet you! よろしくお願いします
 ## Contact info
 Email: [Inners.Stephanie@gmail.com](mailto:inners.stephanie@gmail.com)
 
