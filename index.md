@@ -99,7 +99,7 @@ See my artwork on Instagram: [@steph_inks](https://www.instagram.com/steph_inks/
 
 Wear my art! Hang it on your walls! Stick it to your laptop! Order at [steph-inks.redbubble.com](steph-inks.redbubble.com)
 
-I'm currently open to take commissions! Email me at [Inners.Stephanie@gmail.com](mailto:inners.stephanie@gmail.com)
+I'm currently open to take commission; email me at [Inners.Stephanie@gmail.com](mailto:inners.stephanie@gmail.com)
 
 ## My preferred toolset
 ### [EDC](https://www.themanual.com/fashion/what-is-edc-everyday-carry-guide/)
@@ -144,6 +144,11 @@ Some Copic-safe options include…
 ### My favorite art supply sites
 - [Jetpens](jetpens.com). Best for notebooks, fountain pens & inks. Has great guides, tutorials, and comparisons for writing supplies.
 - [Blick](dickblick.com) Best for paints, brushes, markers and other traditional media. Has a wide range of quality from student to professional. Also carries Copic refills and replacement parts.
+
+### My favorite art apps
+- [Procreate](https://apps.apple.com/app/id425073498): iPad app with a very natural drawing feel, professional-grade tools, and an active community
+- [VizRef](https://apps.apple.com/app/id1482680568): iPad app for easily gathering reference images
+- [Sketch A Day](https://apps.apple.com/app/id1434232227): daily drawing prompts to share with a community of artists
 
 <a href="#top">Return to top</a>
 # Code
