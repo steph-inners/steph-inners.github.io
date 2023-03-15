@@ -23,7 +23,6 @@
 </style>
 <a id="top" />
 # Hi, I’m Steph :)
-It's nice to meet you! よろしくお願いします
 ## Contact info
 Email: [Inners.Stephanie@gmail.com](mailto:inners.stephanie@gmail.com)
 
@@ -61,6 +60,12 @@ For a one-page copy of my resume and LinkedIn with more specifics, email me at [
 
 ### I’ve also built projects using…
 - SSIS, ASP.NET, MySQL, Azure, Tableau, Powershell, HTML, CSS, JavaScript, XML, Markdown, GitHub, Active Directory, Xcode, Wordpress, XAMPP, IIS, Windows Server, Apache & many more
+
+### I'd like to work more with...
+- Test-Driven Development (TDD)
+- Azure data pipelines (Data Factory, Synapse, Data Bricks, etc.)
+- DevOps
+- Model-View-Controller (MVC)
 
 ## Professional experience
 **Database Administrator** (2021-present) at a private non-profit international university
