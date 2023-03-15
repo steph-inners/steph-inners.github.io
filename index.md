@@ -280,6 +280,10 @@ I have no affiliation with this site, just good experiences: https://bedocker.co
 
 - "The principles may be simple, but many who discover principles are quick to confuse them with applications. To discover a common principle is the first lesson. To apply it is the work of a lifetime. To confuse the discovery with that lifetime is the business model of Medium.com, and discernibly not the business of the serious commuter." -- from *The City Commute: The Art & Science of Life's Most Tedious Journey* by Peter Hunt Welch
 
+## Favorite productivity apps
+1. [Forest](https://apps.apple.com/app/id866450515) pomodoro timer (for time-tracking and focus)
+2. [Habitica](https://apps.apple.com/app/id994882113) gamified RPG-style habit tracker and task list
+
 ## Recipes I make when my parents are over for dinner
 These recipes serve (at least) 4 people and still taste good with onions, garlic, and mushrooms removed (allergies are a bummer). I get garlic-free and onion-free stocks, sauces and dressings from [Fody Foods](https://www.fodyfoods.com/)
 
