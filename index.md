@@ -64,8 +64,9 @@ For a one-page copy of my resume and LinkedIn with more specifics, email me at [
 ### I'd like to work more with...
 - Test-Driven Development (TDD)
 - Azure data pipelines (Data Factory, Synapse, Data Bricks, etc.)
-- DevOps
+- DevOps methodology and practices
 - Model-View-Controller (MVC)
+- Automated deployments with GitHub Actions
 
 ## Professional experience
 **Database Administrator** (2021-present) at a private non-profit international university
