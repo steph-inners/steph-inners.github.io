@@ -226,6 +226,10 @@ When accounting for possible errors, ask yourself the following questions (the a
 - [Working Copy](https://apps.apple.com/app/id896694807) mobile app for working on git-hosted projects from iPhone and iPad
 - [Visual design rules](https://anthonyhobday.com/sideprojects/saferules/) cheat sheet for non-designers
 
+### Interesting stuff I'd like to use but haven't (yet)
+- [Python-based jisho.org scraper](https://pypi.org/project/jisho-api/)
+- [My starred repositories on GitHub](https://github.com/steph-inners?tab=stars)
+
 ### Fun stuff to read
 - [Normalization of Deviance](https://danluu.com/wat/)
 
