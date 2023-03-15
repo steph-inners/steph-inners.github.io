@@ -67,6 +67,7 @@ For a one-page copy of my resume and LinkedIn with more specifics, email me at [
 - DevOps methodology and practices
 - Model-View-Controller (MVC)
 - Automated deployments with GitHub Actions
+- CI/CD (Continuous Integration / Continuous Delivery)
 
 ## Professional experience
 **Database Administrator** (2021-present) at a private non-profit international university
