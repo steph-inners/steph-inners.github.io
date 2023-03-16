@@ -230,7 +230,7 @@ When accounting for possible errors, ask yourself the following questions (the a
 - [Python-based jisho.org scraper](https://pypi.org/project/jisho-api/)
 - [My starred repositories on GitHub](https://github.com/steph-inners?tab=stars)
 
-### Fun stuff to read
+### Fun stuff to read for coders
 - [Normalization of Deviance](https://danluu.com/wat/)
 
 <a href="#top">Return to top</a>
@@ -248,6 +248,9 @@ When accounting for possible errors, ask yourself the following questions (the a
 ### My custom Anki decks
 - [Doraemon vol. 1](https://github.com/steph-inners/AnkiDoraemonVol1)
 - [Wonder Egg Priority](https://github.com/steph-inners/WonderEggPriority)
+
+### Fun stuff to read for Japanese learners
+- [A few Japanese idioms for a better life](https://asnewman.github.io/shoshikantetsu)
 
 <a href="#top">Return to top</a>
 # Miscellany
