@@ -272,7 +272,7 @@ See [my GoodReads account](https://www.goodreads.com/user/show/17924913) for som
 2. Frankenstein
 3. A Scanner Darkly (by Philip K. Dick)
 4. The Wind-Up Bird Chronicle (by Haruki Murakami)
-### Favorite webcomics
+### Quality webcomics
 1. [Dinosaur Comics](https://www.qwantz.com/index.php)
 2. [Saturday Morning Breakfast Cereal](https://www.smbc-comics.com/)
 3. [Awkward Zombie](https://www.awkwardzombie.com/)
@@ -281,6 +281,8 @@ See [my GoodReads account](https://www.goodreads.com/user/show/17924913) for som
 1. Disco Elysium
 2. Spiritfarer
 3. Minecraft (Classic "Survival Mode," with friends)
+### Fun reads from around the internet
+1. [Assume a Can Opener](https://news.ycombinator.com/item?id=35200933)
 
 ## Free remote cross-platform Minecraft server hosting
 I have no affiliation with this site, just good experiences: https://bedocker.com
