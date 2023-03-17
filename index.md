@@ -212,7 +212,7 @@ A good RR tool allows you to define Document Types, Retention Triggers, and Rete
 3. OCR (Optical Character Recognition) tools can help identify metadata on documents that don’t already have it. 
 
 ## Heuristics for data processing
-I learned to weild heuristic questioning as a writing tutor in college and found them endlessly helpful for thinking through problems with tutees or for my own benefit. They're especially helpful in brainstorming the possible consequences of running processes at scale. HOWEVER, heuristic questions can oversimplify problems (it's what they're designed to do). Use the following heuristics as one of many tools in your coding/designing toolbelt.
+I learned to wield heuristic questioning as a writing tutor in college and found them endlessly helpful for thinking through problems with tutees or for my own benefit. They're especially helpful in brainstorming the possible consequences of running processes at scale. HOWEVER, heuristic questions can oversimplify problems (it's what they're designed to do). Use the following heuristics as one of many tools in your coding/designing toolbelt.
 
 ### Error handling
 When accounting for possible errors, ask yourself the following questions (the answer to each should be "yes"):
