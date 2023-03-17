@@ -23,6 +23,7 @@
 </style>
 <a id="top" />
 # Hi, I’m Steph :)
+This site is perpetually under construction; please pardon the mess.
 ## Contact info
 Email: [Inners.Stephanie@gmail.com](mailto:inners.stephanie@gmail.com)
 
@@ -107,17 +108,6 @@ For a one-page copy of my resume and LinkedIn with more specifics, email me at [
 I wrote these to make my life easier. I hope they help you too :)
 - [Export from a SQL database to CSV using Bulk Copy (BCP) WITH a header row](https://github.com/steph-inners/handy-SQL-tricks/blob/main/sp_CsvWithHeaders.sql)
 
-### Definitions
-1. **Document**	Information on a client or account organized into a static (unchanging) visual.
-2. **Record**	Information on a client or account, often recorded in a database (application database or custom database). Because a record is not necessarily organized in a static visual like a document, the information may vary in how it is displayed/processed/used. A document is a type of record, but a record is not necessarily a document.
-3. **Doc/Record Type**	A category of document or record. All documents/records should fall into a single type. “Miscellaneous” is not a type.
-4. **Retention Period**		The duration of time after which the record should be deleted following its Cutoff Date.
-5. **Cutoff Date**	 The date/time when the timer starts counting down on a record to be deleted. For many records, this is its creation date.
-6. **Retention Trigger**	An event that occurs to trigger the application of a Retention Date. E.g. when a client leaves your institution.
-7. **Quality Assurance (QA)**	The process of ensuring that the correct document type is attributed to each document/record.
-8. **Records Manager**	The lucky person who gets to hit “Delete” on records that have reached the end of their retention period.
-9. **Metadata**		Some people think of these as “index fields.” This is information about the record/document that contains your client’s data. E.g. the date that the record was created, the date it was last modified, the client account # that it relates to, its Document Type… etc. 
-
 ## Heuristics for data-adjacent developers
 I learned to wield heuristic questioning as a writing tutor in college and found it endlessly helpful for thinking through problems with tutees or for my own benefit. Heuristic questions are especially helpful in brainstorming the possible consequences of running processes at scale. HOWEVER, they can oversimplify problems (it's what they're designed to do). Use the following heuristics as one of many tools in your coding/designing toolbelt.
 
@@ -139,6 +129,17 @@ I spent a few years of my professional life developing workflows and custom code
 
 ### How RR works
 RR works by defining Document/Record Types, deciding what events might cause them to be able to be destroyed, and determining how long they must be kept before they can be destroyed. I.e. a Document is assigned a Document Type, which determine its Cutoff Date and its Retention Period.  
+
+### Definitions
+1. **Document**	Information on a client or account organized into a static (unchanging) visual.
+2. **Record**	Information on a client or account, often recorded in a database (application database or custom database). Because a record is not necessarily organized in a static visual like a document, the information may vary in how it is displayed/processed/used. A document is a type of record, but a record is not necessarily a document.
+3. **Doc/Record Type**	A category of document or record. All documents/records should fall into a single type. “Miscellaneous” is not a type.
+4. **Retention Period**		The duration of time after which the record should be deleted following its Cutoff Date.
+5. **Cutoff Date**	 The date/time when the timer starts counting down on a record to be deleted. For many records, this is its creation date.
+6. **Retention Trigger**	An event that occurs to trigger the application of a Retention Date. E.g. when a client leaves your institution.
+7. **Quality Assurance (QA)**	The process of ensuring that the correct document type is attributed to each document/record.
+8. **Records Manager**	The lucky person who gets to hit “Delete” on records that have reached the end of their retention period.
+9. **Metadata**		Some people think of these as “index fields.” This is information about the record/document that contains your client’s data. E.g. the date that the record was created, the date it was last modified, the client account # that it relates to, its Document Type… etc. 
 
 ### Why RR?
 1. To reduce the risk of destroying data when it could still be valuable 
