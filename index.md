@@ -212,7 +212,7 @@ A good RR tool allows you to define Document Types, Retention Triggers, and Rete
 3. OCR (Optical Character Recognition) tools can help identify metadata on documents that don’t already have it. 
 
 ## Heuristics for data processing
-I learned to wield heuristic questioning as a writing tutor in college and found them endlessly helpful for thinking through problems with tutees or for my own benefit. They're especially helpful in brainstorming the possible consequences of running processes at scale. HOWEVER, heuristic questions can oversimplify problems (it's what they're designed to do). Use the following heuristics as one of many tools in your coding/designing toolbelt.
+I learned to wield heuristic questioning as a writing tutor in college and found it endlessly helpful for thinking through problems with tutees or for my own benefit. Heuristic questions are especially helpful in brainstorming the possible consequences of running processes at scale. HOWEVER, they can oversimplify problems (it's what they're designed to do). Use the following heuristics as one of many tools in your coding/designing toolbelt.
 
 ### Error handling
 When accounting for possible errors, ask yourself the following questions (the answer to each should be "yes"):
@@ -220,6 +220,12 @@ When accounting for possible errors, ask yourself the following questions (the a
 2. Can the errored record be recovered automatically on the next processing run?
 3. Is the error reported in a timely manner to allow for appropriate human intervention?
 4. Is the error isolated from causing downstream effects in other systems?
+
+### Reporting with a business focus
+When designing a reporting platform for business users, consider...
+1. Which metrics or business terms are ambiguous or easily confused by users? Make sure to clarify them to users (and to yourself!)
+2. Are your users focused on operations (keeping the business running)? They may find more value in "point-in-time" reports that show them the state of their realm at the present moment.
+3. Are your users trying to make data-driven strategic decisions? They'll likely find more value in historical and predictive reports.
 
 ## Online resources for coders
 - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one#table-of-contents) VS plugin for writing easier Markdown
