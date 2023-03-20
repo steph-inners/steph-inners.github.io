@@ -293,8 +293,9 @@ See [my GoodReads account](https://www.goodreads.com/user/show/17924913) for som
 1. Disco Elysium
 2. Spiritfarer
 3. Minecraft (Classic "Survival Mode," with friends)
-### Fun reads from around the internet
-1. [Assume a Can Opener](https://news.ycombinator.com/item?id=35200933)
+### Fun things from around the internet
+1. [Assume a Can Opener](https://en.wikipedia.org/wiki/Assume_a_can_opener)
+2. [A collection of beautiful minimal websites](https://minimal.gallery/)
 
 ## Free remote cross-platform Minecraft server hosting
 I have no affiliation with this site, just good experiences: https://bedocker.com
