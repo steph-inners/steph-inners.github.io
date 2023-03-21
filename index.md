@@ -38,10 +38,10 @@ GoodReads: [17924913-steph](https://www.goodreads.com/user/show/17924913-steph)
 ## Contents
 1. [Resume](#resume)
 2. [Code](#code)
-	a. [Handy SQL tricks](https://steph-inners.github.io/#handy-sql-tricks)
-	b. [Data development heuristics](https://steph-inners.github.io/#heuristics-for-data-adjacent-developers)
-	c. [Intro to Records Retention](https://steph-inners.github.io/#heuristics-for-data-adjacent-developers)
-	d. [Coding resources](https://steph-inners.github.io/#heuristics-for-data-adjacent-developers)
+	1. [Handy SQL tricks](https://steph-inners.github.io/#handy-sql-tricks)
+	2. [Data development heuristics](https://steph-inners.github.io/#heuristics-for-data-adjacent-developers)
+	3. [Intro to Records Retention](https://steph-inners.github.io/#heuristics-for-data-adjacent-developers)
+	4. [Coding resources](https://steph-inners.github.io/#heuristics-for-data-adjacent-developers)
 3. [Art](#art)
 4. [Japanese language](#Japanese-language)
 5. [Miscellany](#miscellany)
@@ -307,7 +307,8 @@ I have no affiliation with this site, just good experiences: https://bedocker.co
 
 ## Favorite quotes
 
-- "The principles may be simple, but many who discover principles are quick to confuse them with applications. To discover a common principle is the first lesson. To apply it is the work of a lifetime. To confuse the discovery with that lifetime is the business model of Medium.com, and discernibly not the business of the serious commuter." -- from *The City Commute: The Art & Science of Life's Most Tedious Journey* by Peter Hunt Welch
+> "The principles may be simple, but many who discover principles are quick to confuse them with applications. To discover a common principle is the first lesson. To apply it is the work of a lifetime. To confuse the discovery with that lifetime is the business model of Medium.com, and discernibly not the business of the serious commuter." 
+-- from *The City Commute: The Art & Science of Life's Most Tedious Journey* by Peter Hunt Welch
 
 ## Favorite productivity apps
 1. [Forest](https://apps.apple.com/app/id866450515) pomodoro timer (for time-tracking and focus)
