@@ -268,6 +268,10 @@ Some Copic-safe options include…
 ### Fun stuff to read for Japanese learners
 - [A few Japanese idioms for a better life](https://asnewman.github.io/shoshikantetsu)
 
+## Interesting Japanese phrases, quotes and idioms
+> 明日の事は、明日の自分に任せる
+“I’ll entrust tomorrow’s problems to tomorrow’s me”
+
 <a href="#top">Return to top</a>
 
 # Miscellany
