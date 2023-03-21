@@ -197,7 +197,7 @@ See my artwork on Instagram: [@steph_inks](https://www.instagram.com/steph_inks/
 
 Wear my art! Hang it on your walls! Stick it to your laptop! Order at [steph-inks.redbubble.com](steph-inks.redbubble.com)
 
-I'm currently open to take commission; email me at [Inners.Stephanie@gmail.com](mailto:inners.stephanie@gmail.com)
+I'm currently open to take commissions; email me at [Inners.Stephanie@gmail.com](mailto:inners.stephanie@gmail.com)
 
 ## My preferred toolset
 ### [EDC](https://www.themanual.com/fashion/what-is-edc-everyday-carry-guide/)
@@ -247,6 +247,7 @@ Some Copic-safe options include…
 - [Procreate](https://apps.apple.com/app/id425073498): iPad app with a very natural drawing feel, professional-grade tools, and an active community
 - [VizRef](https://apps.apple.com/app/id1482680568): iPad app for easily gathering reference images
 - [Sketch A Day](https://apps.apple.com/app/id1434232227): daily drawing prompts to share with a community of artists
+- [Copic tracker](https://apps.apple.com/app/id638007892): tracks your color inventory and helps pick the right colors for a project
 
 <a href="#top">Return to top</a>
 
