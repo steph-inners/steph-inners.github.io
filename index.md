@@ -272,6 +272,9 @@ Some Copic-safe options include…
 > 明日の事は、明日の自分に任せる
 “I’ll entrust tomorrow’s problems to tomorrow’s me”
 
+> 二兎を追う者は一兎をも得ず
+“If you chase two rabbits, you’ll catch none
+
 <a href="#top">Return to top</a>
 
 # Miscellany
