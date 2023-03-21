@@ -107,7 +107,7 @@ For a one-page copy of my resume and LinkedIn with more specifics, email me at [
 
 <a href="#top">Return to top</a>
 
-# Code
+# Code <a href="#code"/>
 ## Handy SQL tricks
 I wrote these to make my life easier. I hope they help you too :)
 - [Show query results before and after a change](https://github.com/steph-inners/handy-SQL-tricks/blob/6d3f720c271b171443d7a39f52f69cbb6aa4dfdf/Testing%20query%20results%20before%20and%20after.sql)
@@ -192,7 +192,7 @@ A good RR tool allows you to define Document Types, Retention Triggers, and Rete
 
 <a href="#top">Return to top</a>
 
-# Art
+# Art <a href="#art"/>
 See my artwork on Instagram: [@steph_inks](https://www.instagram.com/steph_inks/)
 
 Wear my art! Hang it on your walls! Stick it to your laptop! Order at [steph-inks.redbubble.com](steph-inks.redbubble.com)
@@ -250,7 +250,7 @@ Some Copic-safe options include…
 
 <a href="#top">Return to top</a>
 
-# Japanese language
+# Japanese language <a href="#japanese-language"/>
 ## My favorite study tools
 - Anki spaced repetition flashcards
 - [Anki mobile app](https://apps.apple.com/app/id373493387)
@@ -277,7 +277,7 @@ Some Copic-safe options include…
 
 <a href="#top">Return to top</a>
 
-# Miscellany
+# Miscellany <a href="#miscellany"/>
 As a data governance nerd I'm compelled to proclaim "'MISCELLANEOUS' IS NOT A CATEGORY." And yet, here we are.
 ## Day hike itinerary
 A printable PDF I created for day hikes. I always make 3 copies:
