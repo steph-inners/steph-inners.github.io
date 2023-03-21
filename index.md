@@ -106,7 +106,8 @@ For a one-page copy of my resume and LinkedIn with more specifics, email me at [
 # Code
 ## Handy SQL tricks
 I wrote these to make my life easier. I hope they help you too :)
-- [Export from a SQL database to CSV using Bulk Copy (BCP) WITH a header row](https://github.com/steph-inners/handy-SQL-tricks/blob/main/sp_CsvWithHeaders.sql)
+- [Show query results before and after a change](https://github.com/steph-inners/handy-SQL-tricks/blob/6d3f720c271b171443d7a39f52f69cbb6aa4dfdf/Testing%20query%20results%20before%20and%20after.sql)
+- [Export from a SQL database to CSV using Bulk Copy (BCP) WITH a header row](https://github.com/steph-inners/handy-SQL-tricks/blob/3fa378d6be749d6e51615d443162633935d5c9f8/sp_CsvWithHeaders.sql)
 
 ## Heuristics for data-adjacent developers
 I learned to wield heuristic questioning as a writing tutor in college and found it endlessly helpful for thinking through problems with tutees or for my own benefit. Heuristic questions are especially helpful in brainstorming the possible consequences of running processes at scale. HOWEVER, they can oversimplify problems (it's what they're designed to do). Use the following heuristics as one of many tools in your coding/designing toolbelt.
