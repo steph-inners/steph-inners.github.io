@@ -28,7 +28,7 @@
 	
 	-->
 	
-	#mainContent body {
+	body {
 		background-color: #323633;
 		color: #c2d1c6;
 	}
