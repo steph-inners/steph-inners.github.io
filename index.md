@@ -8,14 +8,19 @@
 		background: #93c29d; 
 		padding: 10px 10px 10px 36px; 
 		height: 100%; 
-		width: 330px; 
+		width: 25%; 
 		overflow: wrap; 
 		top: 0; 
 		left: 0;
 	}
 	
+	#sideMenu a {
+		color: #323633;
+		text-decoration: underline;
+	
 	#mainContent {
 		overflow-y: scroll;
+		width: 75%;
 	}
 	
 	body {
