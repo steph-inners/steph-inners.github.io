@@ -2,10 +2,10 @@
 
 	#sideMenu {
 		position: fixed; 
-		color: #fff; 
+		color: #323633; 
 		font-size: 14px; 
 		font-weight: 600; 
-		background: #0095ba; 
+		background: #93c29d; 
 		padding: 10px 10px 10px 36px; 
 		height: 100%; 
 		width: 330px; 
@@ -52,14 +52,14 @@
 
 ## Contents
 1. [Resume](#resume)
-2. [Code](#code)
+1. [Code](#code)
 	1. [Handy SQL tricks](https://steph-inners.github.io/#handy-sql-tricks)
-	2. [Data development heuristics](https://steph-inners.github.io/#heuristics-for-data-adjacent-developers)
-	3. [Intro to Records Retention](https://steph-inners.github.io/#heuristics-for-data-adjacent-developers)
-	4. [Coding resources](https://steph-inners.github.io/#heuristics-for-data-adjacent-developers)
-3. [Art](#art)
-4. [Japanese language](#Japanese-language)
-5. [Miscellany](#miscellany)
+	1. [Data development heuristics](https://steph-inners.github.io/#heuristics-for-data-adjacent-developers)
+	1. [Intro to Records Retention](https://steph-inners.github.io/#heuristics-for-data-adjacent-developers)
+	1. [Coding resources](https://steph-inners.github.io/#heuristics-for-data-adjacent-developers)
+1. [Art](#art)
+1. [Japanese language](#Japanese-language)
+1. [Miscellany](#miscellany)
 
 </div> 
 
@@ -77,17 +77,6 @@ Instagram: [@steph_inks](https://www.instagram.com/steph_inks/)
 RedBubble (art shop): [steph-inks.redbubble.com](http://steph-inks.redbubble.com)
 
 GoodReads: [17924913-steph](https://www.goodreads.com/user/show/17924913-steph)
-
-## Contents
-1. [Resume](#resume)
-2. [Code](#code)
-	1. [Handy SQL tricks](https://steph-inners.github.io/#handy-sql-tricks)
-	2. [Data development heuristics](https://steph-inners.github.io/#heuristics-for-data-adjacent-developers)
-	3. [Intro to Records Retention](https://steph-inners.github.io/#heuristics-for-data-adjacent-developers)
-	4. [Coding resources](https://steph-inners.github.io/#heuristics-for-data-adjacent-developers)
-3. [Art](#art)
-4. [Japanese language](#Japanese-language)
-5. [Miscellany](#miscellany)
 
 # Resume
 For a one-page copy of my resume and LinkedIn with more specifics, email me at [Inners.Stephanie@gmail.com](mailto:inners.stephanie@gmail.com)
@@ -342,18 +331,21 @@ See [my GoodReads account](https://www.goodreads.com/user/show/17924913) for som
 2. Frankenstein
 3. A Scanner Darkly (by Philip K. Dick)
 4. The Wind-Up Bird Chronicle (by Haruki Murakami)
+
 ### Quality webcomics
 1. [Dinosaur Comics](https://www.qwantz.com/index.php)
 2. [Saturday Morning Breakfast Cereal](https://www.smbc-comics.com/)
 3. [Awkward Zombie](https://www.awkwardzombie.com/)
 4. [XKCD](https://xkcd.com/)
+
 ### Video games everyone should play at least once
 1. Disco Elysium
 2. Spiritfarer
 3. Minecraft (Classic "Survival Mode," with friends)
+
 ### Fun things from around the internet
 1. [Assume a Can Opener](https://en.wikipedia.org/wiki/Assume_a_can_opener)
-2. [A collection of beautiful minimal websites](https://minimal.gallery/)
+1. [A collection of beautiful minimal websites](https://minimal.gallery/)
 
 ## Free remote cross-platform Minecraft server hosting
 I have no affiliation with this site, just good experiences: [https://bedocker.com](https://bedocker.com)
