@@ -1,28 +1,4 @@
 <style>
-
-	#sideMenu {
-		position: fixed; 
-		color: #323633; 
-		font-size: 14px; 
-		font-weight: 600; 
-		background: #93c29d; 
-		padding: 10px 10px 10px 36px; 
-		height: 100%; 
-		width: 25%; 
-		overflow: wrap; 
-		top: 0; 
-		left: 0;
-	}
-	
-	#sideMenu a {
-		color: #323633;
-		text-decoration: underline;
-	
-
-	#mainContent {
-		overflow-y: scroll;
-		width: 75%;
-	}
 	
 	body {
 		background-color: #323633;
@@ -53,25 +29,6 @@
 	}
 	
 </style>
-
-<!--
-
-<div id="sideMenu" markdown="1"> 
-
-## Contents
-1. [Resume](#resume)
-1. [Code](#code)
-	1. [Handy SQL tricks](https://steph-inners.github.io/#handy-sql-tricks)
-	1. [Data development heuristics](https://steph-inners.github.io/#heuristics-for-data-adjacent-developers)
-	1. [Intro to Records Retention](https://steph-inners.github.io/#heuristics-for-data-adjacent-developers)
-	1. [Coding resources](https://steph-inners.github.io/#heuristics-for-data-adjacent-developers)
-1. [Art](#art)
-1. [Japanese language](#Japanese-language)
-1. [Miscellany](#miscellany)
-
-</div> 
-
--->
 
 <a id="top" />
 # Hi, I’m Steph :)
