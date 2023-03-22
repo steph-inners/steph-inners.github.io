@@ -1,4 +1,23 @@
 <style>
+
+	#sideMenu {
+		position: fixed; 
+		color: #fff; 
+		font-size: 14px; 
+		font-weight: 600; 
+		background: #0095ba; 
+		padding: 10px 10px 10px 36px; 
+		height: 100%; 
+		width: 330px; 
+		overflow: wrap; 
+		top: 0; 
+		left: 0;
+	}
+	
+	#mainContent {
+		overflow-y: scroll;
+	}
+	
 	body {
 		background-color: #323633;
 		color: #c2d1c6;
@@ -7,12 +26,14 @@
 	a {
 		color: #93c29d;
 	}
+	
      .art {
           padding: 5px
           background-color: #c2d1c6;    
           text-align: center;
           width: 30%;
      }
+	 
      .gallery {
           padding: 5px
           background-color: #c2d1c6;    
@@ -20,10 +41,29 @@
           width: 30%;
           display: flex;
      }
+	 
 	 blockquote p {
 		color: #a4baaa;
 	}
+	
 </style>
+
+<div id="sideMenu"> 
+
+## Contents
+1. [Resume](#resume)
+2. [Code](#code)
+	1. [Handy SQL tricks](https://steph-inners.github.io/#handy-sql-tricks)
+	2. [Data development heuristics](https://steph-inners.github.io/#heuristics-for-data-adjacent-developers)
+	3. [Intro to Records Retention](https://steph-inners.github.io/#heuristics-for-data-adjacent-developers)
+	4. [Coding resources](https://steph-inners.github.io/#heuristics-for-data-adjacent-developers)
+3. [Art](#art)
+4. [Japanese language](#Japanese-language)
+5. [Miscellany](#miscellany)
+
+</div> 
+
+<div id="mainContent"> 
 <a id="top" />
 # Hi, I’m Steph :)
 This site is perpetually under construction; please pardon the mess.
@@ -187,8 +227,9 @@ A good RR tool allows you to define Document Types, Retention Triggers, and Rete
 - [Visual design rules](https://anthonyhobday.com/sideprojects/saferules/) cheat sheet for non-designers
 
 ### Interesting stuff I'd like to use but haven't (yet)
-- [Python-based jisho.org scraper](https://pypi.org/project/jisho-api/)
 - [My starred repositories on GitHub](https://github.com/steph-inners?tab=stars)
+- [Python-based jisho.org scraper](https://pypi.org/project/jisho-api/)
+- [Python Markdown extension focused on MD-based technical documentation](https://squidfunk.github.io/mkdocs-material/getting-started/)
 
 ### Fun stuff to read for coders
 - [Normalization of Deviance](https://danluu.com/wat/)
@@ -315,7 +356,7 @@ See [my GoodReads account](https://www.goodreads.com/user/show/17924913) for som
 2. [A collection of beautiful minimal websites](https://minimal.gallery/)
 
 ## Free remote cross-platform Minecraft server hosting
-I have no affiliation with this site, just good experiences: https://bedocker.com
+I have no affiliation with this site, just good experiences: [https://bedocker.com](https://bedocker.com)
 
 ## Favorite quotes
 
@@ -351,3 +392,4 @@ When everything is in one giant, ever-growing Markdown document, nothing will ev
 **Ctrl+F**
 
 Search is built into every browser. If all content is on a single page, there’s no need to install a search plugin that will show ads for the first handful of results.
+</div>
