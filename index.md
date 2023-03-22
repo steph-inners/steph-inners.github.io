@@ -23,23 +23,23 @@
 		width: 75%;
 	}
 	
-	body {
+	#mainContent body {
 		background-color: #323633;
 		color: #c2d1c6;
 	}
 	
-	a {
+	#mainContent a {
 		color: #93c29d;
 	}
 	
-     .art {
+    #mainContent .art {
           padding: 5px
           background-color: #c2d1c6;    
           text-align: center;
           width: 30%;
      }
 	 
-     .gallery {
+    #mainContent .gallery {
           padding: 5px
           background-color: #c2d1c6;    
           text-align: center;
@@ -47,7 +47,7 @@
           display: flex;
      }
 	 
-	 blockquote p {
+	#mainContent blockquote p {
 		color: #a4baaa;
 	}
 	
