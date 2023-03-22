@@ -253,14 +253,12 @@ Some Copic-safe options include…
 
 # Japanese language <a href="#japanese-language"/>
 ## My favorite study tools
-- Anki spaced repetition flashcards
+- Anki spaced repetition flashcards [desktop app](https://apps.ankiweb.net/)
 - [Anki mobile app](https://apps.apple.com/app/id373493387)
 - [Shirabe Jisho iPhone dictionary app](https://apps.apple.com/app/id1005203380)
 - [HelloTalk](https://apps.apple.com/app/id557130558) language exchange social app
-
-### Resources for Intermediate learners (around JLPT N3 or so)
-
-- [Japanese Core 10k](https://ankiweb.net/shared/info/935381472) Anki deck (A truly fantastic deck with audio, visuals, example sentences, and the best card sequence I’ve ever encountered) 
+- [Japanese Core 10k](https://ankiweb.net/shared/info/935381472) Anki deck (A truly fantastic deck with audio, visuals, example sentences, and the best card sequence I’ve ever encountered. Best for Intermediate learners.) 
+- [Kanji practice sheets](https://kanji.sh/)
 
 ### My custom Anki decks
 - [Doraemon vol. 1](https://github.com/steph-inners/AnkiDoraemonVol1)
