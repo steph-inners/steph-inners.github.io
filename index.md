@@ -20,6 +20,9 @@
           width: 30%;
           display: flex;
      }
+	 blockquote {
+		color: #a4baaa;
+	}
 </style>
 <a id="top" />
 # Hi, I’m Steph :)
@@ -270,9 +273,11 @@ Some Copic-safe options include…
 
 ## Interesting Japanese phrases, quotes and idioms
 > 明日の事は、明日の自分に任せる
+
 “I’ll entrust tomorrow’s problems to tomorrow’s me”
 
 > 二兎を追う者は一兎をも得ず
+
 “If you chase two rabbits, you’ll catch none
 
 <a href="#top">Return to top</a>
@@ -315,6 +320,7 @@ I have no affiliation with this site, just good experiences: https://bedocker.co
 ## Favorite quotes
 
 > "The principles may be simple, but many who discover principles are quick to confuse them with applications. To discover a common principle is the first lesson. To apply it is the work of a lifetime. To confuse the discovery with that lifetime is the business model of Medium.com, and discernibly not the business of the serious commuter." 
+
 -- from *The City Commute: The Art & Science of Life's Most Tedious Journey* by Peter Hunt Welch
 
 ## Favorite productivity apps
