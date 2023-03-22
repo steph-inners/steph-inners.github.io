@@ -25,8 +25,7 @@
 		overflow-y: scroll;
 		width: 75%;
 	}
-	
-	-->
+-->
 	
 	body {
 		background-color: #323633;
@@ -77,7 +76,6 @@
 
 -->
 
-<div id="mainContent" markdown="1"> 
 <a id="top" />
 # Hi, I’m Steph :)
 This site is perpetually under construction; please pardon the mess.
@@ -91,6 +89,17 @@ Instagram: [@steph_inks](https://www.instagram.com/steph_inks/)
 RedBubble (art shop): [steph-inks.redbubble.com](http://steph-inks.redbubble.com)
 
 GoodReads: [17924913-steph](https://www.goodreads.com/user/show/17924913-steph)
+
+## Contents
+1. [Resume](#resume)
+1. [Code](#code)
+	1. [Handy SQL tricks](https://steph-inners.github.io/#handy-sql-tricks)
+	1. [Data development heuristics](https://steph-inners.github.io/#heuristics-for-data-adjacent-developers)
+	1. [Intro to Records Retention](https://steph-inners.github.io/#heuristics-for-data-adjacent-developers)
+	1. [Coding resources](https://steph-inners.github.io/#heuristics-for-data-adjacent-developers)
+1. [Art](#art)
+1. [Japanese language](#Japanese-language)
+1. [Miscellany](#miscellany)
 
 # Resume
 For a one-page copy of my resume and LinkedIn with more specifics, email me at [Inners.Stephanie@gmail.com](mailto:inners.stephanie@gmail.com)
@@ -398,4 +407,3 @@ When everything is in one giant, ever-growing Markdown document, nothing will ev
 **Ctrl+F**
 
 Search is built into every browser. If all content is on a single page, there’s no need to install a search plugin that will show ads for the first handful of results.
-</div>
