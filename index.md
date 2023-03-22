@@ -53,6 +53,8 @@
 	
 </style>
 
+<!--
+
 <div id="sideMenu" markdown="1"> 
 
 ## Contents
@@ -67,6 +69,8 @@
 1. [Miscellany](#miscellany)
 
 </div> 
+
+-->
 
 <div id="mainContent" markdown="1"> 
 <a id="top" />
