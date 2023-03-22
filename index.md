@@ -48,7 +48,7 @@
 	
 </style>
 
-<div id="sideMenu"> 
+<div id="sideMenu" markdown="1"> 
 
 ## Contents
 1. [Resume](#resume)
@@ -63,7 +63,7 @@
 
 </div> 
 
-<div id="mainContent"> 
+<div id="mainContent" markdown="1"> 
 <a id="top" />
 # Hi, I’m Steph :)
 This site is perpetually under construction; please pardon the mess.
