@@ -268,6 +268,7 @@ Some Copic-safe options include…
 
 ### Fun stuff to read for Japanese learners
 - [A few Japanese idioms for a better life](https://asnewman.github.io/shoshikantetsu)
+- [A glossary of owarai (お笑い, comedy) terms](https://en.wikipedia.org/wiki/Glossary_of_owarai_terms)
 
 ## Interesting Japanese phrases, quotes and idioms
 > 明日の事は、明日の自分に任せる
