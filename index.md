@@ -20,7 +20,7 @@
           width: 30%;
           display: flex;
      }
-	 blockquote {
+	 blockquote p {
 		color: #a4baaa;
 	}
 </style>
