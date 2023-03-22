@@ -1,5 +1,7 @@
 <style>
 
+<!--
+
 	#sideMenu {
 		position: fixed; 
 		color: #323633; 
@@ -18,28 +20,31 @@
 		color: #323633;
 		text-decoration: underline;
 	
+
 	#mainContent {
 		overflow-y: scroll;
 		width: 75%;
 	}
+	
+	-->
 	
 	#mainContent body {
 		background-color: #323633;
 		color: #c2d1c6;
 	}
 	
-	#mainContent a {
+	a {
 		color: #93c29d;
 	}
 	
-    #mainContent .art {
+    .art {
           padding: 5px
           background-color: #c2d1c6;    
           text-align: center;
           width: 30%;
      }
 	 
-    #mainContent .gallery {
+    .gallery {
           padding: 5px
           background-color: #c2d1c6;    
           text-align: center;
@@ -47,7 +52,7 @@
           display: flex;
      }
 	 
-	#mainContent blockquote p {
+	blockquote p {
 		color: #a4baaa;
 	}
 	
