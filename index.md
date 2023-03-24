@@ -37,7 +37,7 @@
           color: #323633;
           padding: 10px 10px 10px 36px; 
           height: 100%; 
-          width: 20%; 
+          width: 300px; 
           overflow: wrap; 
           top: 0; 
           left: 0; 
@@ -48,9 +48,6 @@
                visibility: hidden;
                clear: both;
                float: left;
-               margin: 10px auto 5px 20px;
-               width: 28%;
-               display: none;
           }
      }
 
@@ -58,6 +55,7 @@
           overflow-y: scroll;
           width: 80%;
           left: 300px;
+          padding-left: 310px;
      }
 
      #nav a {
@@ -103,7 +101,7 @@ RedBubble (art shop): [steph-inks.redbubble.com](http://steph-inks.redbubble.com
 
 GoodReads: [17924913-steph](https://www.goodreads.com/user/show/17924913-steph)
 
-# Resume
+# Resume <a id="resume"></a>
 For a one-page copy of my resume and LinkedIn with more specifics, email me at [Inners.Stephanie@gmail.com](mailto:inners.stephanie@gmail.com)
 
 ## Skills
@@ -164,9 +162,12 @@ For a one-page copy of my resume and LinkedIn with more specifics, email me at [
 
 <a href="#top">Return to top</a>
 
-# Code <a href="#code"/>
+# Code <a href="code"></a>
+
 ## Handy SQL tricks
+
 I wrote these to make my life easier. I hope they help you too :)
+
 - [Show query results before and after a change](https://github.com/steph-inners/handy-SQL-tricks/blob/6d3f720c271b171443d7a39f52f69cbb6aa4dfdf/Testing%20query%20results%20before%20and%20after.sql)
 - [Export from a SQL database to CSV using Bulk Copy (BCP) WITH a header row](https://github.com/steph-inners/handy-SQL-tricks/blob/3fa378d6be749d6e51615d443162633935d5c9f8/sp_CsvWithHeaders.sql)
 
@@ -258,7 +259,7 @@ A good RR tool allows you to define Document Types, Retention Triggers, and Rete
 
 <a href="#top">Return to top</a>
 
-# Art <a href="#art"/>
+# Art <a href="art"></a>
 See my artwork on Instagram: [@steph_inks](https://www.instagram.com/steph_inks/)
 
 Wear my art! Hang it on your walls! Stick it to your laptop! Order at [steph-inks.redbubble.com](steph-inks.redbubble.com)
@@ -317,7 +318,7 @@ Some Copic-safe options include…
 
 <a href="#top">Return to top</a>
 
-# Japanese language <a href="#japanese-language"/>
+# Japanese language <a href="japanese-language"></a>
 ## My favorite study tools
 - Anki spaced repetition flashcards [desktop app](https://apps.ankiweb.net/)
 - [Anki mobile app](https://apps.apple.com/app/id373493387)
@@ -345,7 +346,7 @@ Some Copic-safe options include…
 
 <a href="#top">Return to top</a>
 
-# Miscellany <a href="#miscellany"/>
+# Miscellany <a href="miscellany"></a>
 As a data governance nerd I'm compelled to proclaim "'MISCELLANEOUS' IS NOT A CATEGORY." And yet, here we are.
 ## Day hike itinerary
 A printable PDF I created for day hikes. I always make 3 copies:
