@@ -1,5 +1,8 @@
 <style>
 	
+
+<!-- I am not a web dev. Please don't judge my CSS.>
+
 	body {
 		background-color: #323633;
 		color: #c2d1c6;
@@ -37,7 +40,7 @@
           color: #323633;
           padding: 10px 10px 10px 36px; 
           height: 100%; 
-          width: 300px; 
+          width: 275px; 
           overflow: wrap; 
           top: 0; 
           left: 0; 
@@ -47,13 +50,19 @@
           #nav {
                visibility: hidden;
                clear: both;
-               float: left;
+          }
+          #mainContent {
+               padding-left: 0px;
+               left: 0px;
+               top: 0px;
           }
      }
 
-     #mainContent {
-          width: 80%;
-          padding-left: 310px;
+     @media screen and (min-width: 600px) {
+          #mainContent {
+               width: 80%;
+               padding-left: 300px;
+          }
      }
 
      #nav a {
@@ -93,11 +102,11 @@ Email: [Inners.Stephanie@gmail.com](mailto:inners.stephanie@gmail.com)
 
 GitHub: [github.com/Steph-Inners](https://github.com/steph-inners)
 
+GoodReads: [17924913-steph](https://www.goodreads.com/user/show/17924913-steph)
+
 Instagram: [@steph_inks](https://www.instagram.com/steph_inks/)
 
 RedBubble (art shop): [steph-inks.redbubble.com](http://steph-inks.redbubble.com)
-
-GoodReads: [17924913-steph](https://www.goodreads.com/user/show/17924913-steph)
 
 # Resume <a id="resume"></a>
 For a one-page copy of my resume and LinkedIn with more specifics, email me at [Inners.Stephanie@gmail.com](mailto:inners.stephanie@gmail.com)
