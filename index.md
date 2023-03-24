@@ -52,9 +52,7 @@
      }
 
      #mainContent {
-          overflow-y: scroll;
           width: 80%;
-          left: 300px;
           padding-left: 310px;
      }
 
