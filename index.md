@@ -1,8 +1,5 @@
 <style>
 	
-
-<!-- I am not a web dev. Please don't judge my CSS.>
-
 	body {
 		background-color: #323633;
 		color: #c2d1c6;
