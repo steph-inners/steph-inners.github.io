@@ -96,7 +96,6 @@
 
 <a href="mailto:inners.stephanie@gmail.com" target="_blank"><img class="icon" src="images\site assets\email.png">
 <a href="https://github.com/steph-inners" target="_blank"><img class="icon" src="images\site assets\github.png">
-<a href="https://www.linkedin.com/in/stephinners/" target="_blank"><img class="icon" src="images\site assets\linkedin.png">
 <a href="https://mobile.twitter.com/steph_inners" target="_blank"><img class="icon" src="images\site assets\twitter.png">
 <a href="https://www.instagram.com/steph_inks/" target="_blank"><img class="icon" src="images\site assets\instagram.png">
 <a href="http://steph-inks.redbubble.com" target="_blank"><img class="icon" src="images\site assets\redbubble.256x256.png">
@@ -147,8 +146,6 @@ GitHub: [github.com/Steph-Inners](https://github.com/steph-inners)
 GoodReads: [17924913-steph](https://www.goodreads.com/user/show/17924913-steph)
 
 Instagram: [@steph_inks](https://www.instagram.com/steph_inks/)
-
-LinkedIn: [LinkedIn.com/in/steph-inners](https://www.linkedin.com/in/stephinners/)
 
 RedBubble (art shop): [steph-inks.redbubble.com](http://steph-inks.redbubble.com)
 
