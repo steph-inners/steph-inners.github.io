@@ -29,6 +29,13 @@
           height: 30px;
           padding: 3px;
      }
+
+     #socials {
+          display: flex;
+          justify-content: center;
+          padding-right: 10px;
+     }
+
 	 
 	blockquote p {
 		color: #a4baaa;
@@ -81,12 +88,20 @@
 
 # Hi, I'm Steph :)
 
+<div id="socials" markdown="1">
+
 <a href="mailto:inners.stephanie@gmail.com" target="_blank"><img class="icon" src="images\site assets\email.png">
 <a href="https://github.com/steph-inners" target="_blank"><img class="icon" src="images\site assets\github.png">
-<a href="https://www.goodreads.com/user/show/17924913-steph" target="_blank"><img class="icon" src="images\site assets\goodreads.png">
+<a href="https://mobile.twitter.com/steph_inners" target="_blank"><img class="icon" src="images\site assets\twitter.png">
 <a href="https://www.instagram.com/steph_inks/" target="_blank"><img class="icon" src="images\site assets\instagram.png">
 <a href="http://steph-inks.redbubble.com" target="_blank"><img class="icon" src="images\site assets\redbubble.256x256.png">
-<a href="https://mobile.twitter.com/steph_inners" target="_blank"><img class="icon" src="images\site assets\twitter.png">
+<a href="https://www.goodreads.com/user/show/17924913-steph" target="_blank"><img class="icon" src="images\site assets\goodreads.png">
+
+</div>
+
+*This site is perpetually under construction; please pardon the mess.*
+
+----------------
 
 ## Contents
 <a href="#top">Return to top</a>
@@ -113,7 +128,7 @@
 
 <div markdown="1" id="mainContent">
 
-## Contact info
+# Contact info
 
 Email: [Inners.Stephanie@gmail.com](mailto:inners.stephanie@gmail.com)
 
@@ -150,6 +165,7 @@ For a one-page copy of my resume and LinkedIn with more specifics, email me at [
 ### I'd like to work more with...
 - Test-Driven Development (TDD)
 - Azure data pipelines (Data Factory, Synapse, Data Bricks, etc.)
+- Python-based ETL/ELT
 - DevOps methodology and practices
 - Model-View-Controller (MVC)
 - Automated deployments with GitHub Actions
