@@ -64,10 +64,18 @@
      #nav a {
           color: #323633;
      }
+
+     h1 a {
+          visibility: hidden;
+     }
 	
 </style>
 
 <div id="nav" markdown="1">
+
+## Reach out
+
+[Email](mailto:inners.stephanie@gmail.com)   |    [GitHub](https://github.com/steph-inners)    |    [GoodReads](https://www.goodreads.com/user/show/17924913-steph)  |    [Instagram](https://www.instagram.com/steph_inks/)     |    [RedBubble](http://steph-inks.redbubble.com)      |    [Twitter](https://mobile.twitter.com/steph_inners)
 
 ## Contents
 <a href="#top">Return to top</a>
@@ -109,6 +117,8 @@ GoodReads: [17924913-steph](https://www.goodreads.com/user/show/17924913-steph)
 Instagram: [@steph_inks](https://www.instagram.com/steph_inks/)
 
 RedBubble (art shop): [steph-inks.redbubble.com](http://steph-inks.redbubble.com)
+
+Twitter: [@steph_inners](https://mobile.twitter.com/steph_inners)
 
 # Resume <a id="resume"> </a>
 For a one-page copy of my resume and LinkedIn with more specifics, email me at [Inners.Stephanie@gmail.com](mailto:inners.stephanie@gmail.com)
@@ -169,9 +179,9 @@ For a one-page copy of my resume and LinkedIn with more specifics, email me at [
 - "Intuitive"
 - "Kind"
 
-<a href="#top">Return to top</a>
+<a href="#top" id="code">Return to top</a>
 
-# Code <div id="code"></div>
+# Code
 
 ## Handy SQL tricks
 
@@ -266,9 +276,9 @@ A good RR tool allows you to define Document Types, Retention Triggers, and Rete
 ### Fun stuff to read for coders
 - [Normalization of Deviance](https://danluu.com/wat/)
 
-<a href="#top">Return to top</a>
+<a href="#top" id="art">Return to top</a>
 
-# Art <div id="art"></div>
+# Art
 See my artwork on Instagram: [@steph_inks](https://www.instagram.com/steph_inks/)
 
 Wear my art! Hang it on your walls! Stick it to your laptop! Order at [steph-inks.redbubble.com](steph-inks.redbubble.com)
@@ -325,9 +335,9 @@ Some Copic-safe options include…
 - [Sketch A Day](https://apps.apple.com/app/id1434232227): daily drawing prompts to share with a community of artists
 - [Copic tracker](https://apps.apple.com/app/id638007892): tracks your color inventory and helps pick the right colors for a project
 
-<a href="#top">Return to top</a>
+<a href="#top" id="japanese-language">Return to top</a>
 
-# Japanese language <div id="japanese-language"></div>
+# Japanese language
 ## My favorite study tools
 - Anki spaced repetition flashcards [desktop app](https://apps.ankiweb.net/)
 - [Anki mobile app](https://apps.apple.com/app/id373493387)
@@ -353,9 +363,9 @@ Some Copic-safe options include…
 
 “If you chase two rabbits, you’ll catch none
 
-<a href="#top">Return to top</a>
+<a href="#top" id="miscellany">Return to top</a>
 
-# Miscellany <div id="miscellany"></div>
+# Miscellany
 As a data governance nerd I'm compelled to proclaim "'MISCELLANEOUS' IS NOT A CATEGORY." And yet, here we are.
 ## Day hike itinerary
 A printable PDF I created for day hikes. I always make 3 copies:
