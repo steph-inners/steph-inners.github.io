@@ -119,7 +119,7 @@
 4. [Art](https://steph-inners.github.io/#art)
    1. [Art shop](http://steph-inks.redbubble.com)
    2. [My preferred toolset](https://steph-inners.github.io/#my-preferred-toolset)
-   3. [Tips for using markers](http://steph-inks.redbubble.com/)
+   3. [Tips for using markers](https://steph-inners.github.io/#markers-alcohol-based-vs-water-based)
 5. [Japanese language](https://steph-inners.github.io/#japanese-language)
 6. [Miscellany](https://steph-inners.github.io/#miscellany)
 
