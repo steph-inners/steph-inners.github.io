@@ -92,6 +92,7 @@
 
 <a href="mailto:inners.stephanie@gmail.com" target="_blank"><img class="icon" src="images\site assets\email.png">
 <a href="https://github.com/steph-inners" target="_blank"><img class="icon" src="images\site assets\github.png">
+<a href="https://www.linkedin.com/in/stephinners/" target="_blank"><img class="icon" src="images\site assets\linkedin.png">
 <a href="https://mobile.twitter.com/steph_inners" target="_blank"><img class="icon" src="images\site assets\twitter.png">
 <a href="https://www.instagram.com/steph_inks/" target="_blank"><img class="icon" src="images\site assets\instagram.png">
 <a href="http://steph-inks.redbubble.com" target="_blank"><img class="icon" src="images\site assets\redbubble.256x256.png">
@@ -105,20 +106,21 @@
 
 ## Contents
 <a href="#top">Return to top</a>
-1. [Resume](https://steph-inners.github.io/#resume)
-1. [Code](https://steph-inners.github.io/#code)
+1. [About me](https://steph-inners.github.io/#about)
+2. [Resume](https://steph-inners.github.io/#resume)
+3. [Code](https://steph-inners.github.io/#code)
 	1. [Handy SQL tricks](https://steph-inners.github.io/#handy-sql-tricks)
-	1. [Data development heuristics](https://steph-inners.github.io/#heuristics-for-data-adjacent-developers)
-	1. [SQL "Dev Helmet"](https://steph-inners.github.io/#sql-dev-helmet)
-	1. [Intro to Records Retention](https://steph-inners.github.io/#how-records-retention-works)
-	1. [Coding resources](https://steph-inners.github.io/#online-resources-for-coders)
-1. [Art](https://steph-inners.github.io/#art)
+	2. [Data development heuristics](https://steph-inners.github.io/#heuristics-for-data-adjacent-developers)
+	3. [SQL "Dev Helmet"](https://steph-inners.github.io/#sql-dev-helmet)
+	4. [Intro to Records Retention](https://steph-inners.github.io/#how-records-retention-works)
+	5. [Coding resources](https://steph-inners.github.io/#online-resources-for-coders)
+4. [Art](https://steph-inners.github.io/#art)
    1. [Copic-friendly linework tools](https://steph-inners.github.io/#which-line-art-tools-can-be-used-under-copics-without-smearing)
-   1. [Art resources](https://steph-inners.github.io/#online-resources-for-artists)
-1. [Japanese language](https://steph-inners.github.io/#Japanese-language)
+   2. [Art resources](https://steph-inners.github.io/#online-resources-for-artists)
+5. [Japanese language](https://steph-inners.github.io/#japanese-language)
    1. [Study tools](https://steph-inners.github.io/#my-favorite-study-tools)
-   1. [Cool phrases](https://steph-inners.github.io/#interesting-japanese-phrases-quotes-and-idioms)
-2. [Miscellany](https://steph-inners.github.io/#miscellany)
+   2. [Cool phrases](https://steph-inners.github.io/#interesting-japanese-phrases-quotes-and-idioms)
+6. [Miscellany](https://steph-inners.github.io/#miscellany)
    1. [Hiking itinerary](https://steph-inners.github.io/#day-hike-itinerary)
    2. [Books, games & webcomics](https://steph-inners.github.io/#media-recommendations)
 
@@ -128,7 +130,16 @@
 
 <div markdown="1" id="mainContent">
 
-# Contact info
+# About me
+
+Professionally, I'm a database administrator / SQL developer and all-around data nerd. I spend my free time with ink illustrations, urban / plein-air sketching, hiking, and Japanese-English manga translations. If these things interest you too, please reach out! I love nothing more than to share hobbies with new friends :)
+
+ステフと申します。職業はデーターベースプログラマー、趣味はお絵描きとハイキングです。日本語を10年前から独学で習っています。同じ趣味があるとか、外国会話にすれば連絡して下さい。宜しくお願いします^ ^
+
+
+<a id="about"></a>
+
+## Contact info
 
 Email: [Inners.Stephanie@gmail.com](mailto:inners.stephanie@gmail.com)
 
@@ -143,7 +154,7 @@ RedBubble (art shop): [steph-inks.redbubble.com](http://steph-inks.redbubble.com
 Twitter: [@steph_inners](https://mobile.twitter.com/steph_inners)
 
 # Resume <a id="resume"> </a>
-For a one-page copy of my resume and LinkedIn with more specifics, email me at [Inners.Stephanie@gmail.com](mailto:inners.stephanie@gmail.com)
+For a one-page copy of my resume with more detail, email me at [Inners.Stephanie@gmail.com](mailto:inners.stephanie@gmail.com)
 
 ## Skills
 ### I'm obsessed with...
@@ -477,4 +488,7 @@ I borrowed some graphics to build this site. Here are their real owners:
 [Redbubble icon](https://iconduck.com/icons/4457/redbubble)
 
 <a href="https://www.flaticon.com/free-icons/github" title="github icons">Github icons created by Pixel perfect - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by riajulislam - Flaticon</a>
+
 </div>
