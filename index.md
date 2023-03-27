@@ -115,18 +115,10 @@
 3. [Code](https://steph-inners.github.io/#code)
 	1. [Handy SQL tricks](https://steph-inners.github.io/#handy-sql-tricks)
 	2. [Data development heuristics](https://steph-inners.github.io/#heuristics-for-data-adjacent-developers)
-	3. [SQL "Dev Helmet"](https://steph-inners.github.io/#sql-dev-helmet)
-	4. [Intro to Records Retention](https://steph-inners.github.io/#how-records-retention-works)
-	5. [Coding resources](https://steph-inners.github.io/#online-resources-for-coders)
+	3. [Intro to Records Retention](https://steph-inners.github.io/#how-records-retention-works)
 4. [Art](https://steph-inners.github.io/#art)
-   1. [Copic-friendly linework tools](https://steph-inners.github.io/#which-line-art-tools-can-be-used-under-copics-without-smearing)
-   2. [Art resources](https://steph-inners.github.io/#online-resources-for-artists)
 5. [Japanese language](https://steph-inners.github.io/#japanese-language)
-   1. [Study tools](https://steph-inners.github.io/#my-favorite-study-tools)
-   2. [Cool phrases](https://steph-inners.github.io/#interesting-japanese-phrases-quotes-and-idioms)
 6. [Miscellany](https://steph-inners.github.io/#miscellany)
-   1. [Hiking itinerary](https://steph-inners.github.io/#day-hike-itinerary)
-   2. [Books, games & webcomics](https://steph-inners.github.io/#media-recommendations)
 
 </div>
 
