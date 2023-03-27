@@ -336,6 +336,7 @@ I'm currently open to take commissions; email me at [Inners.Stephanie@gmail.com]
 
 - Lochby travel case
 - Pilot Aquash portable water brushes in various sizes
+- Faber-Castell Pitt Artist Pen in various sizes, black
 - Daler Rowney 12-color portable watercolor set
 
 ### Urban sketching marker travel kit ([What is urban sketching?](https://thesketch.co/what-is-urban-sketching/))
