@@ -37,7 +37,7 @@
           color: #323633;
           padding: 10px 10px 10px 36px; 
           height: 100%; 
-          width: 275px; 
+          width: 300px; 
           overflow: wrap; 
           top: 0; 
           left: 0; 
@@ -57,8 +57,7 @@
 
      @media screen and (min-width: 600px) {
           #mainContent {
-               width: 80%;
-               padding-left: 300px;
+               padding-left: 310px;
           }
      }
 
@@ -80,8 +79,14 @@
 	1. [Intro to Records Retention](https://steph-inners.github.io/#how-records-retention-works)
 	1. [Coding resources](https://steph-inners.github.io/#online-resources-for-coders)
 1. [Art](https://steph-inners.github.io/#art)
+   1. [Copic-friendly linework tools](https://steph-inners.github.io/#which-line-art-tools-can-be-used-under-copics-without-smearing)
+   1. [Art resources](https://steph-inners.github.io/#online-resources-for-artists)
 1. [Japanese language](https://steph-inners.github.io/#Japanese-language)
-1. [Miscellany](https://steph-inners.github.io/#miscellany)
+   1. [Study tools](https://steph-inners.github.io/#my-favorite-study-tools)
+   1. [Cool phrases](https://steph-inners.github.io/#interesting-japanese-phrases-quotes-and-idioms)
+2. [Miscellany](https://steph-inners.github.io/#miscellany)
+   1. [Hiking itinerary](https://steph-inners.github.io/#day-hike-itinerary)
+   2. [Books, games & webcomics](https://steph-inners.github.io/#media-recommendations)
 
 </div>
 
@@ -105,7 +110,7 @@ Instagram: [@steph_inks](https://www.instagram.com/steph_inks/)
 
 RedBubble (art shop): [steph-inks.redbubble.com](http://steph-inks.redbubble.com)
 
-# Resume <a id="resume"></a>
+# Resume <a id="resume"> </a>
 For a one-page copy of my resume and LinkedIn with more specifics, email me at [Inners.Stephanie@gmail.com](mailto:inners.stephanie@gmail.com)
 
 ## Skills
@@ -166,7 +171,7 @@ For a one-page copy of my resume and LinkedIn with more specifics, email me at [
 
 <a href="#top">Return to top</a>
 
-# Code <a href="code"></a>
+# Code <div id="code"></div>
 
 ## Handy SQL tricks
 
@@ -263,7 +268,7 @@ A good RR tool allows you to define Document Types, Retention Triggers, and Rete
 
 <a href="#top">Return to top</a>
 
-# Art <a href="art"></a>
+# Art <div id="art"></div>
 See my artwork on Instagram: [@steph_inks](https://www.instagram.com/steph_inks/)
 
 Wear my art! Hang it on your walls! Stick it to your laptop! Order at [steph-inks.redbubble.com](steph-inks.redbubble.com)
@@ -322,7 +327,7 @@ Some Copic-safe options include…
 
 <a href="#top">Return to top</a>
 
-# Japanese language <a href="japanese-language"></a>
+# Japanese language <div id="japanese-language"></div>
 ## My favorite study tools
 - Anki spaced repetition flashcards [desktop app](https://apps.ankiweb.net/)
 - [Anki mobile app](https://apps.apple.com/app/id373493387)
@@ -350,7 +355,7 @@ Some Copic-safe options include…
 
 <a href="#top">Return to top</a>
 
-# Miscellany <a href="miscellany"></a>
+# Miscellany <div id="miscellany"></div>
 As a data governance nerd I'm compelled to proclaim "'MISCELLANEOUS' IS NOT A CATEGORY." And yet, here we are.
 ## Day hike itinerary
 A printable PDF I created for day hikes. I always make 3 copies:
