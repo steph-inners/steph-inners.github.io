@@ -23,6 +23,12 @@
           width: 30%;
           display: flex;
      }
+
+     .icon {
+          width: 30px;
+          height: 30px;
+          padding: 3px;
+     }
 	 
 	blockquote p {
 		color: #a4baaa;
@@ -73,9 +79,14 @@
 
 <div id="nav" markdown="1">
 
-## Reach out
+# Hi, I'm Steph :)
 
-[Email](mailto:inners.stephanie@gmail.com)   |    [GitHub](https://github.com/steph-inners)    |    [GoodReads](https://www.goodreads.com/user/show/17924913-steph)  |    [Instagram](https://www.instagram.com/steph_inks/)     |    [RedBubble](http://steph-inks.redbubble.com)      |    [Twitter](https://mobile.twitter.com/steph_inners)
+<a href="mailto:inners.stephanie@gmail.com" target="_blank"><img class="icon" src="images\site assets\email.png">
+<a href="https://github.com/steph-inners" target="_blank"><img class="icon" src="images\site assets\github.png">
+<a href="https://www.goodreads.com/user/show/17924913-steph" target="_blank"><img class="icon" src="images\site assets\goodreads.png">
+<a href="https://www.instagram.com/steph_inks/" target="_blank"><img class="icon" src="images\site assets\instagram.png">
+<a href="http://steph-inks.redbubble.com" target="_blank"><img class="icon" src="images\site assets\redbubble.256x256.png">
+<a href="https://mobile.twitter.com/steph_inners" target="_blank"><img class="icon" src="images\site assets\twitter.png">
 
 ## Contents
 <a href="#top">Return to top</a>
@@ -101,10 +112,6 @@
 <a id="top"></a>
 
 <div markdown="1" id="mainContent">
-
-# Hi, I’m Steph :)
-
-This site is perpetually under construction; please pardon the mess.
 
 ## Contact info
 
@@ -179,7 +186,9 @@ For a one-page copy of my resume and LinkedIn with more specifics, email me at [
 - "Intuitive"
 - "Kind"
 
+
 <a href="#top" id="code">Return to top</a>
+
 
 # Code
 
@@ -437,4 +446,19 @@ When everything is in one giant, ever-growing Markdown document, nothing will ev
 **Ctrl+F**
 
 Search is built into every browser. If all content is on a single page, there’s no need to install a search plugin that will show ads for the first handful of results.
+
+## Asset attributions
+I borrowed some graphics to build this site. Here are their real owners:
+
+<a href="https://www.flaticon.com/free-icons/email" title="email icons">Email icons created by Those Icons - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/twitter-social-badge" title="twitter social badge icons">Twitter social badge icons created by Freepik - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/instagram" title="instagram icons">Instagram icons created by Freepik - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/goodreads" title="goodreads icons">Goodreads icons created by riajulislam - Flaticon</a>
+
+[Redbubble icon](https://iconduck.com/icons/4457/redbubble)
+
+<a href="https://www.flaticon.com/free-icons/github" title="github icons">Github icons created by Pixel perfect - Flaticon</a>
 </div>
