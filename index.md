@@ -308,6 +308,7 @@ A good RR tool allows you to define Document Types, Retention Triggers, and Rete
 - [My starred repositories on GitHub](https://github.com/steph-inners?tab=stars)
 - [Python-based jisho.org scraper](https://pypi.org/project/jisho-api/)
 - [Python Markdown extension focused on MD-based technical documentation](https://squidfunk.github.io/mkdocs-material/getting-started/)
+- [Site generator for Apple Notes](https://devlog.notespub.com/2022/08/site-generator-for-apple-notes/)
 
 ### Fun stuff to read for coders
 - [Normalization of Deviance](https://danluu.com/wat/)
@@ -435,6 +436,7 @@ See [my GoodReads account](https://www.goodreads.com/user/show/17924913) for som
 ### Fun things from around the internet
 1. [Assume a Can Opener](https://en.wikipedia.org/wiki/Assume_a_can_opener)
 1. [A collection of beautiful minimal websites](https://minimal.gallery/)
+2. [A gallery of OS GUIs](http://toastytech.com/guis/index.html)
 
 ## Free remote cross-platform Minecraft server hosting
 I have no affiliation with this site, just good experiences: [https://bedocker.com](https://bedocker.com)
