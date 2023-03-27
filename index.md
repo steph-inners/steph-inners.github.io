@@ -366,8 +366,8 @@ I personally prefer to use Copic alcohol markers (for example, in [this piece](h
 
 **Pros**
 - Cheaper
-- Easier to find linework tools to lay under them
-- Can be blended and used alongside watercolors
+- Easier to find linework tools to lay under them (anything marked "water-resistant" will work)
+- Can be blended with and used alongside watercolors
 - Pigment generally does not soak through paper to cause "ghosting"
 
 **Cons**
