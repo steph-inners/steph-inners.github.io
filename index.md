@@ -117,6 +117,8 @@
 	2. [Data development heuristics](https://steph-inners.github.io/#heuristics-for-data-adjacent-developers)
 	3. [Intro to Records Retention](https://steph-inners.github.io/#how-records-retention-works)
 4. [Art](https://steph-inners.github.io/#art)
+   1. [Art shop](http://steph-inks.redbubble.com)
+   2. [My preferred toolset](https://steph-inners.github.io/#my-preferred-toolset)
 5. [Japanese language](https://steph-inners.github.io/#japanese-language)
 6. [Miscellany](https://steph-inners.github.io/#miscellany)
 
@@ -314,19 +316,29 @@ A good RR tool allows you to define Document Types, Retention Triggers, and Rete
 # Art
 See my artwork on Instagram: [@steph_inks](https://www.instagram.com/steph_inks/)
 
-Wear my art! Hang it on your walls! Stick it to your laptop! Order at [steph-inks.redbubble.com](steph-inks.redbubble.com)
+Art shop (prints, stickers, mugs, hats, etc.): [steph-inks.redbubble.com](steph-inks.redbubble.com)
 
 I'm currently open to take commissions; email me at [Inners.Stephanie@gmail.com](mailto:inners.stephanie@gmail.com)
 
 ## My preferred toolset
 ### [EDC](https://www.themanual.com/fashion/what-is-edc-everyday-carry-guide/)
 - Leuchtturm Medium (A5) sketchbook
-- Pilot Vanishing Point fountain pen, broad nib with [Noodler’s Bulletproof Black ink](https://noodlersink.com/about-us/noodlers-durable-ink-classification/)
-- Pilot Vanishing Point fountain pen, fine nib with Pilot Iroshizuku Takesumi (bamboo charcoal) black ink
+- Pilot Vanishing Point fountain pens, 1x medium nib & 1x broad nib with Pilot Iroshizuku Takesumi (bamboo charcoal) black ink
 - Taroko Design A5 writing board
 - Blick artist glove
+
+### Daily art journal
+- [Hobonichi Techo ほぼ日手帳](https://www.1101.com/store/techo/en/), A5 spring start
+- Lamy Safari fountain pen, medium nib, with [Noodler’s Bulletproof Black ink](https://noodlersink.com/about-us/noodlers-durable-ink-classification/)
+- Tombow ABT water-based dual-tip markers
  
-### Urban sketching ([What is urban sketching?](https://thesketch.co/what-is-urban-sketching/))
+### Plein-air watercolor travel kit ([What is plein-air?](https://www.artistsnetwork.com/art-subjects/plein-air/plein-air-art/))
+
+- Lochby travel case
+- Pilot Aquash portable water brushes in various sizes
+- Daler Rowney 12-color portable watercolor set
+
+### Urban sketching marker travel kit ([What is urban sketching?](https://thesketch.co/what-is-urban-sketching/))
 - [Etchr Field Case](https://etchrlab.com/products/etchr-field-case)
 - Copic Sketch alcohol-based markers
      - RV10
@@ -343,8 +355,38 @@ I'm currently open to take commissions; email me at [Inners.Stephanie@gmail.com]
      - E00
      - E34  
 
-### Which line-art tools can be used under Copics without smearing?
-When you’re planning to color your piece in Copics or other alcohol markers, your line tool must be alcohol-resistant. Alcohol-based inks (e.g. Sakura Pigma, Speedball pigmented acrylic) and most inks designed to be water-resistant will smear.
+## Markers: alcohol-based vs water-based
+
+Both Alcohol-based and water-based markers can create lovely blending effects, are self-cleaning, and nicely portable. However, there are noticable differences in blending feel and in final appearance when dry. If you're on a budget or just starting out with marker coloring, you may want to start with water-based markers. However, you may find that alcohol markers have a better range and depth of hues. Both types are self-cleaning, i.e. you can lay lighter colors over dark without working about ruining your marker.
+
+I personally prefer to use Copic alcohol markers (for example, in [this piece](https://www.redbubble.com/shop/ap/140553265) because of their excellent blendability, feel, repairability and color selection. I keep water markers on hand for low-stakes sketching and daily journaling.
+
+### Pros and cons of water markers
+
+**Pros**
+- Cheaper
+- Easier to find linework tools to lay under them
+- Can be blended and used alongside watercolors
+- Pigment generally does not soak through paper to cause "ghosting"
+
+**Cons**
+- Can saturate paper and cause warping/rippling
+- May have less range of hues
+
+### Pros and cons of alcohol markers
+
+**Pros**
+- Greater range of hues (depending on brand; Copics are great for this)
+- Won't saturate paper, so you can endlessly build depth of color
+- Refillable and repairable (again, depending on brand)
+
+**Cons**
+- Expensive
+- Can be difficult to find a linework tool that won't smear under them (see section below)
+- Pigment soaks through virtually all paper types, resulting in heavy "ghosting"
+
+### Which linework tools can be used under alcohol markers without smearing?
+When you’re planning to color your piece in Copics or other alcohol markers, your line tool must be alcohol-resistant. Alcohol-based inks (e.g. Sakura Pigma, Speedball pigmented acrylic) and most inks designed to be water-resistant will smear. Be aware that some paper coatings (such as in Tomoe River paper, used in the Hobonichi Techo) will inhibit pigment adhesion and cause even "safe" linework inks to smear.
 
 Some Copic-safe options include…
 1. Copic Gasenfude brush pen (beware of long dry times)
