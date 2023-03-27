@@ -27,7 +27,7 @@
      .icon {
           width: 30px;
           height: 30px;
-          padding: 3px;
+          padding: 0px;
      }
 
      #socials {
