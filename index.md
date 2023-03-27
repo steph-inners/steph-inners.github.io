@@ -86,7 +86,7 @@
 
 <div id="nav" markdown="1">
 
-# Hi, I'm Steph :)
+# steph-inners.github.io
 
 <div id="socials" markdown="1">
 
@@ -130,11 +130,11 @@
 
 <div markdown="1" id="mainContent">
 
-# About me
+# Hi, I'm Steph :)
 
-Professionally, I'm a database administrator / SQL developer and all-around data nerd. I spend my free time with ink illustrations, urban / plein-air sketching, hiking, and Japanese-English manga translations. If these things interest you too, please reach out! I love nothing more than to share hobbies with new friends :)
+Professionally, I'm a database administrator specializing in T-SQL development and ETL pipelines. Hobbies include ink illustration, urban / plein-air sketching, hiking, and Japanese-English manga translation. If these things interest you too, please reach out! I love nothing more than to share hobbies with new friends :)
 
-ステフと申します。職業はデーターベースプログラマー、趣味はお絵描きとハイキングです。日本語を10年前から独学で習っています。同じ趣味があるとか、外国会話にすれば連絡して下さい。宜しくお願いします^ ^
+ステフと申します。職業はデーターベースプログラマー、趣味はお絵描きとハイキングです。漫画とアニメとテレビゲームが好きだから、日本語を10年前から独学で習っています。同じ趣味があるとか、外国会話にすれば連絡して下さい。宜しくお願いします^ ^
 
 
 <a id="about"></a>
@@ -475,6 +475,10 @@ When everything is in one giant, ever-growing Markdown document, nothing will ev
 **Ctrl+F**
 
 Search is built into every browser. If all content is on a single page, there’s no need to install a search plugin that will show ads for the first handful of results.
+
+**Copy this site**
+
+If you like the format of this site and want to use it for your own, copy the source code from my GitHub repository at [https://github.com/steph-inners/steph-inners.github.io](https://github.com/steph-inners/steph-inners.github.io)
 
 ## Asset attributions
 I borrowed some graphics to build this site. Here are their real owners:
