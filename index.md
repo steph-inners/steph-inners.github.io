@@ -119,6 +119,7 @@
 4. [Art](https://steph-inners.github.io/#art)
    1. [Art shop](http://steph-inks.redbubble.com)
    2. [My preferred toolset](https://steph-inners.github.io/#my-preferred-toolset)
+   3. [Tips for using markers](http://steph-inks.redbubble.com/)
 5. [Japanese language](https://steph-inners.github.io/#japanese-language)
 6. [Miscellany](https://steph-inners.github.io/#miscellany)
 
@@ -316,7 +317,7 @@ A good RR tool allows you to define Document Types, Retention Triggers, and Rete
 # Art
 See my artwork on Instagram: [@steph_inks](https://www.instagram.com/steph_inks/)
 
-Art shop (prints, stickers, mugs, hats, etc.): [steph-inks.redbubble.com](steph-inks.redbubble.com)
+Art shop (prints, stickers, mugs, hats, etc.): [steph-inks.redbubble.com](http://steph-inks.redbubble.com/)
 
 I'm currently open to take commissions; email me at [Inners.Stephanie@gmail.com](mailto:inners.stephanie@gmail.com)
 
@@ -359,7 +360,7 @@ I'm currently open to take commissions; email me at [Inners.Stephanie@gmail.com]
 
 Both Alcohol-based and water-based markers can create lovely blending effects, are self-cleaning, and nicely portable. However, there are noticable differences in blending feel and in final appearance when dry. If you're on a budget or just starting out with marker coloring, you may want to start with water-based markers. However, you may find that alcohol markers have a better range and depth of hues. Both types are self-cleaning, i.e. you can lay lighter colors over dark without working about ruining your marker.
 
-I personally prefer to use Copic alcohol markers (for example, in [this piece](https://www.redbubble.com/shop/ap/140553265) because of their excellent blendability, feel, repairability and color selection. I keep water markers on hand for low-stakes sketching and daily journaling.
+I personally prefer to use Copic alcohol markers (for example, in [this piece](https://www.redbubble.com/shop/ap/140553265)) because of their excellent blendability, feel, repairability and color selection. I keep water markers on hand for low-stakes sketching and daily journaling.
 
 ### Pros and cons of water markers
 
@@ -382,7 +383,7 @@ I personally prefer to use Copic alcohol markers (for example, in [this piece](h
 
 **Cons**
 - Expensive
-- Can be difficult to find a linework tool that won't smear under them (see section below)
+- Can be difficult to find a linework tool that won't smear under them (see [section below](https://steph-inners.github.io/#which-linework-tools-can-be-used-under-alcohol-markers-without-smearing))
 - Pigment soaks through virtually all paper types, resulting in heavy "ghosting"
 
 ### Which linework tools can be used under alcohol markers without smearing?
