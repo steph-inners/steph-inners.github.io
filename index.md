@@ -148,6 +148,8 @@ GoodReads: [17924913-steph](https://www.goodreads.com/user/show/17924913-steph)
 
 Instagram: [@steph_inks](https://www.instagram.com/steph_inks/)
 
+LinkedIn: [LinkedIn.com/in/steph-inners](https://www.linkedin.com/in/stephinners/)
+
 RedBubble (art shop): [steph-inks.redbubble.com](http://steph-inks.redbubble.com)
 
 Twitter: [@steph_inners](https://mobile.twitter.com/steph_inners)
