@@ -164,10 +164,10 @@ For a one-page copy of my resume with more detail, email me at [Inners.Stephanie
 - Collaborative software development methodologies (DevOps, CI/CD, etc.)
 
 ### My expertise is in…
-1. Data warehousing, data engineering, custom integrations, ETL/ELT, OLTP/OLAP, database administration & analytics with **T-SQL, SQL Server, PowerBI & SSMS**
-2. Enterprise Content Management (ECM) & document management with **Laserfiche, Wordpress, OCR & Regex**
-3. Process automation & .NET development with **C#, git & Visual Studio**
-4. Project management, SDLC management, requirements gathering,  & business analysis
+1. Data warehousing, data engineering, custom integrations, ETL/ELT, OLTP/OLAP, data pipelines, database administration & analytics with **T-SQL, SQL Server, PowerBI & SSMS**
+1. Process automation & **.NET** development with **C#, git, VS Code & Visual Studio**
+1. Enterprise Content Management (ECM) & document management with **Laserfiche, Wordpress, OCR & Regex**
+1. Project management, SDLC management, requirements gathering,  & business analysis
 
 
 ### I’ve also built projects using…
@@ -183,14 +183,14 @@ For a one-page copy of my resume with more detail, email me at [Inners.Stephanie
 - CI/CD (Continuous Integration / Continuous Delivery)
 
 ## Professional experience
-**Database Administrator** (2021-present) at a private non-profit international university
+**Database Administrator** (2021-present) at a private non-profit US-based university
 
 **Applications Analyst II** (2019-2021) at a publicly-traded regional bank
 
 **Applications Analyst I** (2017-2019) at the same publicly-traded regional bank
 - Promoted after two years of "exceeding expectations" :)
 
-**Project Management Intern** (2015-2017) at a publicly-traded international paper manufacturer
+**Project Management Intern** (2015-2017) at a publicly-traded US-based global paper manufacturer
 
 ## Education, certifications & awards
 - **B.S. in Computer Information Systems** Magna Cum Laude, Writing tutor, Peer mentor
