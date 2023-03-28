@@ -302,6 +302,7 @@ A good RR tool allows you to define Document Types, Retention Triggers, and Rete
 
 ### Fun stuff to read for coders
 - [Normalization of Deviance](https://danluu.com/wat/)
+- [Building a homegrown SQL data dictionary](https://www.red-gate.com/simple-talk/databases/sql-server/database-administration-sql-server/building-a-sql-server-data-dictionary/)
 
 <a href="#top" id="art">Return to top</a>
 
