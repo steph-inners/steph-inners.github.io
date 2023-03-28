@@ -471,6 +471,10 @@ See [my GoodReads account](https://www.goodreads.com/user/show/17924913) for som
 1. Disco Elysium
 2. Spiritfarer
 3. Minecraft (Classic "Survival Mode," with friends)
+4. We Love Katamari
+5. Stardew Valley
+6. The Legend of Zelda: Breath of the Wild
+7. Shadow of the Colossus
 
 ### Fun things from around the internet
 1. [Assume a Can Opener](https://en.wikipedia.org/wiki/Assume_a_can_opener)
