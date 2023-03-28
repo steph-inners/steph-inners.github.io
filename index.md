@@ -118,8 +118,8 @@
 4. [Art](https://steph-inners.github.io/#art)
    1. [Art shop](http://steph-inks.redbubble.com)
    2. [My preferred toolset](https://steph-inners.github.io/#my-preferred-toolset)
-   3. [Tips for using markers](https://steph-inners.github.io/#markers-alcohol-based-vs-water-based)
-5. [Japanese language](https://steph-inners.github.io/#japanese-language)
+   3. [Tips for marker illustration](https://steph-inners.github.io/#markers-alcohol-based-vs-water-based)
+5. [Japanese language 日本語](https://steph-inners.github.io/#japanese-language)
 6. [Miscellany](https://steph-inners.github.io/#miscellany)
 
 </div>
@@ -130,7 +130,7 @@
 
 # Hi, I'm Steph :)
 
-Professionally, I'm a database administrator specializing in T-SQL development and ETL pipelines. Hobbies include ink illustration, urban / plein-air sketching, hiking, and Japanese-English manga translation. If these things interest you too, please reach out! I love nothing more than to share hobbies with new friends :)
+I'm a professional SQL developer and a hobbyist illustrator & translator. If anything on this site piques your interest, by all means please reach out using one of the contact methods below. I look forward to hearing from you!
 
 ステフと申します。職業はデーターベースプログラマー、趣味はお絵描きとハイキングです。漫画とアニメとテレビゲームが好きだから、日本語を10年前から独学で習っています。同じ趣味があるとか、外国会話にすれば連絡して下さい。宜しくお願いします^ ^
 
@@ -152,7 +152,7 @@ RedBubble (art shop): [steph-inks.redbubble.com](http://steph-inks.redbubble.com
 Twitter: [@steph_inners](https://mobile.twitter.com/steph_inners)
 
 # Resume <a id="resume"> </a>
-For a one-page copy of my resume with more detail, email me at [Inners.Stephanie@gmail.com](mailto:inners.stephanie@gmail.com)
+For a one-page copy of my resume with more detail and my LinkedIn profile, email me at [Inners.Stephanie@gmail.com](mailto:inners.stephanie@gmail.com)
 
 ## Skills
 ### I'm obsessed with...
@@ -414,6 +414,8 @@ Some Copic-safe options include…
 <a href="#top" id="japanese-language">Return to top</a>
 
 # Japanese language
+I'm self-taught in Japanese at approximately the JLPT N3 level. Many of the resources below, therefore, are too advanced for beginners, but great for intermediate learners.
+
 ## My favorite study tools
 - Anki spaced repetition flashcards [desktop app](https://apps.ankiweb.net/)
 - [Anki mobile app](https://apps.apple.com/app/id373493387)
