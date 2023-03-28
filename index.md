@@ -240,14 +240,6 @@ When designing a reporting platform for business users, consider...
 2. Are your users focused on operations (keeping the business running)? They may find more value in "point-in-time" reports that show them the state of their realm at the present moment.
 3. Are your users trying to make data-driven strategic decisions? They'll likely find more value in historical and predictive reports.
 
-## SQL "Dev Helmet"
-Some adults won't wear a helment while riding a bicycle because they've been riding since childhood; sometimes those adults give themselves avoidable concussions. No matter how good you are, you'll make stupid mistakes sometimes. The following habits constitute my "Dev Helmet."
-
-1. Before executing against prod, test small update scripts by wrapping them in a transaction (BEGIN TRAN...ROLLBACK TRAN) with some SELECT statements to validate the results before committing (COMMIT TRAN).
-1. Before running code from someone else (or from yourself more than a week ago), Ctrl+F for "drop," "delete," "update", and "into"
-1. Start your scripts with USE [databaseName]
-1. Use version control!
-
 ## How Records Retention works
 I spent a few years of my professional life developing workflows and custom code to support regulatory Records Retention (RR) efforts within a document management/content management system which I administered for a private financial institution. Here's an introduction to some of the basic concepts of RR.
 
