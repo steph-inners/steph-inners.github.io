@@ -289,7 +289,7 @@ RR works by defining Document/Record Types, deciding what events might cause the
 3. Apply the metadata that will signal to automated systems when a document is ready for Retention. 
 	1. For old records, you may have to write automated and/or manual procedures that apply this metadata retroactively. 
 	1. Once you’ve determined the metadata needed for RR, all records going forward should have that metadata applied to them from the moment they are created.
-4. Write procedures (automated or manual) for sending records into the Retention phases of their lifecycle, based on the metadata applied in 3. 
+4. Write procedures (automated or manual) for sending records into the Retention phases of their lifecycle, based on the metadata applied in 3
 5. Let your Records Manager(s) hit “delete.” They will do this on a regular (e.g. monthly) basis going forward.
 
 ### Best practices for RR
@@ -497,6 +497,8 @@ It also helps with planning. Please use it, and be safe out there :)
 
 ## Media recommendations
 
+Be aware that many of these have mature themes and aren't suitable for kids. If you pick up one of my recommendations, I'd love to hear your thoughts; contact me with [one of the methods here.](https://steph-inners.github.io/#contact-info)
+
 ### Must-read books
 
 See [my GoodReads account](https://www.goodreads.com/user/show/17924913) for some reviews and recommendations as well.
@@ -505,6 +507,7 @@ See [my GoodReads account](https://www.goodreads.com/user/show/17924913) for som
 2. Frankenstein
 3. A Scanner Darkly (by Philip K. Dick)
 4. The Wind-Up Bird Chronicle (by Haruki Murakami)
+5. Six Myths About the Good Life (by Joel Kupperman)
 
 ### Quality webcomics
 
@@ -522,12 +525,20 @@ See [my GoodReads account](https://www.goodreads.com/user/show/17924913) for som
 5. Stardew Valley
 6. The Legend of Zelda: Breath of the Wild
 7. Shadow of the Colossus
+8. Mario 64
+9. Earthbound
+
+### Best manga, comic books & graphic novels
+1. Fullmetal Alchemist
+2. I Kill Giants
+3. V for Vendetta
+4. Goodnight Punpun
 
 ### Fun things from around the internet
 
 1. [Assume a Can Opener](https://en.wikipedia.org/wiki/Assume_a_can_opener)
 1. [A collection of beautiful minimal websites](https://minimal.gallery/)
-2. [A gallery of OS GUIs](http://toastytech.com/guis/index.html)
+1. [A gallery of OS GUIs](http://toastytech.com/guis/index.html)
 
 ## Free remote cross-platform Minecraft server hosting
 
