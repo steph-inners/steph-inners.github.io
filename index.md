@@ -508,6 +508,7 @@ See [my GoodReads account](https://www.goodreads.com/user/show/17924913) for som
 3. A Scanner Darkly (by Philip K. Dick)
 4. The Wind-Up Bird Chronicle (by Haruki Murakami)
 5. Six Myths About the Good Life (by Joel Kupperman)
+6. The Life of Pi
 
 ### Quality webcomics
 
