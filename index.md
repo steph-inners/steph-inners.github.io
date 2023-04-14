@@ -166,11 +166,9 @@ For a one-page copy of my resume with more detail and my LinkedIn profile, email
 ### My expertise is in…
 
 1. Data warehousing, data engineering, custom integrations, ETL/ELT, OLTP/OLAP, data pipelines, database administration & analytics with **T-SQL, SQL Server, PowerBI & SSMS**
-2. 
-3. Process automation & **.NET** development with **C#, git, VS Code & Visual Studio**
-4. Enterprise Content Management (ECM) & document management with **Laserfiche, Wordpress, OCR & Regex**
-5. Project management, SDLC management, requirements gathering,  & business analysis
-
+2. Process automation & **.NET** development with **C#, git, VS Code & Visual Studio**
+3. Enterprise Content Management (ECM) & document management with **Laserfiche, Wordpress, OCR & Regex**
+4. Project management, SDLC management, requirements gathering,  & business analysis
 
 ### I’ve also built projects using…
 
@@ -322,6 +320,7 @@ A good RR tool allows you to define Document Types, Retention Triggers, and Rete
 - [Python-based jisho.org scraper](https://pypi.org/project/jisho-api/)
 - [Python Markdown extension focused on MD-based technical documentation](https://squidfunk.github.io/mkdocs-material/getting-started/)
 - [Site generator for Apple Notes](https://devlog.notespub.com/2022/08/site-generator-for-apple-notes/)
+- [A drawing animator](https://fairanimateddrawings.com/site/home)
 
 ### Fun stuff to read for coders
 
