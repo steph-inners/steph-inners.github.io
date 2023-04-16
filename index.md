@@ -471,9 +471,9 @@ Pokémon games have an option to use kana or kanji, but unfortunately don’t ha
 
 ### Which consoles to use
 
-**Nintendo Switch** is my favorite option because both the console and games are relatively inexpensive, it has cross-region support, and the library has plenty of kid/teen-focused games which are less heavy on complicated dialog. For games that support both English and Japanese language options, you can easily switch between the two via the console settings (this requires a console restart each time).
+**Nintendo Switch** is my favorite option because both the console and games are relatively inexpensive, it has cross-region support, and the library has plenty of kid/teen-focused games which are less heavy on complicated dialog. For games that support both English and Japanese language options, you can easily switch between the two via the console settings as long as you have the digital copy of the game (this requires a console restart each time).
 
-**Nintendo 3DS** is also inexpensive, but is region-locked, so you’ll need a Japanese system and Japanese games. It has a large library of kid/teen-friendly games.
+**Nintendo 3DS** is also inexpensive, but is region-locked, so you’ll need a Japanese system and Japanese games. It has a large library of kid/teen-friendly games which are an appropriate language level for intermediate learners.
 
 ### Where to buy region-locked Japanese consoles and games
 
