@@ -490,7 +490,7 @@ The following games have an option to view text with accompanying furigana, and 
 4. Animal Crossing: New Leaf とびだせ　どうぶつの森 (Nintendo 3DS)
 5. Yokai Watch 1 妖怪ウォッチ1 (Nintendo 3DS)
 6. Yokai Watch 2 妖怪ウォッチ2 (Nintendo 3DS)
-7. Harvest Moon: The Tale of Two Towns 牧場物語 (Nintendo 3DS)
+7. Harvest Moon: The Tale of Two Towns 牧場物語　ふたごの村 (Nintendo 3DS)
 
 ## Fun stuff to read for Japanese learners
 
