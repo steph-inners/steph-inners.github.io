@@ -463,7 +463,7 @@ I'm self-taught in Japanese at approximately the JLPT N3 level. Many of the reso
 
 ## Gaming in Japanese
 
-## Why furigana is your friend
+### Why furigana is your friend
 
 This is one of my favorite methods of language practice. By focusing on games with furigana, you can practice your kanji recognition and avoid the confusion of full-hiragana/katakana text (where it’s often difficult to tell where one word ends and another begins). You should mostly rely on the kanji itself, but accompanying furigana makes it easy to look up the kanji you’re unsure about.
 
@@ -471,7 +471,7 @@ Pokémon games have an option to use kana or kanji, but unfortunately don’t ha
 
 ### Which consoles to use
 
-**Nintendo Switch** is my favorite option because both the console and games are relatively inexpensive, it has cross-region support, and the library has plenty of kid/teen-focused games which are less heavy on complicated dialog.
+**Nintendo Switch** is my favorite option because both the console and games are relatively inexpensive, it has cross-region support, and the library has plenty of kid/teen-focused games which are less heavy on complicated dialog. For games that support both English and Japanese language options, you can easily switch between the two via the console settings (this requires a console restart each time).
 
 **Nintendo 3DS** is also inexpensive, but is region-locked, so you’ll need a Japanese system and Japanese games. It has a large library of kid/teen-friendly games.
 
@@ -573,7 +573,7 @@ See [my GoodReads account](https://www.goodreads.com/user/show/17924913) for som
 
 ## Free remote cross-platform Minecraft server hosting
 
-I have no affiliation with this site, just good experiences: [https://bedocker.com](https://bedocker.com)
+I have no affiliation with this site, just good experiences: [bedocker.com](https://bedocker.com)
 
 ## Favorite quotes
 
@@ -592,7 +592,7 @@ I have no affiliation with this site, just good experiences: [https://bedocker.c
 
 ## Recipes I make when my parents are over for dinner
 
-These recipes serve (at least) 4 people and still taste good with onions, garlic, and mushrooms removed (allergies are a bummer). I get garlic-free and onion-free stocks, sauces and dressings from [Fody Foods](https://www.fodyfoods.com/)
+These recipes serve (at least) 4 people and still taste good with onions, garlic, and mushrooms removed (allergies are a bummer). I get garlic- and onion-free stocks, sauces and dressings from [Fody Foods](https://www.fodyfoods.com/)
 
 - Chicken saltimbocca; from Trisha’s Table; by Trisha Yearwood; pg 108
 - Fettuccine Alfredo with Salmon and asparagus; from The Joy of Cooking; by Irma S Rombauer, Marion Rombauer Becker, and Ethan Becker; pg 327
