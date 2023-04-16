@@ -461,7 +461,38 @@ I'm self-taught in Japanese at approximately the JLPT N3 level. Many of the reso
 - [Doraemon vol. 1](https://github.com/steph-inners/AnkiDoraemonVol1)
 - [Wonder Egg Priority](https://github.com/steph-inners/WonderEggPriority)
 
-### Fun stuff to read for Japanese learners
+## Gaming in Japanese
+
+## Why furigana is your friend
+
+This is one of my favorite methods of language practice. By focusing on games with furigana, you can practice your kanji recognition and avoid the confusion of full-hiragana/katakana text (where it’s often difficult to tell where one word ends and another begins). You should mostly rely on the kanji itself, but accompanying furigana makes it easy to look up the kanji you’re unsure about.
+
+Pokémon games have an option to use kana or kanji, but unfortunately don’t have a furigana option.
+
+### Which consoles to use
+
+**Nintendo Switch** is my favorite option because both the console and games are relatively inexpensive, it has cross-region support, and the library has plenty of kid/teen-focused games which are less heavy on complicated dialog.
+
+**Nintendo 3DS** is also inexpensive, but is region-locked, so you’ll need a Japanese system and Japanese games. It has a large library of kid/teen-friendly games.
+
+### Where to buy region-locked Japanese consoles and games
+
+- [Play Asia](https://www.play-asia.com/)
+- [Amazon Japan](https://www.amazon.co.jp/-/en/)
+
+### Games with furigana
+
+The following games have an option to view text with accompanying furigana, and include text appropriate for a Japanese learner around the JLPT N3 level. Games marked with (!) are only available in Japanese and not English. There are plenty more options out there, but these are the games I’ve played and enjoyed.
+
+1. Animal Crossing: New Horizons あつまれ　どうぶつの森 (Nintendo Switch)
+2. (!) Yokai Watch 4 妖怪ウォッチ4 (Nintendo Switch)
+3. Chocobo Mystery Dungeon: Everybuddy チョコボ不思議なダンジョン　エブリバディ (Nintendo Switch)
+4. Animal Crossing: New Leaf とびだせ　どうぶつの森 (Nintendo 3DS)
+5. Yokai Watch 1 妖怪ウォッチ1 (Nintendo 3DS)
+6. Yokai Watch 2 妖怪ウォッチ2 (Nintendo 3DS)
+7. Harvest Moon: The Tale of Two Towns 牧場物語 (Nintendo 3DS)
+
+## Fun stuff to read for Japanese learners
 
 - [A few Japanese idioms for a better life](https://asnewman.github.io/shoshikantetsu)
 - [A glossary of owarai (お笑い, comedy) terms](https://en.wikipedia.org/wiki/Glossary_of_owarai_terms)
