@@ -386,9 +386,25 @@ I'm self-taught in Japanese at approximately the JLPT N3 level. Many of the reso
 
 “I’ll entrust tomorrow’s problems to tomorrow’s me”
 
+> 明日は明日の風が吹く
+
+“Tomorrow’s wind will blow tomorrow” (Tomorrow will take care of itself)
+
 > 二兎を追う者は一兎をも得ず
 
-“If you chase two rabbits, you’ll catch none
+“If you chase two rabbits, you’ll catch none”
+
+> 下手上手
+
+“Crude but charming; poorly made but captivating”
+
+> 下手な鉄砲も数打てば当たる
+
+“With enough tries even a poor marksman will make the shot”
+
+> 下手の長談義
+
+“The long-winded speech of the unskilled” (Poor speakers make long speeches)
 
 <a href="#top" id="miscellany">Return to top</a>
 
