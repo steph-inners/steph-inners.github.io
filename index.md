@@ -1,92 +1,6 @@
-<style>
-	
-	body {
-		background-color: #323633;
-		color: #c2d1c6;
-	}
-	
-	a {
-		color: #93c29d;
-	}
-	
-    .art {
-          padding: 5px
-          background-color: #c2d1c6;    
-          text-align: center;
-          width: 30%;
-     }
-	 
-    .gallery {
-          padding: 5px
-          background-color: #c2d1c6;    
-          text-align: center;
-          width: 30%;
-          display: flex;
-     }
-
-     .icon {
-          width: 30px;
-          height: 30px;
-          padding: 0px;
-     }
-
-     #socials {
-          display: flex;
-          justify-content: center;
-          padding-right: 10px;
-     }
-
-	 
-	blockquote p {
-		color: #a4baaa;
-	}
-
-     #nav {
-          position: fixed; 
-          color: #fff; 
-          font-size: 14px; 
-          font-weight: 600; 
-          background-color: #93c29d;
-          color: #323633;
-          padding: 10px 10px 10px 36px; 
-          height: 100%; 
-          width: 300px; 
-          overflow: wrap; 
-          top: 0; 
-          left: 0; 
-     }
-
-     #nav h1 {
-          font-size: 24px;
-     }
-
-     @media screen and (max-width: 600px) {
-          #nav {
-               visibility: hidden;
-               clear: both;
-          }
-          #mainContent {
-               padding-left: 0px;
-               left: 0px;
-               top: 0px;
-          }
-     }
-
-     @media screen and (min-width: 600px) {
-          #mainContent {
-               padding-left: 310px;
-          }
-     }
-
-     #nav a {
-          color: #323633;
-     }
-
-     h1 a {
-          visibility: hidden;
-     }
-	
-</style>
+<head>
+     <link type="text/css" rel="stylesheet" href="styles.css" />
+</head>
 
 <div id="nav" markdown="1">
 
@@ -461,38 +375,7 @@ I'm self-taught in Japanese at approximately the JLPT N3 level. Many of the reso
 - [Doraemon vol. 1](https://github.com/steph-inners/AnkiDoraemonVol1)
 - [Wonder Egg Priority](https://github.com/steph-inners/WonderEggPriority)
 
-## Gaming in Japanese
-
-### Why furigana is your friend
-
-This is one of my favorite methods of language practice. By focusing on games with furigana, you can practice your kanji recognition and avoid the confusion of full-hiragana/katakana text (where it’s often difficult to tell where one word ends and another begins). You should mostly rely on the kanji itself, but accompanying furigana makes it easy to look up the kanji you’re unsure about.
-
-Pokémon games have an option to use kana or kanji, but unfortunately don’t have a furigana option.
-
-### Which consoles to use
-
-**Nintendo Switch** is my favorite option because both the console and games are relatively inexpensive, it has cross-region support, and the library has plenty of kid/teen-focused games which are less heavy on complicated dialog. For games that support both English and Japanese language options, you can easily switch between the two via the console settings as long as you have the digital copy of the game (this requires a console restart each time).
-
-**Nintendo 3DS** is also inexpensive, but is region-locked, so you’ll need a Japanese system and Japanese games. It has a large library of kid/teen-friendly games which are an appropriate language level for intermediate learners.
-
-### Where to buy region-locked Japanese consoles and games
-
-- [Play Asia](https://www.play-asia.com/)
-- [Amazon Japan](https://www.amazon.co.jp/-/en/)
-
-### Games with furigana
-
-The following games have an option to view text with accompanying furigana, and include text appropriate for a Japanese learner around the JLPT N3 level. Games marked with (!) are only available in Japanese and not English. There are plenty more options out there, but these are the games I’ve played and enjoyed.
-
-1. Animal Crossing: New Horizons あつまれ　どうぶつの森 (Nintendo Switch)
-2. (!) Yokai Watch 4 妖怪ウォッチ4 (Nintendo Switch)
-3. Chocobo Mystery Dungeon: Everybuddy チョコボ不思議なダンジョン　エブリバディ (Nintendo Switch)
-4. Animal Crossing: New Leaf とびだせ　どうぶつの森 (Nintendo 3DS)
-5. Yokai Watch 1 妖怪ウォッチ1 (Nintendo 3DS)
-6. Yokai Watch 2 妖怪ウォッチ2 (Nintendo 3DS)
-7. Harvest Moon: The Tale of Two Towns 牧場物語　ふたごの村 (Nintendo 3DS)
-
-## Fun stuff to read for Japanese learners
+### Fun stuff to read for Japanese learners
 
 - [A few Japanese idioms for a better life](https://asnewman.github.io/shoshikantetsu)
 - [A glossary of owarai (お笑い, comedy) terms](https://en.wikipedia.org/wiki/Glossary_of_owarai_terms)
@@ -512,6 +395,8 @@ The following games have an option to view text with accompanying furigana, and 
 # Miscellany
 
 As a data governance nerd I'm compelled to proclaim "'MISCELLANEOUS' IS NOT A CATEGORY." And yet, here we are.
+
+[...](writing\cornell_docs.md)
 
 ## Day hike itinerary
 
@@ -573,7 +458,7 @@ See [my GoodReads account](https://www.goodreads.com/user/show/17924913) for som
 
 ## Free remote cross-platform Minecraft server hosting
 
-I have no affiliation with this site, just good experiences: [bedocker.com](https://bedocker.com)
+I have no affiliation with this site, just good experiences: [https://bedocker.com](https://bedocker.com)
 
 ## Favorite quotes
 
@@ -592,7 +477,7 @@ I have no affiliation with this site, just good experiences: [bedocker.com](http
 
 ## Recipes I make when my parents are over for dinner
 
-These recipes serve (at least) 4 people and still taste good with onions, garlic, and mushrooms removed (allergies are a bummer). I get garlic- and onion-free stocks, sauces and dressings from [Fody Foods](https://www.fodyfoods.com/)
+These recipes serve (at least) 4 people and still taste good with onions, garlic, and mushrooms removed (allergies are a bummer). I get garlic-free and onion-free stocks, sauces and dressings from [Fody Foods](https://www.fodyfoods.com/)
 
 - Chicken saltimbocca; from Trisha’s Table; by Trisha Yearwood; pg 108
 - Fettuccine Alfredo with Salmon and asparagus; from The Joy of Cooking; by Irma S Rombauer, Marion Rombauer Becker, and Ethan Becker; pg 327
