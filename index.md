@@ -142,9 +142,17 @@ For a one-page copy of my resume with more detail and my LinkedIn profile, email
 ## Handy SQL tricks
 
 I wrote these to make my life easier. I hope they help you too :)
+See the [full repository here](https://github.com/steph-inners/handy-SQL-tricks), hosted on [my GitHub page](https://github.com/steph-inners).
 
 - [Show query results before and after a change](https://github.com/steph-inners/handy-SQL-tricks/blob/6d3f720c271b171443d7a39f52f69cbb6aa4dfdf/Testing%20query%20results%20before%20and%20after.sql)
 - [Export from a SQL database to CSV using Bulk Copy (BCP) WITH a header row](https://github.com/steph-inners/handy-SQL-tricks/blob/3fa378d6be749d6e51615d443162633935d5c9f8/sp_CsvWithHeaders.sql)
+
+## Apple Shortcuts
+
+Handy automations for daily tasks in iOS
+See the [full repository here](https://github.com/steph-inners/apple_shortcuts), hosted on [my GitHub page](https://github.com/steph-inners).
+
+- [Save the contents of a webpage to the Notes app](https://github.com/steph-inners/apple_shortcuts/blob/902dd2adb1684f03ddb8345dbbfb73c4c2ddff42/Save%20Article.shortcut)
 
 ## Heuristics for data-adjacent developers
 
@@ -471,6 +479,7 @@ See [my GoodReads account](https://www.goodreads.com/user/show/17924913) for som
 1. [Assume a Can Opener](https://en.wikipedia.org/wiki/Assume_a_can_opener)
 1. [A collection of beautiful minimal websites](https://minimal.gallery/)
 1. [A gallery of OS GUIs](http://toastytech.com/guis/index.html)
+2. [This article, which is](https://jonathanhaidt.substack.com/p/why-some-researchers-think-im-wrong) primarily about the possible causal relationship between social media use and depression/anxiety. But along the way the author does a great job explaining how social science data is collected and interpreted in studies like his
 
 ## Free remote cross-platform Minecraft server hosting
 
@@ -482,7 +491,7 @@ I have no affiliation with this site, just good experiences: [https://bedocker.c
 
 -- from *The City Commute: The Art & Science of Life's Most Tedious Journey* by Peter Hunt Welch
 
-> "The industrial revolution made the production of an instrument like [the piano] possible. Several planks of wood - six I think in this case - are overlaid and pressed into shape by tremendous force for six months. Nature is molded into shape. Many tons of force and pressure are applied, making the strings what they are. Matter taken from nature is molded by human industry, by the sum strength of civilization. Nature is forced into shape. Interestingly, the piano requires re-tuning. We humans say, 'It falls out of tune', but that's not exactly accurate - matter is struggling to return to a natural state. The tsunami, in one moment, became a force of restoration. The [tsunami-damaged] piano re-tuned by nature actually sounds good to me now. In short, the piano is tuned by force to please our ears or ideals; it's a condition that feels natural to us humans. But from nature's perspective, it's very unnatural. I think deep inside me somewhere, I have a strong aversion to that."
+> "The industrial revolution made the production of an instrument like [the piano] possible. Several planks of wood - six I think in this case - are overlaid and pressed into shape by tremendous force for six months. Nature is molded into shape. Many tons of force and pressure are applied, making the strings what they are. Matter taken from nature is molded by human industry, by the sum strength of civilization. Nature is forced into shape. Interestingly, the piano requires re-tuning. We humans say, 'It falls out of tune', but that's not exactly accurate - matter is struggling to return to a natural state. The tsunami, in one moment, became a force of restoration. The tsunami-damaged piano re-tuned by nature actually sounds good to me now. In short, the piano is tuned by force to please our ears or ideals; it's a condition that feels natural to us humans. But from nature's perspective, it's very unnatural. I think deep inside me somewhere, I have a strong aversion to that."
 
 -- Ryuichi Sakamoto
 
