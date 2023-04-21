@@ -45,7 +45,7 @@
 
 # Hi, I'm Steph :)
 
-I'm a professional SQL developer and a hobbyist illustrator & translator. If anything on this site piques your interest, by all means please reach out using one of the contact methods below. I look forward to hearing from you!
+I'm a professional database developer and a hobbyist illustrator & translator. If anything on this site piques your interest, by all means please reach out using one of the contact methods below. I look forward to hearing from you!
 
 ステフと申します。職業はデーターベースプログラマー、趣味はお絵描きとハイキングです。漫画とアニメとテレビゲームが好きだから、日本語を10年前から独学で習っています。同じ趣味があるとか、外国会話にすれば連絡して下さい。宜しくお願いします^ ^
 
