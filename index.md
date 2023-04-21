@@ -493,7 +493,7 @@ I have no affiliation with this site, just good experiences: [https://bedocker.c
 -- from *The City Commute: The Art & Science of Life's Most Tedious Journey* by Peter Hunt Welch
 
 > “You need to have a pretty informed idea of what the box is before you can think outside it.”
-> 
+
 —- from *The Origins of Creativity*, published in *The New Yorker* by Louis Menand
 
 > "The industrial revolution made the production of an instrument like [the piano] possible. Several planks of wood - six I think in this case - are overlaid and pressed into shape by tremendous force for six months. Nature is molded into shape. Many tons of force and pressure are applied, making the strings what they are. Matter taken from nature is molded by human industry, by the sum strength of civilization. Nature is forced into shape. Interestingly, the piano requires re-tuning. We humans say, 'It falls out of tune', but that's not exactly accurate - matter is struggling to return to a natural state. The tsunami, in one moment, became a force of restoration. The tsunami-damaged piano re-tuned by nature actually sounds good to me now. In short, the piano is tuned by force to please our ears or ideals; it's a condition that feels natural to us humans. But from nature's perspective, it's very unnatural. I think deep inside me somewhere, I have a strong aversion to that."
