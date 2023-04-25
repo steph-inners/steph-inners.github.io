@@ -224,7 +224,7 @@ RR works by defining Document/Record Types, deciding what events might cause the
 
 ### Technologies to help RR projects go smoother
 
-A good RR tool allows you to define Document Types, Retention Triggers, and Retention Periods. It should automatically notify the Records Manager when records have reached their Delete Date. It should allow for optional collection of Metadata on records that have been deleted in the past. 
+A good RR tool allows you to define Document Types, Retention Triggers, and Retention Periods. It should automatically notify the Records Manager when records have reached their Delete Date. It should allow for optional collection of Metadata on records that have been deleted in the past.
 
 1. Some file directory scraping programs help analyze and categorize the documents that exist on hard drives, network drives, cloud document stores, etc.
 2. Some document management systems have dedicated RR functions that make it easy to automate RR.
@@ -246,6 +246,7 @@ A good RR tool allows you to define Document Types, Retention Triggers, and Rete
 
 ### Fun stuff to read for coders
 
+- [A series of blog posts about scaling databases](https://brooker.co.za/blog/2023/01/30/nosql.html)
 - [Normalization of Deviance](https://danluu.com/wat/)
 - [Building a homegrown SQL data dictionary](https://www.red-gate.com/simple-talk/databases/sql-server/database-administration-sql-server/building-a-sql-server-data-dictionary/)
 - [The weirdness of Windows file paths](https://www.fileside.app/blog/2023-03-17_windows-file-paths/)
