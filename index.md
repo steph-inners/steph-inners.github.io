@@ -481,7 +481,8 @@ See [my GoodReads account](https://www.goodreads.com/user/show/17924913) for som
 1. [Assume a Can Opener](https://en.wikipedia.org/wiki/Assume_a_can_opener)
 1. [A collection of beautiful minimal websites](https://minimal.gallery/)
 1. [A gallery of OS GUIs](http://toastytech.com/guis/index.html)
-2. [This article, which is](https://jonathanhaidt.substack.com/p/why-some-researchers-think-im-wrong) primarily about the possible causal relationship between social media use and depression/anxiety. But along the way the author does a great job explaining how social science data is collected and interpreted in studies like his
+1. [This article, which is](https://jonathanhaidt.substack.com/p/why-some-researchers-think-im-wrong) primarily about the possible causal relationship between social media use and depression/anxiety. But along the way the author does a great job explaining how social science data is collected and interpreted in studies like his
+1. [A series of beautiful photographs of... oil rigs](https://twitter.com/FedeItaliano76/status/1650871570137600000)
 
 ## Free remote cross-platform Minecraft server hosting
 
