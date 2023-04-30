@@ -250,6 +250,7 @@ A good RR tool allows you to define Document Types, Retention Triggers, and Rete
 - [Normalization of Deviance](https://danluu.com/wat/)
 - [Building a homegrown SQL data dictionary](https://www.red-gate.com/simple-talk/databases/sql-server/database-administration-sql-server/building-a-sql-server-data-dictionary/)
 - [The weirdness of Windows file paths](https://www.fileside.app/blog/2023-03-17_windows-file-paths/)
+- [*My product is my garden*](https://herman.bearblog.dev/my-product-is-my-garden/)
 
 <a href="#top" id="art">Return to top</a>
 
@@ -349,6 +350,7 @@ Some Copic-safe options include…
 
 ## Online resources for artists
 
+- [A free and highly flexible pose modeling tool](https://justsketch.me/)
 - [A guide to scanning photos](https://imagerestorationcenter.com/best-format-to-scan-photos/)
 - [A 70-color skin tone pack for Procreate](https://icy-need.glitch.me/)
 - [My favorite sketching brushes for Procreate](https://jingsketch.gumroad.com/l/JingsketchBrushes)
