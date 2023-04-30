@@ -509,6 +509,10 @@ I have no affiliation with this site, just good experiences: [https://bedocker.c
 
 —- Paul Klee
 
+> “You’re going to ruin paintings. Full stop. Get used to it. Embrace the failures and give successes a nod, but understand the ruined paintings are the real teachers. They bite like the serpent but the lesson is to look for where you went wrong and try to correct that. Don’t coddle your work. Don’t be tentative. Make your marks and *learn.*”
+
+—- Iain Stewart, artist and author of *En Plein Air: Light & Color*
+
 > “Drawing is my favorite way to see”
 
 —- An Instagram artist whose name I unfortunately can’t recall
