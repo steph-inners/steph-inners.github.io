@@ -251,6 +251,7 @@ A good RR tool allows you to define Document Types, Retention Triggers, and Rete
 - [Building a homegrown SQL data dictionary](https://www.red-gate.com/simple-talk/databases/sql-server/database-administration-sql-server/building-a-sql-server-data-dictionary/)
 - [The weirdness of Windows file paths](https://www.fileside.app/blog/2023-03-17_windows-file-paths/)
 - [*My product is my garden*](https://herman.bearblog.dev/my-product-is-my-garden/)
+- [Programming “Waterloo style”](https://theprogrammersparadox.blogspot.com/2023/04/waterloo-style.html)
 
 <a href="#top" id="art">Return to top</a>
 
@@ -500,6 +501,10 @@ I have no affiliation with this site, just good experiences: [https://bedocker.c
 > “You need to have a pretty informed idea of what the box is before you can think outside it.”
 
 —- from *The Origins of Creativity*, published in *The New Yorker* by Louis Menand
+
+> “Show me your flowchart and conceal your tables, and I shall continue to be mystified. Show me your tables, and I won’t usually need your flowchart; it’ll be obvious.”
+
+—- Fred Brooks, *The Mythical Man Month* (1975)
 
 > "To learn another language is to possess a second soul"
 
