@@ -393,6 +393,7 @@ I'm self-taught in Japanese at approximately the JLPT N3 level. Many of the reso
 
 - [A few Japanese idioms for a better life](https://asnewman.github.io/shoshikantetsu)
 - [A glossary of owarai (お笑い, comedy) terms](https://en.wikipedia.org/wiki/Glossary_of_owarai_terms)
+- [A highly relatable essay on the difficulties of translation](https://antigonejournal.com/2021/06/pitfalls-latin-translation/)
 
 ## Interesting Japanese phrases, quotes and idioms
 
