@@ -252,6 +252,7 @@ A good RR tool allows you to define Document Types, Retention Triggers, and Rete
 - [The weirdness of Windows file paths](https://www.fileside.app/blog/2023-03-17_windows-file-paths/)
 - [*My product is my garden*](https://herman.bearblog.dev/my-product-is-my-garden/)
 - [Programming “Waterloo style”](https://theprogrammersparadox.blogspot.com/2023/04/waterloo-style.html)
+- [Tenets of "Brutalist" web design](https://brutalist-web.design/)
 
 <a href="#top" id="art">Return to top</a>
 
