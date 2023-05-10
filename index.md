@@ -253,6 +253,7 @@ A good RR tool allows you to define Document Types, Retention Triggers, and Rete
 - [*My product is my garden*](https://herman.bearblog.dev/my-product-is-my-garden/)
 - [Programming “Waterloo style”](https://theprogrammersparadox.blogspot.com/2023/04/waterloo-style.html)
 - [Tenets of "Brutalist" web design](https://brutalist-web.design/)
+- [*Watch this page fetch itself, byte by byte, over TLS*](https://subtls.pages.dev/)
 
 <a href="#top" id="art">Return to top</a>
 
