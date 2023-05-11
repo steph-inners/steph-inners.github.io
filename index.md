@@ -521,6 +521,7 @@ See [my GoodReads account](https://www.goodreads.com/user/show/17924913) for som
 1. [An online reproduction of a beautifully-illustrated botanical book](https://www.c82.net/twining/)
 1. [Why blog?](https://www.craigkerstiens.com/2013/03/31/why-i-blog/)
 1. [A game illustrating the challenges of content moderation](https://moderatormayhem.engine.is/)
+1. [Hobson’s Choice](https://en.wikipedia.org/wiki/Hobson%27s_choice)
 
 ## Free remote cross-platform Minecraft server hosting
 
