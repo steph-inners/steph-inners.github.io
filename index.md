@@ -118,7 +118,29 @@ For a one-page copy of my resume with more detail and my LinkedIn profile, email
 - **Laserfiche Financial Services Trailblazer Award** (2021)
 - **Laserfiche Run Smarter Award** (2020)
 
-### Friends & colleagues describe me as…
+## Cool things I've built
+
+This is a nonexhaustive list of some of my favorite tools/apps/processes I've built for various professional roles. In each of these projects I had at least the majority contribution in both design and development, *and* I had a lot of fun doing it.
+
+### Azure Reporting database
+
+...
+
+### Registration Status reporting
+
+The end product here was a comprehensive dashboard in Power BI showing all aspects of student and course registration for a university (things like enrollment counts, breakdown by major, trends over time, etc.) I designed and built the underlying relational and dimensional tables, and populated them automatically via stored procedures (with error and success logging and plenty of transformations where needed), pulling from various on-prem and cloud sources. I also designed and built the dashboard layout, metrics, and user access control based on requirements I collected from a series of talks with my internal clients.
+
+My favorite part of this project was a "transaction log" which tracked certain events that the clients considered significant, and highlighted those events within the dashboard. This made it much easier for the clients to intervene when a student needed guidance regarding their enrollments.
+
+### Laserfiche search enhancements
+
+... Note to self: user surveys were neat
+
+### Complaint Log
+
+...
+
+## Friends & colleagues describe me as…
 
 - "Conscientious"
 - "Pragmatic"
@@ -217,10 +239,9 @@ RR works by defining Document/Record Types, deciding what events might cause the
 1. A record should not change during its Retention Period. If it is changing after it’s already been sent to Retention, that’s a likely signal that the Cutoff Date you’ve given it is too early in its lifecycle. 
 2. Keep all client records in a dedicated system/location that has built-in retention features (such as a feature for setting Retention Periods). Don’t allow internal users to keep any client-related records on their desktops, in network drives, or in other locations where the records will be difficult to automatically catalog.
 3. If the only possible Document Type for a record is “Miscellaneous,” that probably means that it’s not actually needed, and can be destroyed immediately without even going into Retention.
-4. Restrict the UI of document submissions so that it’s very difficult for users to accidentally attribute documents/information to the wrong client
-5. When users type in a client ID, the client’s name should pop up as verification. Use "double-check" features like this to help users input better data.
-6. When choosing a Records Manager, look for a minimalist. A person who likes to destroy old records is hard to find, but valuable. When other people get too scared to destroy old records, this person should be able to remind them why old records are not needed (and why they can be a liability).
-7. While much QA can be accomplished automatically with the right tools, some documents may need to be looked at manually (e.g. if they have inconsistent visual templates that cannot be OCR’d). The best approach to manual QA is actually a hybrid; give your QA team automatic tools that present the narrowest possible options to select using whatever the automated system can identify on its own.
+4. Restrict the UI of document submissions so that it’s very difficult for users to accidentally attribute documents/information to the wrong client. When users type in a client ID, the client’s name should pop up as verification. Use "double-check" features like this to help users input better data.
+5. When choosing a Records Manager, look for a minimalist. A person who likes to destroy old records is hard to find, but valuable. When other people get too scared to destroy old records, this person should be able to remind them why old records are not needed (and why they can be a liability).
+6. While much QA can be accomplished automatically with the right tools, some documents may need to be looked at manually (e.g. if they have inconsistent visual templates that cannot be OCR’d). The best approach to manual QA is actually a hybrid; give your QA team automatic tools that present the narrowest possible options to select using whatever the automated system can identify on its own.
 
 ### Technologies to help RR projects go smoother
 
@@ -246,6 +267,7 @@ A good RR tool allows you to define Document Types, Retention Triggers, and Rete
 
 ### Fun stuff to read for coders
 
+- [Hacker News](https://news.ycombinator.com/) is a perrennial source of interesting tech stuff
 - [A series of blog posts about scaling databases](https://brooker.co.za/blog/2023/01/30/nosql.html)
 - [Normalization of Deviance](https://danluu.com/wat/)
 - [Building a homegrown SQL data dictionary](https://www.red-gate.com/simple-talk/databases/sql-server/database-administration-sql-server/building-a-sql-server-data-dictionary/)
@@ -456,6 +478,7 @@ See [my GoodReads account](https://www.goodreads.com/user/show/17924913) for som
 4. The Wind-Up Bird Chronicle (by Haruki Murakami)
 5. Six Myths About the Good Life (by Joel Kupperman)
 6. The Life of Pi
+7. Art and Fear
 
 ### Quality webcomics
 
@@ -475,12 +498,18 @@ See [my GoodReads account](https://www.goodreads.com/user/show/17924913) for som
 7. Shadow of the Colossus
 8. Mario 64
 9. Earthbound
+10. Monster Hunter: World
 
 ### Best manga, comic books & graphic novels
 1. Fullmetal Alchemist
-2. I Kill Giants
-3. V for Vendetta
-4. Goodnight Punpun
+2. Death Note
+3. I Kill Giants
+4. V for Vendetta
+5. Goodnight Punpun
+6. Monster (Naoki Urasawa)
+7. Witch Hat Atelier (ongoing, but quality is great so far)
+8. All You Need Is Kill (ridiculous title, fantastic story)
+9. Uzumaki
 
 ### Fun things from around the internet
 
