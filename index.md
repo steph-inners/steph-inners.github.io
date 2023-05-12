@@ -132,6 +132,12 @@ The end product here was a comprehensive dashboard in Power BI showing all aspec
 
 My favorite part of this project was a "transaction log" which tracked certain events that the clients considered significant, and highlighted those events within the dashboard. This made it much easier for the clients to intervene when a student needed guidance regarding their enrollments.
 
+### Operational error/success logging
+
+A team that I came onto had been drowning in break/fix tickets for custom internal builds. Many of the tickets seemed recurring or at least similar, but there was no sense of the root cause and little capacity to look for one. I whipped up a quick and dirty success/error logging process in SQL and C#, including functions that could be called from custom code in both languages to log significant events/transactions in a central report in Power BI. It wasn’t beautiful (and I wish I could go back for enhancements), but the log enabled us to find some root cause issues, detect budding problems *before* they became tickets, and greatly reduce our incoming ticket volume.
+
+I loved this mini-project because though it was very technically basic, it had an immediate and powerful return, and it made life less stressful for everyone tasked with operations firefighting.
+
 ### Laserfiche search enhancements
 
 ... Note to self: user surveys were neat
