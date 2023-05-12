@@ -128,7 +128,7 @@ This is a nonexhaustive list of some of my favorite tools/apps/processes I've bu
 
 ### Registration Status reporting
 
-The end product here was a comprehensive dashboard in Power BI showing all aspects of student and course registration for a university (things like enrollment counts, breakdown by major, trends over time, etc.) I designed and built the underlying relational and dimensional tables, and populated them automatically via stored procedures (with error and success logging and plenty of transformations where needed), pulling from various on-prem and cloud sources. I also designed and built the dashboard layout, metrics, and user access control based on requirements I collected from a series of talks with my internal clients.
+The end product here was a comprehensive dashboard in Power BI showing all aspects of student and course registration for a set of unique academic programs (things like enrollment counts, breakdown by major, credits earned, trends over time, etc.) I designed and built the underlying relational and dimensional tables, and populated them automatically via stored procedures (with error and success logging and plenty of transformations where needed), pulling from various on-prem and cloud sources. I also designed and built the dashboard layout, metrics, and user access control based on requirements I collected from a series of talks with my internal clients.
 
 My favorite part of this project was a "transaction log" which tracked certain events that the clients considered significant, and highlighted those events within the dashboard. This made it much easier for the clients to intervene when a student needed guidance regarding their enrollments.
 
