@@ -496,15 +496,16 @@ See [my GoodReads account](https://www.goodreads.com/user/show/17924913) for som
 ### Video games everyone should play at least once
 
 1. Disco Elysium
-2. Spiritfarer
-3. Minecraft (Classic "Survival Mode," with friends)
-4. We Love Katamari
-5. Stardew Valley
-6. The Legend of Zelda: Breath of the Wild
-7. Shadow of the Colossus
-8. Mario 64
-9. Earthbound
-10. Monster Hunter: World
+2. [Factorio](https://www.factorio.com/)
+3. Spiritfarer
+4. Minecraft (Classic "Survival Mode," with friends)
+5. We Love Katamari
+6. Stardew Valley
+7. The Legend of Zelda: Breath of the Wild
+8. Shadow of the Colossus
+9. Mario 64
+10. Earthbound
+11. Monster Hunter: World
 
 ### Best manga, comic books & graphic novels
 1. Fullmetal Alchemist
