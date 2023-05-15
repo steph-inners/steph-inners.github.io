@@ -513,14 +513,15 @@ See [my GoodReads account](https://www.goodreads.com/user/show/17924913) for som
 
 ### Fun things from around the internet
 
-1. [Assume a Can Opener](https://en.wikipedia.org/wiki/Assume_a_can_opener)
-1. [A collection of beautiful minimal websites](https://minimal.gallery/)
-1. [A gallery of OS GUIs](http://toastytech.com/guis/index.html)
-1. [This article, which is](https://jonathanhaidt.substack.com/p/why-some-researchers-think-im-wrong) primarily about the possible causal relationship between social media use and depression/anxiety. But along the way the author does a great job explaining how social science data is collected and interpreted in studies like his
-1. [A series of beautiful photographs of... oil rigs](https://twitter.com/FedeItaliano76/status/1650871570137600000)
-1. [An online reproduction of a beautifully-illustrated botanical book](https://www.c82.net/twining/)
-1. [Why blog?](https://www.craigkerstiens.com/2013/03/31/why-i-blog/)
-1. [A game illustrating the challenges of content moderation](https://moderatormayhem.engine.is/)
+1. [A zero-draft writing app that deletes your progress if you stop typing for 5 seconds](https://www.squibler.io/dangerous-writing-prompt-app)
+2. [Assume a Can Opener](https://en.wikipedia.org/wiki/Assume_a_can_opener)
+3. [A collection of beautiful minimal websites](https://minimal.gallery/)
+4. [A gallery of OS GUIs](http://toastytech.com/guis/index.html)
+5. [This article, which is](https://jonathanhaidt.substack.com/p/why-some-researchers-think-im-wrong) primarily about the possible causal relationship between social media use and depression/anxiety. But along the way the author does a great job explaining how social science data is collected and interpreted in studies like his
+6. [A series of beautiful photographs of... oil rigs](https://twitter.com/FedeItaliano76/status/1650871570137600000)
+7. [An online reproduction of a beautifully-illustrated botanical book](https://www.c82.net/twining/)
+8. [Why blog?](https://www.craigkerstiens.com/2013/03/31/why-i-blog/)
+9. [A game illustrating the challenges of content moderation](https://moderatormayhem.engine.is/)
 
 ## Free remote cross-platform Minecraft server hosting
 
