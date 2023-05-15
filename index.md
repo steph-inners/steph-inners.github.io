@@ -499,7 +499,7 @@ See [my GoodReads account](https://www.goodreads.com/user/show/17924913) for som
 2. [Factorio](https://www.factorio.com/)
 3. Spiritfarer
 4. Minecraft (Classic "Survival Mode," with friends)
-5. We Love Katamari
+5. Katamari Damacy & We Love Katamari
 6. Stardew Valley
 7. The Legend of Zelda: Breath of the Wild
 8. Shadow of the Colossus
