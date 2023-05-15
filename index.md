@@ -128,9 +128,15 @@ This is a nonexhaustive list of some of my favorite tools/apps/processes I've bu
 
 ### Registration Status reporting
 
-The end product here was a comprehensive dashboard in Power BI showing all aspects of student and course registration for a university (things like enrollment counts, breakdown by major, trends over time, etc.) I designed and built the underlying relational and dimensional tables, and populated them automatically via stored procedures (with error and success logging and plenty of transformations where needed), pulling from various on-prem and cloud sources. I also designed and built the dashboard layout, metrics, and user access control based on requirements I collected from a series of talks with my internal clients.
+The end product here was a comprehensive dashboard in Power BI showing all aspects of student and course registration for a set of unique academic programs (things like enrollment counts, breakdown by major, credits earned, trends over time, etc.) I designed and built the underlying relational and dimensional tables, and populated them automatically via stored procedures (with error and success logging and plenty of transformations where needed), pulling from various on-prem and cloud sources. I also designed and built the dashboard layout, metrics, and user access control based on requirements I collected from a series of talks with my internal clients.
 
 My favorite part of this project was a "transaction log" which tracked certain events that the clients considered significant, and highlighted those events within the dashboard. This made it much easier for the clients to intervene when a student needed guidance regarding their enrollments.
+
+### Operational error/success logging
+
+A team that I came onto had been drowning in break/fix tickets for custom internal builds. Many of the tickets seemed recurring or at least similar, but there was no sense of the root cause and little capacity to look for one. I whipped up a quick and dirty success/error logging process in SQL and C#, including functions that could be called from custom code in both languages to log significant events/transactions in a central report in Power BI. It wasn’t beautiful (and I wish I could go back for enhancements), but the log enabled us to find some root cause issues, detect budding problems *before* they became tickets, and greatly reduce our incoming ticket volume.
+
+I loved this mini-project because though it was very technically basic, it had an immediate and powerful return, and it made life less stressful for everyone tasked with operations firefighting.
 
 ### Laserfiche search enhancements
 
@@ -522,6 +528,7 @@ See [my GoodReads account](https://www.goodreads.com/user/show/17924913) for som
 7. [An online reproduction of a beautifully-illustrated botanical book](https://www.c82.net/twining/)
 8. [Why blog?](https://www.craigkerstiens.com/2013/03/31/why-i-blog/)
 9. [A game illustrating the challenges of content moderation](https://moderatormayhem.engine.is/)
+10. [Hobson’s Choice](https://en.wikipedia.org/wiki/Hobson%27s_choice)
 
 ## Free remote cross-platform Minecraft server hosting
 
