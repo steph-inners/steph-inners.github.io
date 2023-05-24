@@ -379,6 +379,34 @@ Some Copic-safe options include…
 4. [Noodler’s Bulletproof Black ink](https://noodlersink.com/about-us/noodlers-durable-ink-classification/) (water-resistant and safe for fountain pens)
 5. Yasutomo Black Sumi ink (and, presumably, other similar soot-based sumi inks). Quick-drying and water-resistant when dry.
 
+## Digital illustration with Procreate
+
+Procreate on the iPad with Apple Pencil is my favorite digital illustration tool because of its natural feel and extreme portability.
+
+### My illustration method
+
+This changes from time to time, but generally my method on Procreate is as follows:
+
+1. Sketch out general forms with the Peppermint brush on Layer 1
+2. Greatly lower the opacity of Layer 1
+3. Pencil in some more precise shapes and details with Peppermint on Layer 2
+4. Moderately lower the opacity of Layer 2
+5. Trace in clean linework layer with the Derwent brush on Layer 3
+6. Set Layer 3 to a **Reference** layer, and to **Multiply**
+7. Add coloring layers beneath the Reference linework layer. I use a distinct coloring layer for each object which has a distinct texture/color/form. For example, when illustrating a person, their skin, hair, and each layer of clothing/accessories will get its own layer.
+8. Drop base colors on each layer using Color Fill and my custom-designed [Flats brush](/Flats_brush_procreate.brush)
+9. Bring base colors all the way to the linework edge using the Wet Bright brush from the [Sergent’s Oils brush pack](https://sevenstyles.com/p/sargents-oils-procreate-brushes-1845031/)
+10. When I’m *certain* that all base colors fill their entire area, set each color layer to **Alpha Lock**
+11. Add soft shading to each color layer with Soft Brush (under Airbrushing)
+12. Add sharper shadows to each color layer with the Wet Bright brush
+
+Optional:
+
+13. Duplicate the linework layer and adjust opacity to find a good balance of line weight against the finished colors
+14. Add a layer on the very top to apply touchups as needed
+
+Reference the [Procreate Handbook](https://procreate.com/handbook/procreate) for more details on the terminology and techniques mentioned above.  
+
 ## Online resources for artists
 
 - [A free and highly flexible pose modeling tool](https://justsketch.me/)
