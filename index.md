@@ -282,6 +282,7 @@ A good RR tool allows you to define Document Types, Retention Triggers, and Rete
 - [Programming “Waterloo style”](https://theprogrammersparadox.blogspot.com/2023/04/waterloo-style.html)
 - [Tenets of "Brutalist" web design](https://brutalist-web.design/)
 - [*Watch this page fetch itself, byte by byte, over TLS*](https://subtls.pages.dev/)
+- [What’s new in SQL 2023](http://peter.eisentraut.org/blog/2023/04/04/sql-2023-is-finished-here-is-whats-new)
 
 <a href="#top" id="art">Return to top</a>
 
