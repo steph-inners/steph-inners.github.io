@@ -439,7 +439,7 @@ I'm self-taught in Japanese at approximately the JLPT N3 level. Many of the reso
 - [Anki mobile app](https://apps.apple.com/app/id373493387)
 - [Shirabe Jisho iPhone dictionary app](https://apps.apple.com/app/id1005203380)
 - [HelloTalk](https://apps.apple.com/app/id557130558) language exchange social app
-- [Japanese Core 10k](https://ankiweb.net/shared/info/935381472) Anki deck (A truly fantastic deck with audio, visuals, example sentences, and the best card sequence I’ve ever encountered. Best for Intermediate learners.) 
+- [Japanese Core 10k](https://ankiweb.net/shared/info/935381472) Anki deck (A truly fantastic deck with audio, visuals, example sentences, and the best card sequence I’ve ever encountered. Best for Intermediate learners.)
 - [Kanji practice sheets](https://kanji.sh/)
 
 ### My custom Anki decks
@@ -447,11 +447,14 @@ I'm self-taught in Japanese at approximately the JLPT N3 level. Many of the reso
 - [Doraemon vol. 1](https://github.com/steph-inners/AnkiDoraemonVol1)
 - [Wonder Egg Priority](https://github.com/steph-inners/WonderEggPriority)
 
-### Fun stuff to read for Japanese learners
+### My process for building vocabulary
 
-- [A few Japanese idioms for a better life](https://asnewman.github.io/shoshikantetsu)
-- [A glossary of owarai (お笑い, comedy) terms](https://en.wikipedia.org/wiki/Glossary_of_owarai_terms)
-- [A highly relatable essay on the difficulties of translation](https://antigonejournal.com/2021/06/pitfalls-latin-translation/)
+1. Encounter new vocabulary in podcasts, manga, anime, games, and music
+   1. Listen to [this episode of the Thinking in Japanese podcast](https://open.spotify.com/episode/29KSCpy7LeOTQGx7ztflwn?si=S6rzh94dQF2ZFhbY7NHZcg) to learn about why it's so important to find enjoyable **inputs**
+2. Look up and "star" each new word in [Shirabe Jisho iPhone dictionary app](https://apps.apple.com/app/id1005203380)
+3. Export starred vocab list as CSV from [Shirabe Jisho](https://apps.apple.com/app/id1005203380)
+4. Import CSV vocab list to [Anki desktop app](https://apps.ankiweb.net/)
+5. Study Anki decks daily on the [Anki mobile app](https://apps.apple.com/app/id373493387)]
 
 ## Interesting Japanese phrases, quotes and idioms
 
@@ -465,7 +468,7 @@ I'm self-taught in Japanese at approximately the JLPT N3 level. Many of the reso
 
 > 二兎を追う者は一兎をも得ず
 
-“If you chase two rabbits, you’ll catch none”
+“If you chase two rabbits, you’ll catch none” (Focus on one concern at a time to be successful)
 
 > 下手上手
 
@@ -480,6 +483,12 @@ I'm self-taught in Japanese at approximately the JLPT N3 level. Many of the reso
 “The long-winded speech of the unskilled” (Poor speakers make long speeches)
 
 <a href="#top" id="miscellany">Return to top</a>
+
+## Fun stuff to read for Japanese learners
+
+- [A few Japanese idioms for a better life](https://asnewman.github.io/shoshikantetsu)
+- [A glossary of owarai (お笑い, comedy) terms](https://en.wikipedia.org/wiki/Glossary_of_owarai_terms)
+- [A highly relatable essay on the difficulties of translation](https://antigonejournal.com/2021/06/pitfalls-latin-translation/)
 
 # Miscellany
 
