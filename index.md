@@ -589,6 +589,10 @@ I have no affiliation with this site, just good experiences: [https://bedocker.c
 
 —- Fred Brooks, *The Mythical Man Month* (1975)
 
+> “Premature optimization is the root of all evil.”
+
+—- Donald Knuth
+
 > "To learn another language is to possess a second soul"
 
 -- Charlemagne (maybe)
