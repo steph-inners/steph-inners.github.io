@@ -512,6 +512,27 @@ It also helps with planning. Please use it, and be safe out there :)
 
 Be aware that many of these have mature themes and aren't suitable for kids. If you pick up one of my recommendations, I'd love to hear your thoughts; contact me with [one of the methods here.](https://steph-inners.github.io/#contact-info)
 
+### The cool way to find a book
+
+Have a book you want to read, but don’t want to contribute to waste, or to the online mega-markets that are crowding out local bookstore and libraries? 
+
+Below are listed possible sources to borrow/purchase the book you’re looking for, ranked in order of best to… least best. Check these sources *in order* to find your book.
+
+For a physical copy:
+
+1. Your local library (they probably have a website where you can look through their catalog)
+2. Your local brick-and-mortar bookstore
+3. The secondhand options on [Thriftbooks.com](https://www.thriftbooks.com/)
+4. Your local bookstore’s online storefront
+5. Your local bookstore’s [Bookshop.org](https://bookshop.org/) storefront
+6. The publisher’s online storefront  
+
+For a digital copy:
+
+1. Use the [Libby app](https://apps.apple.com/app/id1076402606) or OneDrive app with your local library card
+2. Use the [Libby app](https://apps.apple.com/app/id1076402606) or OneDrive app and switch to a library card at another institution. You don’t always have to be nearby to sign up for a library card; for example, the [Free Library of Philadelphia](https://catalog.freelibrary.org/MyResearch/register) offers a free library card for all Pennsylvania residents.
+3. Your local bookstore’s [Bookshop.org](https://bookshop.org/) storefront
+
 ### Must-read books
 
 See [my GoodReads account](https://www.goodreads.com/user/show/17924913) for some reviews and recommendations as well.
