@@ -610,6 +610,10 @@ I have no affiliation with this site, just good experiences: [https://bedocker.c
 
 —- Fred Brooks, *The Mythical Man Month* (1975)
 
+> “For most of our lives, Schopenhauer says, we suffer under the lash of the will. We need things, want things, and hunger for things. When we get them, we have only a moment’s rest before being tossed off in pursuit of other things. But, Schopenhauer says, aesthetic experience offers an exception to this pattern. When I attend to something of beauty, my will is suspended, and my attention becomes freer and more disinterested. I do not think about what it might do for me. I experience it for its own sake. And this experience offers me something remarkable: a “Sabbath of the penal servitude of willing,” a moment when “the wheel of Ixion stands still.””
+
+— from [*The Paradoxes of Nostalgia*](https://ravenmagazine.org/magazine/the-paradoxes-of-nostalgia/) by Kenny Walden
+
 > “Premature optimization is the root of all evil.”
 
 —- Donald Knuth
