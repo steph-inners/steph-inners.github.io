@@ -579,7 +579,8 @@ See [my GoodReads account](https://www.goodreads.com/user/show/17924913) for som
 
 ### Fun things from around the internet
 
-1. [A zero-draft writing app that deletes your progress if you stop typing for 5 seconds](https://www.squibler.io/dangerous-writing-prompt-app)
+1. [Babelcarp: an online dictionary of Chinese tea terminology](https://babelcarp.org/babelcarp/)
+2. [A zero-draft writing app that deletes your progress if you stop typing for 5 seconds](https://www.squibler.io/dangerous-writing-prompt-app)
 2. [Where can I see Hokusai’s *Great Wave* today?](https://greatwavetoday.com/)
 3. [A delightful catalogue of ideas for ridiculous inventions](https://www.halfbakery.com)
 2. [Assume a Can Opener](https://en.wikipedia.org/wiki/Assume_a_can_opener)
