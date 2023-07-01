@@ -100,13 +100,13 @@ For a one-page copy of my resume with more detail and my LinkedIn profile, email
 
 ## Professional experience
 
-**Database Administrator** (2021-present) at a private non-profit US-based university
+**Senior Data Engineer** (2023-present) at a publicly-traded regional bank
 
-**Applications Analyst II** (2019-2021) at a publicly-traded regional bank
+**Database Administrator** (2021-2023) at a private non-profit US-based university
 
-**Applications Analyst I** (2017-2019) at the same publicly-traded regional bank
+**Applications Analyst II** (2019-2021) at a different publicly-traded regional bank
 
-- Promoted after two years of "exceeding expectations" :)
+**Applications Analyst I** (2017-2019) at the same publicly-traded regional bank as above (got promoted!)
 
 **Project Management Intern** (2015-2017) at a publicly-traded US-based global paper manufacturer
 
