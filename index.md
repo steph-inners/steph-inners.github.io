@@ -623,6 +623,10 @@ I have no affiliation with this site, just good experiences: [https://bedocker.c
 
 -- Charlemagne (maybe)
 
+> “Be regular and orderly in your life like a Bourgeois so that you may be violent and original in your work.”
+
+—- Flaubert 
+
 > "If you pick up a volume of Latin and simply start reading it, you can quickly be fooled into thinking that you know what is going on. Inside your head, you convince yourself that you are taking everything in. But if you read the text out loud, and then try to render it into normal-sounding English in a way that someone standing in front of you can understand, you often see that you only understand about 90% of the words. Alas, that final 10% is the only part that really matters, to prevent that person in front of you from subjecting you to a sad, pitying look."
 
 -- Jaspreet Singh Boparai, describing perfectly the translator's struggle in [*“A Great Ox Stands on my Tongue": The Pitfalls of Latin Translation*](https://antigonejournal.com/2021/06/pitfalls-latin-translation/)
