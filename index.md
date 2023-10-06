@@ -664,6 +664,9 @@ I have no affiliation with this site, just good experiences: [https://bedocker.c
 
 —- Ira Glass, on *This American Life*
 
+> “That’s why high school, or a crappy job, or any other restrictive circumstance can be dangerous: They make dreams too painful to bear. To avoid longing, we hunker down, wait, and resolve to just survive. Great art becomes a reminder of the art you want to be making, and of the gigantic world outside of your small, seemingly inescapable one. We hide from great things because they inspire us, and in this state, inspiration hurts.”
+
+—- Spencer Tweedy in [this essay](https://www.rookiemag.com/2014/03/the-art-of-waiting/)
 ## Favorite productivity apps
 
 1. [Forest](https://apps.apple.com/app/id866450515) pomodoro timer (for time-tracking and focus)
