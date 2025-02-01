@@ -58,11 +58,6 @@ Email: [Inners.Stephanie@gmail.com](mailto:inners.stephanie@gmail.com)
 
 GitHub: [github.com/Steph-Inners](https://github.com/steph-inners)
 
-GoodReads: [17924913-steph](https://www.goodreads.com/user/show/17924913-steph)
-
-Instagram: [@steph_inks](https://www.instagram.com/steph_inks/)
-
-RedBubble (art shop): [steph-inks.redbubble.com](http://steph-inks.redbubble.com)
 
 # Resume <a id="resume"> </a>
 
