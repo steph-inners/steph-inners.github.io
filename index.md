@@ -10,9 +10,7 @@
 
 <a href="mailto:inners.stephanie@gmail.com" target="_blank"><img class="icon" src="images\site assets\email.png">
 <a href="https://github.com/steph-inners" target="_blank"><img class="icon" src="images\site assets\github.png">
-<a href="https://www.instagram.com/steph_inks/" target="_blank"><img class="icon" src="images\site assets\instagram.png">
 <a href="http://steph-inks.redbubble.com" target="_blank"><img class="icon" src="images\site assets\redbubble.256x256.png">
-<a href="https://www.goodreads.com/user/show/17924913-steph" target="_blank"><img class="icon" src="images\site assets\goodreads.png">
 
 </div>
 
