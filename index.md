@@ -23,17 +23,18 @@
 <a href="#top">Return to top</a>
 
 1. [About me](https://steph-inners.github.io/#about)
-2. [Resume](https://steph-inners.github.io/#resume)
-3. [Code](https://steph-inners.github.io/#code)
+1. [Resume](https://steph-inners.github.io/#resume)
+   1. [Projects](https://steph-inners.github.io/#cool-things-ive-built)
+1. [Code](https://steph-inners.github.io/#code)
 	1. [Handy SQL tricks](https://steph-inners.github.io/#handy-sql-tricks)
-	2. [Data development heuristics](https://steph-inners.github.io/#heuristics-for-data-adjacent-developers)
-	3. [Intro to Records Retention](https://steph-inners.github.io/#how-records-retention-works)
-4. [Art](https://steph-inners.github.io/#art)
+	1. [Data development heuristics](https://steph-inners.github.io/#heuristics-for-data-adjacent-developers)
+	1. [Intro to Records Retention](https://steph-inners.github.io/#how-records-retention-works)
+1. [Art](https://steph-inners.github.io/#art)
    1. [Art shop](http://steph-inks.redbubble.com)
-   2. [My preferred toolset](https://steph-inners.github.io/#my-preferred-toolset)
-   3. [Tips for marker illustration](https://steph-inners.github.io/#markers-alcohol-based-vs-water-based)
-5. [Japanese language 日本語](https://steph-inners.github.io/#japanese-language)
-6. [Miscellany](https://steph-inners.github.io/#miscellany)
+   1. [My preferred toolset](https://steph-inners.github.io/#my-preferred-toolset)
+   1. [Tips for marker illustration](https://steph-inners.github.io/#markers-alcohol-based-vs-water-based)
+1. [Japanese language 日本語](https://steph-inners.github.io/#japanese-language)
+1. [Miscellany](https://steph-inners.github.io/#miscellany)
 
 </div>
 
@@ -295,11 +296,7 @@ A good RR tool allows you to define Document Types, Retention Triggers, and Rete
 
 # Art
 
-See my artwork on Instagram: [@steph_inks](https://www.instagram.com/steph_inks/)
-
-Art shop (prints, stickers, mugs, hats, etc.): [steph-inks.redbubble.com](http://steph-inks.redbubble.com/)
-
-I'm currently open to take commissions; email me at [Inners.Stephanie@gmail.com](mailto:inners.stephanie@gmail.com)
+See my art site at [https://steph-inks.com/](https://steph-inks.com/).
 
 ## My preferred toolset
 
