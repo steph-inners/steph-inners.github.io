@@ -121,6 +121,14 @@ The university where I worked at the time employed several Data Analysts who wer
 
  This was the university's first experiment with Azure hosting and with data warehousing, so I had no one to rely on but myself to ensure success. Back then I wasn't nearly as comfortable with star-schema fact/dimesion data warehouses, so I'm sure I made mistakes in design. But at the time it allowed much more rapid development of reports and offered some relief to our clever but overworked Data Analysts.
 
+### Overhaul of yearly academic reporting
+
+During my first year working for a university, I spent a ton of time with a Data Analyst manually updating hard-coded values in a massive legacy Power BI report that was required to be published at the end of each calendar year. The report was over 30 pages, and updating it each year required manually modifying formulas, changing titles and headers, resizing charts, and other horrific modifications that I've blocked out by now. The process had historically cost this Data Analyst *at least* 40 hours of boring, tedious, and meticulous manual labor each year. OUCH!
+
+By the end of summer the following year, I was already eyeing that dashboard again, determined to overhaul it to eliminate all those hard-coded values. Doing so required writing new views to pull in the required data, and updating each component of the report to take parameters instead of hard-coded values; I had to entirely re-think many of the charts and calculations.
+
+In the end product, the entire 30+ page report updated with a single button-click. I got a phone call from that Data Analyst later when I had moved to a different organization; he had been terrified to tackle the report by himself that year, but was so delighted when the full report ran without a hitch that he felt he had to call me on the spot to celebrate. I won't forget that one soon! :) 
+
 ### Registration Status reporting
 
 The end product here was a comprehensive dashboard in Power BI showing all aspects of student and course registration for a set of unique academic programs (things like enrollment counts, breakdown by major, credits earned, trends over time, etc.) I designed and built the underlying transactional and dimensional tables, and populated them automatically via stored procedures (with error and success logging and plenty of transformations where needed), pulling from various on-prem and cloud sources. I also designed and built the dashboard layout, metrics, and user access control based on requirements I collected from a series of talks with my internal clients.
