@@ -85,8 +85,8 @@ For a one-page copy of my resume with more detail and my LinkedIn profile, email
 
 - Test-Driven Development (TDD)
 - Azure data pipelines (Data Factory, Synapse, Data Bricks, etc.)
-- Python-based ETL/ELT
-- DevOps methodology and practices
+- Python
+- DevOps
 - Model-View-Controller (MVC)
 - Automated deployments with GitHub Actions
 - CI/CD (Continuous Integration / Continuous Delivery)
@@ -115,21 +115,23 @@ For a one-page copy of my resume with more detail and my LinkedIn profile, email
 
 This is a nonexhaustive list of some of my favorite tools/apps/processes I've built for various professional roles. In each of these projects I had at least the majority contribution in both design and development, *and* I had a lot of fun doing it.
 
-### Azure Reporting database
+### Azure Reporting data warehouse
 
-...
+The university where I worked at the time employed several Data Analysts who were skilled with Power BI, especially with the PBI Online variant. However, they didn't find our on-prem transactional databases very easy to use for reporting. I designed a Reporting data warehouse hosted in Azure, built the ETL pipelines ingesting source data from our on-prem transactional databases, and trained our Data Analysts on using it for reporting.
+
+ This was the university's first experiment with Azure hosting and with data warehousing, so I had no one to rely on but myself to ensure success. Back then I wasn't nearly as comfortable with star-schema fact/dimesion data warehouses, so I'm sure I made mistakes in design. But at the time it allowed much more rapid development of reports and offered some relief to our clever but overworked Data Analysts.
 
 ### Registration Status reporting
 
-The end product here was a comprehensive dashboard in Power BI showing all aspects of student and course registration for a set of unique academic programs (things like enrollment counts, breakdown by major, credits earned, trends over time, etc.) I designed and built the underlying relational and dimensional tables, and populated them automatically via stored procedures (with error and success logging and plenty of transformations where needed), pulling from various on-prem and cloud sources. I also designed and built the dashboard layout, metrics, and user access control based on requirements I collected from a series of talks with my internal clients.
+The end product here was a comprehensive dashboard in Power BI showing all aspects of student and course registration for a set of unique academic programs (things like enrollment counts, breakdown by major, credits earned, trends over time, etc.) I designed and built the underlying transactional and dimensional tables, and populated them automatically via stored procedures (with error and success logging and plenty of transformations where needed), pulling from various on-prem and cloud sources. I also designed and built the dashboard layout, metrics, and user access control based on requirements I collected from a series of talks with my internal clients.
 
-My favorite part of this project was a "transaction log" which tracked certain events that the clients considered significant, and highlighted those events within the dashboard. This made it much easier for the clients to intervene when a student needed guidance regarding their enrollments.
+My favorite part of this project was a "transaction log" which tracked certain events that the clients considered significant, and highlighted those events within the dashboard. This made it much easier for the business to intervene when a student needed guidance regarding their enrollments.
 
 ### Operational error/success logging
 
 A team that I came onto had been drowning in break/fix tickets for custom internal builds. Many of the tickets seemed recurring or at least similar, but there was no sense of the root cause and little capacity to look for one. I whipped up a quick and dirty success/error logging process in SQL and C#, including functions that could be called from custom code in both languages to log significant events/transactions in a central report in Power BI. It wasn’t beautiful (and I wish I could go back for enhancements), but the log enabled us to find some root cause issues, detect budding problems *before* they became tickets, and greatly reduce our incoming ticket volume.
 
-I loved this mini-project because though it was very technically basic, it had an immediate and powerful return, and it made life less stressful for everyone tasked with operations firefighting.
+I loved this mini-project because, though it was very technically basic, it had an immediate and powerful return, and it made life less stressful for everyone tasked with operations firefighting.
 
 ### Laserfiche search enhancements
 
@@ -137,7 +139,11 @@ I loved this mini-project because though it was very technically basic, it had a
 
 ### Complaint Log
 
-...
+Anyone who's worked in banking should be familiar with the federal government's regulatory requirements regarding the collection, resolution, and sometimes escalation of customer complaints. Managing complaints is extremely time-sensitive, and the unpredictable nature of customer complaints can leave front-line employees feeling lost.
+
+For this project, I worked with the Audit department to design a new complaint management system to replace a huge and unmanageable Excel spreadsheet. We designed intake forms together, and they helped me understand the chains of command where complaints should be escalated under a variety of circumstances. I designed and built an underlying set of SQL tables to track the status of active complaints, and the history of closed complaints. I also created GUI interfaces for Audit to drill into individual complaints for monitoring, without needing to understand SQL.
+
+If I had another chance at this project, I would love to offer that group some reporting dashboards for easier birds-eye views of the complaint "landscape."
 
 ## Friends & colleagues describe me as…
 
