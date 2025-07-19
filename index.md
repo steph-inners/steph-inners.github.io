@@ -124,11 +124,11 @@ The university where I worked at the time employed several Data Analysts who wer
 
 ### Overhaul of yearly academic reporting
 
-During my first year working for a university, I spent a ton of time with a Data Analyst manually updating hard-coded values in a massive legacy Power BI report that was required to be published at the end of each calendar year. The report was over 30 pages, and updating it each year required manually modifying formulas, changing titles and headers, resizing charts, and other horrific modifications that I've blocked out by now. The process had historically cost this Data Analyst *at least* 40 hours of boring, tedious, and meticulous manual labor each year. OUCH!
+During my first year working for a university, I spent a ton of time with a Data Analyst manually updating hard-coded values in a massive legacy Power BI report that was required to be published at the end of each calendar year. The report was over 30 pages, and updating it each year required manually modifying formulas, changing titles and headers, resizing charts, and other horrific modifications that I've blocked out by now. The process had historically cost this Data Analyst *over 80 hours* of boring, tedious, and meticulous manual labor each year. OUCH!
 
 By the end of summer the following year, I was already eyeing that dashboard again, determined to overhaul it to eliminate all those hard-coded values. Doing so required writing new views to pull in the required data, and updating each component of the report to take parameters instead of hard-coded values; I had to entirely re-think many of the charts and calculations.
 
-In the end product, the entire 30+ page report updated with a single button-click. I got a phone call from that Data Analyst later when I had moved to a different organization; he had been terrified to tackle the report by himself that year, but was so delighted when the full report ran without a hitch that he felt he had to call me on the spot to celebrate. I won't forget that one soon! :) 
+In the end product, the entire 30+ page report updated with 4 simple steps completed in under 10 min. I got a phone call from that Data Analyst later when I had moved to a different organization; he had been terrified to tackle the report by himself that year, but was so delighted when the full report ran without a hitch that he felt he had to call me on the spot to celebrate. I won't forget that one soon! :) 
 
 ### Registration Status reporting
 
